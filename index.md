@@ -15,10 +15,10 @@ sections:
           url: /upcoming-workshops-and-talks/
         - title: research participation
           description: Contribute to our knowledge
-          url: https://gmail.com
+          url: ""
         - title: resources
           description: View to learn more about ASD
-          url: /privacy/
+          url: ""
       variant: floating
       size: sm
       alignment: left
