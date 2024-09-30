@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Autism Collaborative
-      subtitle: Research | Training | Partnership
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
