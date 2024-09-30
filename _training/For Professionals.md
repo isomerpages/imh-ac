@@ -8,15 +8,15 @@ description: ""
 the quality of education and services of the professional community to
 serve the autism community. These include workshops and training programs
 catered to professionals with different level of expertise. We also hope
-to build a network of professionals who can reliably consult, and support
+to build a network of professionals who can reliably consult and support
 each other in the professional growth, and in turn benefit the autism community
-whom they serve. We believe there are many areas of expertise beyond the
-organizational boundaries and hope to work towards a sharing of knowledge
-not bound by these limits.</p>
-<h4></h4>
+whom they serve.</p>
+<p>We believe there are many areas of expertise beyond the organizational
+boundaries and hope to work towards a sharing of knowledge not bound by
+these limits.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>For <strong><em>all professionals</em></strong> (such as para-professionals,
+<p>For <strong><em>all professionals</em></strong> (e.g., para-professionals,
 educators):</p>
 </li>
 </ol>
