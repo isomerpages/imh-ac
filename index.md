@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Upcoming workshops/talks
           description: Click to find out more
-          url: https://google.com
+          url: /upcoming-workshops-and-talks/
         - title: research participation
           description: Contribute to our knowledge
           url: https://gmail.com
