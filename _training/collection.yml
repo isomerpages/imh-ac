@@ -2,4 +2,4 @@ collections:
   training:
     output: true
     order:
-      - Training.md
+      - For Professionals.md
