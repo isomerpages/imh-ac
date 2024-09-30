@@ -24,7 +24,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: INTERESTED?
+      title: Passionate About Autism?
       description: We look forward to having you be part of our network
       button: Join us now
       url: /register-your-interest-here/
