@@ -39,6 +39,8 @@ description: ""
 <p>Location: XXX</p>
 <p></p>
 <p>Open to everyone</p>
+<p></p>
+<p>Registration closes on XX</p>
 </td>
 </tr>
 <tr>
