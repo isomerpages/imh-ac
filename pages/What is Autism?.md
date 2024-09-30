@@ -8,7 +8,7 @@ description: ""
 an individual's social communication and interaction with their environment.
 Often, individuals with ASD face challenges in understanding and engaging
 with others socially, and may also encounter behavioural difficulties.</p>
-<p>Symptoms</p>
+<p></p>
 <p>While an exact prevalence rate has not been established, it is estimated
 that roughly 1% of the total population in Singapore is on the autism spectrum.
 While ASD can affect anyone, males are more likely to be diagnosed with
