@@ -22,9 +22,8 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: INTERESTED?
+      description: We look forward to having you be part of our network
+      button: Join us now
       url: /faq/
 ---
