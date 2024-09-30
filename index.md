@@ -10,14 +10,14 @@ sections:
       title: Autism Collaborative
       background: /images/hero-banner.png
       key_highlights:
+        - title: What is Autism?
+          description: View to learn more about ASD
+          url: ""
         - title: Upcoming workshops/talks
           description: Click to find out more
           url: /upcoming-workshops-and-talks/
         - title: research participation
           description: Contribute to our knowledge
-          url: ""
-        - title: latest resource
-          description: View to learn more about ASD
           url: ""
       variant: floating
       size: sm
