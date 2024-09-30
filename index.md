@@ -9,18 +9,20 @@ sections:
   - hero:
       title: Autism Collaborative
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Upcoming workshops/talks
+          description: Click here to find out more
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: research participation
+          description: Contribute to our knowledge
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: resources
+          description: View to learn more about ASD
           url: /privacy/
+      variant: floating
+      size: sm
+      alignment: left
+      backgroundColor: gray
   - infobar:
       title: INTERESTED?
       description: We look forward to having you be part of our network
