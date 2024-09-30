@@ -37,6 +37,8 @@ description: ""
 <p>Presenting speaker: XX</p>
 <p></p>
 <p>Location: XXX</p>
+<p></p>
+<p>Open to everyone</p>
 </td>
 </tr>
 <tr>
@@ -48,6 +50,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>xxx</p>
+<p></p>
+<p>open only to <strong>professionals</strong>
+</p>
 </td>
 </tr>
 </tbody>
