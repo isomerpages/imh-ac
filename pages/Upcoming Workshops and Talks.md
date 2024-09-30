@@ -57,4 +57,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Register your interest:</p>
+<p>[QR code]</p>
