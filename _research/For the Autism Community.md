@@ -4,12 +4,6 @@ permalink: /research/
 variant: tiptap
 description: ""
 ---
-<h3>For Professionals</h3>
-<p>We endeavour to support professionals keen in conducting research about
-autism, from providing mentorship to helping to reach out to potential
-participants. We encourage professionals to adopt research ideas by engaging
-the autism community in the spirit of co-creation.</p>
-<h3>For the Autism Community</h3>
 <p>By participating in research, the autism community not only contribute
 to causes they believe in but also support the acquisition of knowledge
 that can further the wellbeing and services for the autism community. We
@@ -22,3 +16,4 @@ network. Participants will receive information about studies seeking volunteers
 for participation, and also receive updates or reports about outcomes of
 studies.</p>
 <p></p>
+<p>Interested? Register your interest at this link!</p>
