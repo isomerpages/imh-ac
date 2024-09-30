@@ -1,8 +1,12 @@
 logo: /images/Autism_Collaborative_Logo_Complete_blue_1_nobackground.png
 links:
+  - title: Who we are
+    url: /example-page/
+  - title: Research
+    collection: example-folder
+  - title: Training
+    collection: example-folder
+  - title: Partnership
+    collection: example-folder
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
