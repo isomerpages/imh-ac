@@ -4,7 +4,6 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Who We Are</strong></h3>
 <p>We are a group of people working with people with Autism, who wants to
 promote the networking of professionals as well as individuals on the spectrum
 and their caregivers, to work together to better the lives of the autism
