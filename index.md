@@ -16,7 +16,7 @@ sections:
         - title: research participation
           description: Contribute to our knowledge
           url: ""
-        - title: resources
+        - title: latest resource
           description: View to learn more about ASD
           url: ""
       variant: floating
