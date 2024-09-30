@@ -25,5 +25,5 @@ sections:
       title: INTERESTED?
       description: We look forward to having you be part of our network
       button: Join us now
-      url: /faq/
+      url: /register-your-interest-here/
 ---
