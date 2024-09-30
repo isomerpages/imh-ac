@@ -16,4 +16,4 @@ ASD as compared to females.</p>
 <p></p>
 <p>Like everyone else, individuals with ASD are uniquely diverse - each possessing
 their own strengths, challenges and personalities.</p>
-<p>Click here if you wish to view more resources about ASD.</p>
+<p></p>
