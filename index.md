@@ -11,7 +11,7 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Upcoming workshops/talks
-          description: Click here to find out more
+          description: Click to find out more
           url: https://google.com
         - title: research participation
           description: Contribute to our knowledge
