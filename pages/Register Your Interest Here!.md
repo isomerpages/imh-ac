@@ -14,26 +14,22 @@ join our network! [Insert links and QR CODE]</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click <u>here</u> for the Parents Interest Form</p>
 <p></p>
+<p>Click <u>here</u> for the <strong>Parents Interest Form</strong>
+</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_Logo_20240912_blue_1.jpg">
 </div>
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Click <u>here</u> for the Professionals Interest Form</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<p>Click <u>here</u> for the <strong>Professionals Interest Form</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_Logo_20240912_blue_1.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
