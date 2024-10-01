@@ -18,7 +18,7 @@ sections:
           url: /upcoming-workshops-and-talks/
         - title: research participation
           description: Contribute to our knowledge
-          url: ""
+          url: /research-participation/
       variant: floating
       size: sm
       alignment: left
