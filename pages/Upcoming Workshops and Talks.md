@@ -59,5 +59,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Register your interest:</p>
-<p>[QR code]</p>
+<p>Please feel free to contact us (<em>EMAIL</em>) for more information and/or
+to register your interest.</p>
