@@ -4,11 +4,9 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Autism_Collaborative_Logo_Complete_blue_1_nobackground.png">
 </div>
-<p></p>
 <p>We are a group of people working with people with Autism, who wants to
 promote the networking of professionals as well as individuals on the spectrum
 and their caregivers, to work together to better the lives of the autism
