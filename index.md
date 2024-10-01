@@ -4,7 +4,7 @@ title: Autism Collaborative
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Upcoming workshop! XXX
 sections:
   - hero:
       title: Autism Collaborative
@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: What is Autism?
           description: View to learn more about ASD
-          url: ""
+          url: /what-is-autism/
         - title: Upcoming workshops/talks
           description: Click to find out more
           url: /upcoming-workshops-and-talks/
