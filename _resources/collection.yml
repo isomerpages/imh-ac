@@ -1,5 +1,4 @@
 collections:
   resources:
     output: true
-    order:
-      - HMDP Programme 2024.md
+    order: []
