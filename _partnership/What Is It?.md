@@ -13,8 +13,9 @@ with the professional community.</p>
 <p>We would like to build a platform and network whereby individuals with
 autism and their families can come together to access services, or even
 help build and provide services in their own capacity.</p>
-<p>We would like to invite participation in many programs, such as:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participating as volunteers for
-professionals' intervention and/or diagnosis training programs</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participating in sharing sessions
-and/or joining in activities to support advocacy of the autism community</p>
+<p>We would like to invite participation in many programs, such as participating
+in ...</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professionals' intervention and/or
+diagnosis training programs as volunteers</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sharing sessions and/or joining
+in activities to support advocacy of the autism community</p>
