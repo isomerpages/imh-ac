@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Upcoming Workshops and Talks/.keep
-      - Upcoming Workshops and Talks.md
       - For Professionals.md
