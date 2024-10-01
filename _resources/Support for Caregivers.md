@@ -7,7 +7,7 @@ description: ""
 <h4>Caregiver Support Groups in Singapore:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.facebook.com/ANeurodiversityRoadOfLoveSg/" rel="noopener nofollow" target="_blank">A Neurodiversity Road of Love</a> 
+<p><a href="https://www.facebook.com/ANeurodiversityRoadOfLoveSg/" rel="noopener nofollow" target="_blank">A Neurodiversity Road of Love</a>
 </p>
 </li>
 <li>
