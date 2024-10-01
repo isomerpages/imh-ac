@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Click the link or scan the QR codes below to register your interest to
-join our network!</p>
-<p>[Insert links and QR CODE]</p>
+join our network! [Insert links and QR CODE]</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
