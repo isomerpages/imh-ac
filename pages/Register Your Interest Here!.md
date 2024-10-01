@@ -4,4 +4,6 @@ permalink: /register-your-interest-here/
 variant: tiptap
 description: ""
 ---
-<p>LINK...</p>
+<p>Scan the QR code below to register your interest to join our network!</p>
+<p></p>
+<p>[QR CODE]</p>
