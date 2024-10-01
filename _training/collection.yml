@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Upcoming Workshops and Talks/HMDP Programme 2024.md
       - Upcoming Workshops and Talks/Upcoming Workshops and Talks.md
       - Upcoming Workshops and Talks/.keep
       - For Professionals.md
