@@ -17,7 +17,6 @@ join our network! [Insert links and QR CODE]</p>
 <p></p>
 <p>Click <u>here</u> for the <strong>Parents Interest Form</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_Logo_20240912_blue_1.jpg">
 </div>
