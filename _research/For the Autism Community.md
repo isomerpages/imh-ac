@@ -15,8 +15,7 @@ a culture of communication and bridging understanding.</p>
 network. Participants will receive information about studies seeking volunteers
 for participation, and also receive updates or reports about outcomes of
 studies.</p>
-<p></p>
-<p>Please feel free to contact us (<em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a></em>)
-for more information and/or to register your interest.</p>
-<p>Alternatively, you may <em><u>click here</u></em> to scan the QR code to
-be part of our research network.</p>
+<p>Please feel free to contact us <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a></em> for
+more information.</p>
+<p>Click <em><u>here</u></em> to scan the QR code to be part of our research
+network.</p>
