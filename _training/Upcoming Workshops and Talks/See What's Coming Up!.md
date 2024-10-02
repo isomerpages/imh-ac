@@ -60,5 +60,5 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 </tbody>
 </table>
-<p>Please feel free to contact us (<em>EMAIL</em>) for more information and/or
-to register your interest.</p>
+<p>Please feel free to contact us (<em>autism_research@imh.com.sg</em>) for
+more information and/or to register your interest.</p>
