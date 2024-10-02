@@ -20,4 +20,4 @@ diagnosis training programs as volunteers</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sharing sessions and/or joining
 in activities to support advocacy of the autism community</p>
 <p>You may <em><u>click here</u></em> to scan the QR code to be part of our
-network.</p>
+partnership network</p>
