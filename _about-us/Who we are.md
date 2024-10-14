@@ -16,7 +16,6 @@ platform where professionals and the autism community can come together
 to access resources, co-create and collaborate, participate in research
 programs and promote the knowledge of and skillsets of professionals seeking
 to work with the autism community.</p>
-<p></p>
 <p>In collaboration with:</p>
 <table style="minWidth: 75px">
 <colgroup>
