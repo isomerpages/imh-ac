@@ -9,7 +9,7 @@ notification: HMDP sharing with visiting expert Prof Roy McConkey will be
 sections:
   - hero:
       title: Autism Collaborative
-      background: /images/hero-banner.png
+      background: /images/ac_website_banner.jpg
       key_highlights:
         - title: What is Autism?
           description: View to learn more about ASD
@@ -22,7 +22,7 @@ sections:
           url: /ongoing-research-projects/
       variant: floating
       size: sm
-      alignment: left
+      alignment: right
       backgroundColor: gray
   - infobar:
       title: Passionate About Autism?
