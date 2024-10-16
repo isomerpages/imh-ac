@@ -24,7 +24,8 @@ you on your eligibility.
 </p>
 <p>A: Commitment level would depend on whether you are a professional or
 a member of the Autism community and the AC activities you sign up for.
-What's most important is to have a heart for the Autism community in Singapore.</p>
+Be assured that you are not obligated to participate in any AC activities.
+What's most important is to have a heart for the Autism community in Singapore!</p>
 <p></p>
 </li>
 </ol>
