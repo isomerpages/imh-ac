@@ -4,7 +4,10 @@ permalink: /faq/general/
 variant: tiptap
 description: ""
 ---
-<p>Q: What does AC hope to achieve?</p>
+<p>Q: What does AC aim to achieve?
+<br>We hope to create a network of professionals and individuals of the Autism
+community to grow our knowledge and understanding of Autism, thereby increasing
+our capacity to support this community. See more here.</p>
 <p>Q: I am a general public member who wants to learn more about ASD. If
 I am neither a professional nor a member of the Autism community, can I
 still join the AC network?
