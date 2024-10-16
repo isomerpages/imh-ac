@@ -16,7 +16,7 @@ sections:
           url: /what-is-autism/
         - title: Upcoming workshops/talks
           description: Click to find out more
-          url: /upcoming-workshops-and-talks/
+          url: /training/upcoming-workshops-and-talks/see-whats-coming-up/
       variant: floating
       size: sm
       alignment: left
