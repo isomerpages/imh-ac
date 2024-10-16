@@ -3,7 +3,7 @@ url: https://www.asdcollaborative.sg
 favicon: /images/Autism_Collaborative_Logo_blue_1_nobackground.png
 colors:
   primary-color: "#10527e"
-  secondary-color: "#de6872"
+  secondary-color: "#ec7f5b"
   media-colors:
     - title: media-color-one
       color: "#353a47"
