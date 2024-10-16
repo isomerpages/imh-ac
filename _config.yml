@@ -2,11 +2,11 @@ title: Autism Collaborative
 url: https://www.asdcollaborative.sg
 favicon: /images/Autism_Collaborative_Logo_blue_1_nobackground.png
 colors:
-  primary-color: "#6031b6"
+  primary-color: "#e5d4ce"
   secondary-color: "#2a4582"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#e56399"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
