@@ -9,9 +9,9 @@ description: ""
 activities you signed up for. Please find more information about specific
 AC activities on our website. Be assured that you are not obligated to
 participate in any AC activities.</p>
-<p><strong>Q: How can I contribute to the AC network as a caregiver of a person with Autism?</strong> 
+<p><strong>Q: How can I contribute to the AC network as a person with Autism or a caregiver of a person with Autism?</strong> 
 <br>You can work in partnership with us by volunteering your time to share
 your knowledge and experiences with professionals at various AC activities.
-See more <a href="https://www.asdcollaborative.sg/partnership/what-is-it/" rel="noopener nofollow" target="_blank">here</a>.
-Do join our network and we will update you when there are activities that
-may interest you!</p>
+You may also be eligible to participate in some research projects to help
+further our understanding of ASD. Do join our network and we will update
+you when there are activities that may interest you!</p>
