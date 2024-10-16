@@ -11,7 +11,7 @@ our capacity to support the community. See more <a href="https://asdcollaborativ
 <p><strong>Q: I am a general public member who wants to learn more about ASD. If I am neither a professional nor a member of the Autism community, can I still join the AC network? </strong>
 <br>A: Drop us an email <a href="https://www.asdcollaborative.sg/contact-us/" rel="noopener nofollow" target="_blank">here</a> to
 let us know that you are interested in joining us. You may also wish to
-indicate your interest in specific AC activities and we will get back to
+indicate your interest in specific AC programmes and we will get back to
 you on your eligibility.</p>
 <p><strong>Q: What is the commitment level for joining the AC network? </strong>
 <br>A: Commitment level would depend on whether you are a professional or
