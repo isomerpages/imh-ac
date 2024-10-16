@@ -20,7 +20,7 @@ the capacity to care for others.</p>
 <p>Eat a well-balanced diet</p>
 </li>
 <li>
-<p>Engage in an acitivity you enjoy</p>
+<p>Engage in an activity you enjoy</p>
 </li>
 <li>
 <p>Stay connected to your loved ones</p>
