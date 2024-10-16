@@ -8,7 +8,7 @@ description: ""
 <br>We hope to create a network of professionals and individuals in the autism
 community to grow our knowledge and understanding of autism, thereby increasing
 our capacity to support the community. See more <a href="https://asdcollaborative.sg/about-us/who-we-are/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><strong>Q: I am a general public member who wants to learn more about ASD. If I am neither a professional nor a member of the Autism community, can I still join the AC network? </strong>
+<p><strong>Q: I am a general public member who wants to learn more about autism. If I am neither a professional nor a member of the autism community, can I still join the AC network? </strong>
 <br>A: Drop us an email <a href="https://www.asdcollaborative.sg/contact-us/" rel="noopener nofollow" target="_blank">here</a> to
 let us know that you are interested in joining us. You may also wish to
 indicate your interest in specific AC programmes and we will get back to
