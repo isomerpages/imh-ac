@@ -16,12 +16,10 @@ platform where professionals and the autism community can come together
 to access resources, co-create and collaborate, participate in research
 programs and promote the knowledge of and skillsets of professionals seeking
 to work with the autism community.</p>
-<p>In collaboration with:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/IMH_Logo.png">
-</div>
 <p></p>
+<p></p>
+<h4><strong>In collaboration with:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NUH_Logo_RGB_endorsement__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMH__NUH_logo.png">
 </div>
 <p></p>
