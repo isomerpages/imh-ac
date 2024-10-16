@@ -9,7 +9,8 @@ description: ""
 activities you signed up for. Please find more information about specific
 AC activities on our website. Be assured that you are not obligated to
 participate in any AC activities.</p>
-<p>Q: As a caregiver of a person with Autism, I would like to volunteer with
-AC? How can I contribute to the AC network?
-<br>
-</p>
+<p><strong>Q: How can I contribute to the AC network as a caregiver of a person with Autism?</strong> 
+<br>You can work in partnership with us by volunteering your time to share
+your knowledge and experiences with professionals at various AC activities.
+See more here. Do join our network and we will get back to you with activities
+you may be interested in!</p>
