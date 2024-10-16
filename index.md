@@ -21,7 +21,7 @@ sections:
           description: Contribute to our knowledge
           url: /ongoing-research-projects/
       variant: floating
-      size: sm
+      size: md
       alignment: left
       backgroundColor: gray
   - infobar:
