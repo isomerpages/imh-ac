@@ -1,5 +1,4 @@
 collections:
   faqs:
     output: true
-    order:
-      - For Professionals.md
+    order: []
