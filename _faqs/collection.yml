@@ -2,5 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - For Professionals.md
       - General.md
+      - For Professionals.md
