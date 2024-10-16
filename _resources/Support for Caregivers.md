@@ -14,7 +14,7 @@ the capacity to care for others.</p>
 <p>Meditation</p>
 </li>
 <li>
-<p>Get proper rest</p>
+<p>Get proper sleep</p>
 </li>
 <li>
 <p>Eat a well-balanced diet</p>
@@ -23,10 +23,14 @@ the capacity to care for others.</p>
 <p>Engage in an activity you enjoy</p>
 </li>
 <li>
+<p>Set aside "me-time" to rest and relax</p>
+</li>
+<li>
 <p>Stay connected to your loved ones</p>
 </li>
 <li>
 <p>Reach out for support</p>
+<p></p>
 </li>
 </ul>
 <h4>Some Caregiver Support Groups in Singapore:</h4>
