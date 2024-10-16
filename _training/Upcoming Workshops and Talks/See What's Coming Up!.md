@@ -25,7 +25,7 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct - 25 Oct 2024</p>
+<p>21 Oct 2024 - 25 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HMDP Visiting Expert in Improving Care for Children Living with Autism
