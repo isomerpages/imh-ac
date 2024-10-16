@@ -9,7 +9,7 @@ description: ""
 training activities you signed up for. Please find more information about
 specific AC programmes on our website. Be assured that you are not obligated
 to participate in any of our programmes.</p>
-<p><strong>Q: I am a professional who is not working in the Autism field. Can I still join the professionals network and participate in the programmes? </strong>
+<p><strong>Q: I am a professional who is not working in the autism field. Can I still join the professionals network and participate in the programmes? </strong>
 <br>A: Rest assured that not all programmes conducted by AC require prior
 expertise in the autism field. Professionals who wish to learn more about
 Autism Spectrum Disorder (ASD) are welcome to participate in training programmes.
