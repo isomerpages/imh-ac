@@ -17,9 +17,6 @@ sections:
         - title: Upcoming workshops/talks
           description: Click to find out more
           url: /upcoming-workshops-and-talks/
-        - title: research participation
-          description: Contribute to our knowledge
-          url: /ongoing-research-projects/
       variant: floating
       size: sm
       alignment: left
