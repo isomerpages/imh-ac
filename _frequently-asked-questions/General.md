@@ -16,6 +16,6 @@ you on your eligibility.</p>
 <p><strong>Q: What is the commitment level for joining the AC network? </strong>
 <br>A: Commitment level would depend on whether you are a professional or
 a member of the autism community and the AC activities you sign up for.
-Be assured that you are not obligated to participate in any AC activities.
+Be assured that you are not obligated to participate in any of our programmes.
 What's most important is to have a heart for the autism community in Singapore!</p>
 <p></p>
