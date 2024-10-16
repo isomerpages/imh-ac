@@ -7,12 +7,12 @@ description: ""
 <p><strong>Q: What is the commitment level for professionals who are part of the network? </strong>
 <br>A: Commitment level differs depending on the specific research and/or
 training activities you signed up for. Please find more information about
-specific AC activities programmes on our website. Be assured that you are
-not obligated to participate in any of our programmes.</p>
+specific AC programmes on our website. Be assured that you are not obligated
+to participate in any of our programmes.</p>
 <p><strong>Q: I am a professional who is not working in the Autism field. Can I still join the professionals network and participate in the programmes? </strong>
 <br>A: Rest assured that not all programmes conducted by AC require prior
 expertise in the autism field. Professionals who wish to learn more about
-Autism Spectrum Disorder are welcome to participate in training programmes.
+Autism Spectrum Disorder (ASD) are welcome to participate in training programmes.
 However, certain programmes may require participants to be equipped with
 certain knowledge and experience. To find out if the specific programmes
 are suitable for you, please refer to the eligibility criteria of the programme
