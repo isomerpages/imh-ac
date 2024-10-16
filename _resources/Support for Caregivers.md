@@ -4,23 +4,6 @@ permalink: /support-for-caregivers/
 variant: tiptap
 description: ""
 ---
-<h4>Caregiver Support Groups in Singapore:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.facebook.com/ANeurodiversityRoadOfLoveSg/" rel="noopener nofollow" target="_blank">A Neurodiversity Road of Love</a>
-</p>
-</li>
-<li>
-<p>ADHD/ASD Warriors Singapore</p>
-</li>
-<li>
-<p>Autism Bridge Strategy Group</p>
-</li>
-<li>
-<p>SCALD (Special Children With Autism &amp; Learning Disabilities Support
-Group)</p>
-</li>
-</ul>
 <h4>Self-care Tips:</h4>
 <p>Often, caregivers of individuals with ASD may prioritise the needs of
 those they care for over their own well-being. It is important for caregivers
@@ -31,7 +14,38 @@ the capacity to care for others.</p>
 <p>Meditation</p>
 </li>
 <li>
-<p>xxx</p>
+<p>Get proper rest</p>
+</li>
+<li>
+<p>Eat a well-balanced diet</p>
+</li>
+<li>
+<p>Engage in an acitivity you enjoy</p>
+</li>
+<li>
+<p>Stay connected to your loved ones</p>
+</li>
+<li>
+<p>Reach out for support</p>
+</li>
+</ul>
+<h4>Some Caregiver Support Groups in Singapore:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.facebook.com/ANeurodiversityRoadOfLoveSg/" rel="noopener nofollow" target="_blank">A Neurodiversity Road of Love</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/groups/576018739565772/" rel="noopener nofollow" target="_blank">ADHD/ASD Warriors Singapore</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/groups/AutismBridge.StrategyGroup/" rel="noopener nofollow" target="_blank">Autism Bridge Strategy Group</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/groups/867532560256848/" rel="noopener nofollow" target="_blank">Embrace Autism Group</a>
+</p>
 </li>
 </ul>
 <p></p>
