@@ -2,5 +2,6 @@ collections:
   faqs:
     output: true
     order:
+      - For the Autism Community and Caregivers.md
       - General.md
       - For Professionals.md
