@@ -25,37 +25,20 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eg., 1 Jan 2024</p>
-<p></p>
-<p>2-3pm</p>
+<p>21 Oct - 25 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn about ASD</p>
-<p></p>
-<p>(brief info about talk)</p>
+<p>HMDP Visiting Expert in Improving Care for Children Living with Autism
+and Intellectual Disability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presenting speaker: XX</p>
+<p>Expert: Robert McConkey</p>
 <p></p>
-<p>Location: XXX</p>
+<p>Hosting Institution: Institute of Mental Health</p>
 <p></p>
-<p>Open to everyone</p>
+<p>Open to: Professionals only</p>
 <p></p>
-<p>Registration closes on XX</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>xxx</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xxx</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xxx</p>
-<p></p>
-<p>open only to <strong>professionals</strong>
-</p>
+<p>Registration: Closed</p>
 </td>
 </tr>
 </tbody>
