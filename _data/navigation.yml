@@ -1,7 +1,7 @@
 logo: /images/Autism_Collaborative_Logo_Complete_blue_1_nobackground.png
 links:
   - title: About Us
-    collection: about-us
+    url: /about-us/who-we-are/
   - title: Research
     collection: research
   - title: Training
