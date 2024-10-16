@@ -4,7 +4,7 @@ permalink: /faq/for-professionals/
 variant: tiptap
 description: ""
 ---
-<p><strong>Q: What is the commitment level for professionals like? </strong>
+<p><strong>Q: What is the commitment level for professionals? </strong>
 <br>A: Commitment level differs depending on which AC research and/or training
 activities you signed up for. Please find more information about specific
 AC activities on our website. Be assured that you are not obligated to
