@@ -25,5 +25,10 @@ of differing expertise. Please refer to the eligibility criteria of each
 programme before registering your interest. If you are unsure of your eligibility
 for a particular research and/or training programme, you may send in an
 enquiry with us <a href="https://asdcollaborative.sg/contact-us/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
+<p><strong>Q: How can the Autism Collaborative support my research work?</strong>
+<br>A: If you intend to conduct or are already conducting research about autism,
+please write in to us so that we may support you according to your study's
+needs. We may put up information regarding your study on our website, thus
+helping with participant recruitment or awareness about your study. If
+you are keen, we may also provide mentorship and guidance where appropriate.</p>
 <p></p>
