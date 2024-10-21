@@ -2,4 +2,5 @@ collections:
   partnership:
     output: true
     order:
+      - What's Coming Up?.md
       - What Is It?.md
