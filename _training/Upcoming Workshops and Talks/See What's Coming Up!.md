@@ -62,7 +62,7 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7-9 July 2925 (Tentative dates)</p>
+<p>7-9 July 2025 (Tentative dates)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ADI-R Training Workshop</p>
