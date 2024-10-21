@@ -20,6 +20,7 @@ to work with the autism community.</p>
 <p></p>
 <h4><strong>In collaboration with:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMH__NUH_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_Collaborating_Institutions.png">
 </div>
+<p></p>
 <p></p>
