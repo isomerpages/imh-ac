@@ -1,0 +1,7 @@
+collections:
+  training:
+    output: true
+    order:
+      - For Professionals.md
+      - Upcoming Workshops and Talks/.keep
+      - Upcoming Workshops and Talks/See What's Coming Up!.md

@@ -1,32 +1,29 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Autism Collaborative
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: HMDP sharing with visiting expert Prof Roy McConkey will be
+  happening from 21 to 25 October 2024!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Autism Collaborative
+      background: /images/AC_Website_Banner_1.png
+      key_highlights:
+        - title: What is Autism?
+          description: View to learn more about ASD
+          url: /what-is-autism/
+        - title: Upcoming workshops/talks
+          description: Click to find out more
+          url: /training/upcoming-workshops-and-talks/see-whats-coming-up/
+      variant: floating
+      size: sm
+      alignment: left
+      backgroundColor: gray
+  - infobar:
+      title: Passionate About Autism?
+      description: We look forward to having you be part of our network
+      button: Join us now
+      url: /register-your-interest-here/
 ---
-

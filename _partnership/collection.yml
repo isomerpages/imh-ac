@@ -1,0 +1,7 @@
+collections:
+  partnership:
+    output: true
+    order:
+      - What Is It?.md
+      - Upcoming Partnerships/.keep
+      - Upcoming Partnerships/See What's Coming Up!.md

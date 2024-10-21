@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Autism_Collaborative_Logo_Complete_blue_1_nobackground.png
 links:
+  - title: About Us
+    url: /about-us/who-we-are/
+  - title: Research
+    collection: research
+  - title: Training
+    collection: training
+  - title: Partnership
+    collection: partnership
+  - title: Resources
+    collection: resources
+  - title: FAQ
+    collection: frequently-asked-questions
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

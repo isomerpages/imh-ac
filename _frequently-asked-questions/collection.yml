@@ -1,0 +1,7 @@
+collections:
+  frequently-asked-questions:
+    output: true
+    order:
+      - General.md
+      - For Professionals.md
+      - For the Autism Community and Caregivers.md
