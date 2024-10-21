@@ -37,7 +37,9 @@ description: ""
 <p>May require parent/caregiver to accompany</p>
 </li>
 <li>
-<p>Consent for recording of the session for professional training is required</p>
+<p><strong>Consent for recording</strong> of the session for professional
+training is <strong>required</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -54,7 +56,9 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Consent for recording of the session for professional training is required</p>
+<p><strong>Consent for recording</strong> of the session for professional
+training is <strong>required</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -68,7 +72,8 @@ description: ""
 from healthcare organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For parents/caregivers with children with ASD below 12 years old</p>
+<p>For parents/caregivers with children with ASD <strong>below 12 years old</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +85,8 @@ from healthcare organisations?</p>
 from healthcare organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For parents/caregivers with children with ASD above 12 years old</p>
+<p>For parents/caregivers with children with ASD <strong>above 12 years old</strong>
+</p>
 </td>
 </tr>
 <tr>
