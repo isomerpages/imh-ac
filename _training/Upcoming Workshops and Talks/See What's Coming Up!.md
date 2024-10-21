@@ -14,13 +14,13 @@ third_nav_title: Upcoming Workshops and Talks
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date/time</p>
+<p>Date &amp; Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Workshop/Talk</p>
+<p>Programme</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Details/notes</p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
