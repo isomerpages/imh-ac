@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p>Date &amp; Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Programme</p>
