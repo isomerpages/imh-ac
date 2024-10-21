@@ -69,8 +69,8 @@ training is <strong>required</strong>
 <p>10 January 2025, 3pm-4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discussion Group: What services/programmes do you think your child requires
-from healthcare organisations?</p>
+<p>Discussion Group: What services or programmes do you think your child
+requires from healthcare organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents/caregivers with children with ASD <strong>below 12 years old</strong>
@@ -82,8 +82,8 @@ from healthcare organisations?</p>
 <p>17 January 2025, 3pm-4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discussion Group: What services/programmes do you think your child requires
-from healthcare organisations?</p>
+<p>Discussion Group: What services or programmes do you think your child
+requires from healthcare organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents/caregivers with children with ASD <strong>above 12 years old</strong>
@@ -96,7 +96,7 @@ from healthcare organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discussion Group:</p>
-<p>What services/programmes do you think you need?</p>
+<p>What services or programmes do you think you need?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For persons with ASD</p>
