@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources/.keep
       - Useful Books/.keep
       - Online Resources/.keep
       - Support for Caregivers.md
