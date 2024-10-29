@@ -24,7 +24,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Therapeutic Horticulture Programme (National Parks Board)</p>
+<p><a href="https://www.nparks.gov.sg/gardens-parks-andnature/therapeutic-gardens/therapeutic-horticultureprogrammes" rel="noopener nofollow" target="_blank">Therapeutric Horticulture Programme (National Parks Board)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Engage in activities such as:</p>
@@ -50,8 +51,7 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.nparks.gov.sg/gardens-parks-andnature/therapeutic-gardens/therapeutic-horticultureprogrammes" rel="noopener noreferrer nofollow" target="_blank">https://www.nparks.gov.sg/gardens-parks-andnature/therapeutic-gardens/therapeutic-horticultureprogrammes</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
