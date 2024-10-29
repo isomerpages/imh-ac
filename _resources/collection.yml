@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Community Resources (Culinary Arts).md
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
@@ -19,4 +18,5 @@ collections:
       - Community Resources (Arts)/Arts & Craft.md
       - Community Resources (Arts)/Mixed Arts.md
       - Community Resources (Arts)/Others.md
+      - Community Resources (Culinary Arts).md
       - Support for Caregivers.md
