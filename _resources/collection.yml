@@ -2,13 +2,13 @@ collections:
   resources:
     output: true
     order:
-      - Community Resources (Arts)/.keep
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
       - Online Resources/Caregiver Resources.md
       - Recommended Books/.keep
+      - Community Resources (Sports)/.keep
       - Community Resources (Sports)/Swimming.md
       - Community Resources (Sports)/Cycling.md
-      - Community Resources (Sports)/.keep
+      - Community Resources (Arts)/.keep
       - Support for Caregivers.md
