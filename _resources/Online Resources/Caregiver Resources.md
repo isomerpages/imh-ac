@@ -22,6 +22,11 @@ resources useful!</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Academy of Medicine, Singapore. (2023). <a href="https://www.ams.edu.sg/view-pdf.aspx?file=media%5c6917_fi_934.pdf&amp;ofile=2023+CPG+on+ASD+in+Children+and+Adolescents+Lay+Version.pdf" rel="noopener nofollow" target="_blank">2023 Clinical Practice Guideline on Autism Spectrum Disorder In Children And Adolescents: Lay version.</a> Academy
 of Medicine, Singapore.</p>
@@ -57,43 +62,45 @@ student care centers, and guidance on financial and employment support.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h4>Financial Resources</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://supportgowhere.life.gov.sg" rel="noopener nofollow" target="_blank">SupportGoWhere</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>A government platform offering information on various financial assistance
+schemes, including support for families with special needs children.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.babybonus.msf.gov.sg/Pages/Home.aspx" rel="noopener nofollow" target="_blank">MSF Baby Bonus</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Ministry of Social and Family Development (MSF) provides inform\ation
+on financial incentives and support for Singaporean families to assist
+with the cost of raising children.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Educational Resources</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.moe.gov.sg/special-educational-needs" rel="noopener nofollow" target="_blank">MOE Special Educational Needs Information, Educational Pathways and SPED School Application</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Ministry of Education (MOE) offers information about educational pathways,
+special education (SPED) schools, and support for students with special
+educational needs.</p>
 </td>
 </tr>
 <tr>
