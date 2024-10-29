@@ -63,6 +63,36 @@ student care centers, and guidance on financial and employment support.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<h4>Self-Care &amp; Burnout</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.aic.sg/resources/Documents/Brochures/Caregiving%20Support/Caregiver%20Burnout%20Guide%20EN.pdf" rel="noopener nofollow" target="_blank">A Caregiver's Guide to Avoid Burnout</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Agency for Integrated Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4>Financial Resources</h4>
 </td>
 </tr>
