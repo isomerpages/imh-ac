@@ -82,7 +82,7 @@ schemes, including support for families with special needs children.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Ministry of Social and Family Development (MSF) provides inform\ation
+<p>The Ministry of Social and Family Development (MSF) provides information
 on financial incentives and support for Singaporean families to assist
 with the cost of raising children.</p>
 </td>
