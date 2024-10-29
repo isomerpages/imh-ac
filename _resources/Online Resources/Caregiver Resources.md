@@ -7,6 +7,8 @@ third_nav_title: Online Resources
 ---
 <p>Families and caregivers of persons with autism may find the following
 resources useful!</p>
+<p><sub>*ASD (Autism Spectrum Disorder); ID (Intellectual Disability); PD (Physical Disability); MD (Multiple Disabilities)</sub>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,23 +74,28 @@ student care centers, and guidance on financial and employment support.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Agency for Integrated Care</p>
+<p>The Agency for Integrated Care's (AIC) informative booklet that provides
+insights on topics such as caregiver’s feelings, stressors, as well as
+the tips and resources they may refer to.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/burnout-guide.pdf?sfvrsn=5c9155cb_0" rel="noopener nofollow" target="_blank">Caregivers Asia</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Self-care tips and videos for caregivers that can be done at home.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Physiotherapy/CarersXPhysios/Pages/Self-Care-Tips.aspx" rel="noopener nofollow" target="_blank">Carer365</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Tock Seng Hospital's self-care tips and videos for caregivers that
+can be done at home.</p>
 </td>
 </tr>
 <tr>
@@ -131,6 +138,144 @@ with the cost of raising children.</p>
 <p>The Ministry of Education (MOE) offers information about educational pathways,
 special education (SPED) schools, and support for students with special
 educational needs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Lived Experience</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Others</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
