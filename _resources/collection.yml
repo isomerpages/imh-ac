@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Online Resources/Caregiver Resources.md
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
+      - Online Resources/Caregiver Resources.md
       - Recommended Books/.keep
       - Community Resources/.keep
       - Support for Caregivers.md
