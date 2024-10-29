@@ -23,10 +23,22 @@ resources useful!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.enablingguide.sg/caregiver-learning-roadmap" rel="noopener nofollow" target="_blank">Enabling Guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This resource is tailored for caregivers, offering strategies, tips, and
+services for empowering caregivers of individuals with disabilities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sgenable.sg/your-first-stop/disability-support" rel="noopener nofollow" target="_blank">SGEnable: For Youths with Disabilities</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SG Enable provides resources for youths with disabilities, including special
+student care centers, and guidance on financial and employment support.</p>
 </td>
 </tr>
 <tr>
