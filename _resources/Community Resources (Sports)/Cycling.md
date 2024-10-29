@@ -71,17 +71,6 @@ Lesson: $60/per hour</p>
 <p>Location: 78 Moh Guan Terrace, Block 78, Singapore 162078</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
