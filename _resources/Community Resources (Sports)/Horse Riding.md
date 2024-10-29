@@ -109,7 +109,7 @@ and adults with physical and mental disabilities.</p>
 <p></p>
 <p>Tel: 6250 0176</p>
 <p></p>
-<p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a> 
+<p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a>
 </p>
 <p></p>
 <p></p>
