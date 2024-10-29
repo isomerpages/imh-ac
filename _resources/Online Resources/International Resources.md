@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Online Resources
 ---
-<p></p>
+<p>View the following online resources for more information on autism!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
