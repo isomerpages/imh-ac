@@ -73,17 +73,6 @@ and caregiver support.</p>
 autism, including its symptoms, diagnosis, and available support resources.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Academy of Medicine, Singapore. (2023). <a href="https://www.ams.edu.sg/view-pdf.aspx?file=media%5c6917_fi_934.pdf&amp;ofile=2023+CPG+on+ASD+in+Children+and+Adolescents+Lay+Version.pdf" rel="noopener nofollow" target="_blank">2023 Clinical Practice Guideline on Autism Spectrum Disorder In Children And Adolescents: Lay version.</a> Academy
-of Medicine, Singapore.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The 2023 guidelines have been expanded to include older children and adolescents,
-with new/expanded topics on Co-occurring Conditions, Education and Transition,
-Follow-up and Prognosis, and Professional Training.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
