@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources (Arts)/.keep
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
