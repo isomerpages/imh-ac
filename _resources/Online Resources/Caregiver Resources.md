@@ -165,10 +165,38 @@ educational needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.aic.sg/financial-assistance/caregivers-training-grant" rel="noopener nofollow" target="_blank">Information on Caregivers Training Grant (CTG)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The Caregivers Training Grant (CTG) is a $200 annual subsidy for caregiving-related
+courses.</p>
 <p></p>
+<p>Eligibility Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Care Recipient:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SG/PR, aged 65 or older OR</p>
+</li>
+<li>
+<p>Have a disability as by a qualified healthcare practitioner</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Caregiver:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Any family member and foreign domestic worker caring for the care recipient</p>
+</li>
+<li>
+<p>Complete the course and receive certification (if provided)</p>
+</li>
+</ul>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
