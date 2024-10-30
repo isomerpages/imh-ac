@@ -25,7 +25,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Equal Ark</p>
+<p><a href="https://www.equal.org.sg/" rel="noopener nofollow" target="_blank">Equal Ark</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Horse Therapy to build the child’s socio-emotional skills</p>
@@ -56,9 +57,6 @@ third_nav_title: Community Resources (Sports)
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.equal.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.equal.org.sg/</a>
-</p>
-<p></p>
 <p>Tel: 6904 0422</p>
 <p></p>
 <p>Email:</p>
@@ -72,7 +70,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Riding for the Disabled Association</p>
+<p><a href="http://rdasingapore.org/" rel="noopener nofollow" target="_blank">Riding for the Disabled Association</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Charity that provides free equine-assisted therapy (hippotherapy) to children
@@ -104,9 +103,6 @@ and adults with physical and mental disabilities.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="http://rdasingapore.org/" rel="noopener noreferrer nofollow" target="_blank">http://rdasingapore.org/</a>
-</p>
-<p></p>
 <p>Tel: 6250 0176</p>
 <p></p>
 <p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a>
