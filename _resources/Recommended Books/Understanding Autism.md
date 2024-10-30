@@ -47,5 +47,31 @@ Autism or Asperger's. Future Horizon.</div>
 their diagnosis.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_ASD_and_Me_Picture_Book.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shaul, J. (2017). The ASD and Me Picture Book: A Visual Guide to Understanding
+Challenges and Strengths for Children on the Autism Spectrum. London: Jessica
+Kingsley Publisher.</div>
+<div class="isomer-card-description">A child-friendly book using visuals to explain autism’s challenges and
+strengths to young children.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Far_From_The_Tree.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Solomon, A. (2012). Far From The Tree. New York: Scribner.</div>
+<div class="isomer-card-description">A Pulitzer Prize-winning book that discusses the complexities of parenting
+children with diverse challenges, including autism.</div>
+</div>
+</div>
 </div>
 <p></p>
