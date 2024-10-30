@@ -116,15 +116,14 @@ of living with autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism_A_new_introduction_to_psychological_theory_and_current_debate.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Benson, P. R., &amp; Karush, R. (2019). The Parent’s Guide to Raising
-a Child with Autism: A Practical and Compassionate Approach for Parents
-and Caregivers. Oakland, CA: New Harbinger Publications.</div>
-<div class="isomer-card-description">Offers practical strategies for managing daily challenges faced by families
-raising children with ASD.</div>
+<div class="isomer-card-title">Fletcher-Watson S. &amp; Happé F. (2019). Autism: A New Introduction to
+Psychological Theory and Current Debate. London: Routledge.</div>
+<div class="isomer-card-description">Provides an overview of current theories and debates, with accessible
+insights for parents and caregivers.</div>
 </div>
 </div>
 </div>
