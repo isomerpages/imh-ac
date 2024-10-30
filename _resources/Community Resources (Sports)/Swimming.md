@@ -25,7 +25,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aquafins</p>
+<p><a href="http://www.aquafins.com.sg/index.html" rel="noopener nofollow" target="_blank">Aquafins</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Start it Right Package (for children with special needs):</p>
@@ -43,9 +44,6 @@ story - Optional)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="http://www.aquafins.com.sg/index.html" rel="noopener noreferrer nofollow" target="_blank">http://www.aquafins.com.sg/index.html</a>
-</p>
-<p></p>
 <p>Tel: 9675 7531</p>
 <p></p>
 <p>Email: <a href="mailto:enquiry@aquafins.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@aquafins.com.sg</a>
@@ -55,7 +53,8 @@ story - Optional)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Happy Fish Swim School</p>
+<p><a href="https://happyfish.sg/" rel="noopener nofollow" target="_blank">Happy Fish Swim School</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-to-1 lessons for children with special needs:</p>
@@ -69,9 +68,6 @@ story - Optional)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://happyfish.sg/" rel="noopener noreferrer nofollow" target="_blank">https://happyfish.sg/</a>
-</p>
-<p></p>
 <p>Tel: 6589 8650</p>
 <p></p>
 <p>Email: <a href="mailto:admin@happyfish.sg" rel="noopener noreferrer nofollow" target="_blank">admin@happyfish.sg</a>
@@ -81,7 +77,8 @@ story - Optional)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Swimray</p>
+<p><a href="https://privateswimminglesson.sg/learn-to-swim" rel="noopener nofollow" target="_blank">Swimray</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn to Swim Programme (1-to-1 lessons for children with special needs):</p>
@@ -95,9 +92,6 @@ story - Optional)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://privateswimminglesson.sg/learn-to-swim" rel="noopener noreferrer nofollow" target="_blank">https://privateswimminglesson.sg/learn-to-swim</a>
-</p>
-<p></p>
 <p>Tel: 8838 6105</p>
 <p></p>
 <p>Email: <a href="mailto:Info@PrivateSwimmingLesson.sg" rel="noopener noreferrer nofollow" target="_blank">Info@PrivateSwimmingLesson.sg</a>
@@ -107,10 +101,11 @@ story - Optional)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Swish Swimming</p>
+<p><a href="https://www.swishswimming.com/" rel="noopener nofollow" target="_blank">Swish Swimming</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swish’ Special Needs Program(1-to-1 lessons for children with special
+<p>Swish’ Special Needs Program (1-to-1 lessons for children with special
 needs):</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,9 +120,6 @@ needs):</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.swishswimming.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.swishswimming.com/</a>
-</p>
-<p></p>
 <p>Tel: 9832 2522</p>
 <p></p>
 <p>Email: <a href="mailto:admin@swishswimming.com" rel="noopener noreferrer nofollow" target="_blank">admin@swishswimming.com</a>
