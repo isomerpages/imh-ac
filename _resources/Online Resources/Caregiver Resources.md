@@ -207,18 +207,22 @@ educational needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://humadurranis.blogspot.com/" rel="noopener nofollow" target="_blank">Huma's Blog</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A blog that was set up by an art therapist whose eldest child has ASD.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://iautistic.com/" rel="noopener nofollow" target="_blank">i autistic 我自闭</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A website that was started by Eric, an individual withASD.</p>
+<p>Besides sharing about the available resources and services, Eric also
+writes articles on topics such as adulting, inner growth, and caregiving.</p>
 </td>
 </tr>
 <tr>
@@ -297,10 +301,24 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/assisted-deputyship-application-programme-(adap)" rel="noopener nofollow" target="_blank">Information on Assisted Deputyship Application Programmes (ADAP)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The Enabling Guide provides information on the application for deputyship.</p>
 <p></p>
+<p>Eligibility Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Child's age: 18-21 years-old</p>
+</li>
+<li>
+<p>In the graduating cohort in a Special Education School</p>
+</li>
+<li>
+<p>Enrolled in an MSF-Funded Day Activity Centre or Sheltered Workshops</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
