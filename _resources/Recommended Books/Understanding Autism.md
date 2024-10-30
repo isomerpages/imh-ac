@@ -126,5 +126,49 @@ Psychological Theory and Current Debate. London: Routledge.</div>
 insights for parents and caregivers.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Supporting_autistic_children_at_home_A_practical_guide_for_parents_and_caregivers.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Connor D. (2023). Supporting Autistic Children at Home. A Practical Guide
+for Parents and Caregivers. Routledge Taylor &amp; Francis Group.</div>
+<div class="isomer-card-description">Provides practical strategies for parents and caregivers to support and
+nurture autistic children. It covers key areas such as communication, sensory
+needs, and behavior management, offering evidence-based advice for creating
+supportive home environments.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Ten_things_every_child_with_autism_wishes_you_knew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Notbohm E. (2012). Ten Things Every Child with Autism Wishes You Knew.
+Updated and Expanded Edition.</div>
+<div class="isomer-card-description">Offers insights into the unique needs and perspectives of autistic children,
+providing practical advice for fostering understanding and effective support.
+The expanded edition updates key concepts to reflect new developments in
+autism understanding.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prizant B.M., &amp; Fields-Meyer T. (2022). Uniquely Human: Updated and
+Expanded: A Different Way of Seeing Autism. Simon &amp; Schuster Paperbacks.</div>
+<div class="isomer-card-description">Offers a fresh perspective on autism, emphasizing understanding and empathy
+while providing practical strategies for supporting individuals with autism
+through a strengths-based approach.</div>
+</div>
+</div>
 </div>
 <p></p>
