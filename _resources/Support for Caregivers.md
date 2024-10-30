@@ -17,6 +17,15 @@ the capacity to care for others.</p>
 <p>Get proper sleep</p>
 </li>
 <li>
+<p>Be active</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.ttsh.com.sg/Patients-and-Visitors/MedicalServices/Physiotherapy/CarersXPhysios/Pages/Workout. aspx#SH" rel="noopener nofollow" target="_blank">Click here</a> for
+a compilation of workout videos that families can do at home</p>
+</li>
+</ul>
+</li>
+<li>
 <p>Eat a well-balanced diet</p>
 </li>
 <li>
@@ -52,4 +61,6 @@ the capacity to care for others.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p></p>
