@@ -239,10 +239,50 @@ educational needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://accessiblechef.com" rel="noopener nofollow" target="_blank">Accessible Chef</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Accessible Chef is a collection of free visual recipes and other resources
+to help teach cooking skills to individuals with disabilities at home or
+in a special education classroom.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/dac-service-matrix.pdf" rel="noopener nofollow" target="_blank">Day Activity Centre (DAC) Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Enabling Guide's DAC Guide provides</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An overview of the referral process</p>
+</li>
+<li>
+<p>General information of DACs for applicants with ASD/ID/PD/MD*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://daughtersoftomorrow.org/blog/" rel="noopener nofollow" target="_blank">Daughters of Tomorrow</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blogpost by a charity that seeks to empower underprivileged women and
+their families.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/watch/JourneywithGeorge/832176150607336/" rel="noopener nofollow" target="_blank">Dear Doctor</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dear Doctor by the Lien Foundation is a four-part online video series
+which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </td>
 </tr>
 <tr>
@@ -271,34 +311,12 @@ educational needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/watch/SuperheroMeSG/654403451771706/" rel="noopener nofollow" target="_blank">Takeaway Live</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>A community collaboration that aims to raise awareness of inclusion through
+talks and workshops on Facebook Live and Zoom.</p>
 </td>
 </tr>
 </tbody>
