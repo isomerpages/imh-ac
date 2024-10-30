@@ -418,10 +418,29 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://spd.org.sg/wp-content/uploads/2022/10/Take-A-Break-poster-scaled.jpg" rel="noopener nofollow" target="_blank">Take-A-Break (TAB)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TAB is a shoter-term/temporary home based respite programme.</p>
 <p></p>
+<p>Eligibility of Caregiver:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SG/PR (60 years and above)</p>
+</li>
+<li>
+<p>Caring for &gt;1 care recipient with permanent disability <u>OR</u>
+</p>
+</li>
+<li>
+<p>From single-parent household <u>OR</u>
+</p>
+</li>
+<li>
+<p>Affected by loss of income/disruption of disability services (etc.)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
