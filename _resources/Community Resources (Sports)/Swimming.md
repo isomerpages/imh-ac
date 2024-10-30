@@ -46,7 +46,7 @@ story - Optional)</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 9675 7531</p>
 <p></p>
-<p>Email: <a href="mailto:enquiry@aquafins.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@aquafins.com.sg</a>
+<p><a href="enquiry@aquafins.com.sg" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 <p></p>
 </td>
@@ -70,7 +70,7 @@ story - Optional)</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 6589 8650</p>
 <p></p>
-<p>Email: <a href="mailto:admin@happyfish.sg" rel="noopener noreferrer nofollow" target="_blank">admin@happyfish.sg</a>
+<p><a href="admin@happyfish.sg" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 <p></p>
 </td>
@@ -92,11 +92,8 @@ story - Optional)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 8838 6105</p>
-<p></p>
-<p>Email: <a href="mailto:Info@PrivateSwimmingLesson.sg" rel="noopener noreferrer nofollow" target="_blank">Info@PrivateSwimmingLesson.sg</a>
+<p><a href="Info@PrivateSwimmingLesson.sg" rel="noopener nofollow" target="_blank">Email</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -122,7 +119,7 @@ needs):</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 9832 2522</p>
 <p></p>
-<p>Email: <a href="mailto:admin@swishswimming.com" rel="noopener noreferrer nofollow" target="_blank">admin@swishswimming.com</a>
+<p><a href="admin@swishswimming.com" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 <p></p>
 </td>
