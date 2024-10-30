@@ -35,7 +35,7 @@ and preventing out-of-control behaviour. Future Horizons.</div>
 meltdowns in children with autism. The book provides real-life examples
 and step-by-step approaches.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_social_skills_picture_book_for_high_school_and_beyond.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Baker, J. (2011). The Social Skills Picture Book for High School and Beyond. Arlington, TX: Future Horizons.</div><div class="isomer-card-description">This follow-up to the original picture book provides visual aids and strategies for older students and young adults to develop social skills in a more complex social environment.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -49,6 +49,20 @@ Think Social Publishing, Inc.</div>
 <div class="isomer-card-description">A guidebook that focuses on helping teenagers and young adults with autism
 or other social communication challenges navigate social interactions and
 develop better social thinking skills.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_new_social_story_book__15th_anniversary_edition_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gray, C. (2015). The New Social Story Book (15th Anniversary Edition).
+Future Horizons.</div>
+<div class="isomer-card-description">Written by Carol Gray, the original developer of social stories, this
+book includes over 150 social stories that address a wide range of social
+situations and skills.</div>
 </div>
 </div>
 </div>
