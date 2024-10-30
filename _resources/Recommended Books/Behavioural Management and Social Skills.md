@@ -77,6 +77,21 @@ situations and skills.</div>
 topics, suitable for different age groups.</div>
 <div class="isomer-card-link">Click here!</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.pacer.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pacer Center logo" src="/images/Pacer_Center.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pacer Center (USA). (2022). Social stories for social skills development. Pacer Center.</div><div class="isomer-card-description">A resource hub that includes guides and social stories focusing on social skills for children with autism and other developmental disabilities.</div><div class="isomer-card-link">Click here!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.socialstories4kids.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Social Stories 4 Kids logo" src="/images/Social_stories_4_kids.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Social Stories 4 Kids (Australia). (2023). Social skills social stories.
+Social Stories 4 Kids.</div>
+<div class="isomer-card-description">An Australian site offering printable social stories specifically designed
+for children with ASD, including topics like making friends and understanding
+personal space.</div>
+<div class="isomer-card-link">Click here!</div>
+</div>
 </a>
 </div>
 <p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
