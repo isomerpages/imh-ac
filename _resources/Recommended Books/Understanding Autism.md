@@ -86,5 +86,46 @@ and professionals. London: Jessica Kingsley Publisher.</div>
 new to understanding ASD.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/A_practical_guide_to_autism_What_every_parent__family_member__and_teacher_needs_to_know.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Volkmar, F. R., &amp; Wiesner, L. A. (2009). A practical guide to autism:
+What every parent, family member, and teacher needs to know. John Wiley
+&amp; Sons.</div>
+<div class="isomer-card-description">A highly regarded guide offering evidence-based advice for families and
+educators.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Uniquely_Human_A_Different_Way_of_Seeing_Autism.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prizant, B. M., &amp; Fields-Meyer, T. (2015). Uniquely Human: A Different
+Way of Seeing Autism. New York: Simon &amp; Schuster.</div>
+<div class="isomer-card-description">A paradigm-shifting book that offers compassionate insights into the experience
+of living with autism.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Benson, P. R., &amp; Karush, R. (2019). The Parent’s Guide to Raising
+a Child with Autism: A Practical and Compassionate Approach for Parents
+and Caregivers. Oakland, CA: New Harbinger Publications.</div>
+<div class="isomer-card-description">Offers practical strategies for managing daily challenges faced by families
+raising children with ASD.</div>
+</div>
+</div>
 </div>
 <p></p>
