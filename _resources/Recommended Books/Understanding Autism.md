@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Recommended Books
 ---
-<p>Here are some recommended books for understanding autism!</p>
+<p>Here are some recommended books for understanding autism! Books may be
+found at National Library (NLB) Singapore, selected local bookstores and
+online bookstores.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.imh.com.sg/Publications/Books/Pages/Living-with-Autism.aspx" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Living_with_Autism.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sung, M., Heng, L., Foo, M. &amp; Kheng., J.L. (2016). Living with Autism. Marshall Cavendish International.</div><div class="isomer-card-description">A Singaporean perspective offering personal stories and practical advice on living with autism.</div><div class="isomer-card-link">Click here!</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -171,4 +173,5 @@ through a strengths-based approach.</div>
 </div>
 </div>
 </div>
-<p></p>
+<p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
+</p>
