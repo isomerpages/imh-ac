@@ -25,7 +25,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Pro Soccer Academy</p>
+<p><a href="https://sgprosoccer.business.site/" rel="noopener nofollow" target="_blank">Singapore Pro Soccer Academy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Training sessions integrates mainstream youths and youths with special
@@ -41,15 +42,13 @@ needs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://sgprosoccer.business.site/" rel="noopener noreferrer nofollow" target="_blank">https://sgprosoccer.business.site/</a>
-</p>
-<p></p>
 <p>Tel: 8742 8292</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Olympics Singapore</p>
+<p><a href="https://www.specialolympics.org.sg/" rel="noopener nofollow" target="_blank">Special Olympics Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sports training and competition (Athletics, badminton, bowling, basketball,
@@ -73,19 +72,18 @@ floorball and swimming)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.specialolympics.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.specialolympics.org.sg/</a>
-</p>
-<p></p>
 <p>Tel: 6293 3182</p>
 <p></p>
-<p>Email:<a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
+<p>Email:</p>
+<p><a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
 </p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sport Cares: Playability</p>
+<p><a href="https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/ongoing-programmes/" rel="noopener nofollow" target="_blank">Sports Cares:Playability</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -111,9 +109,6 @@ floorball and swimming)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/ongoing-programmes/" rel="noopener noreferrer nofollow" target="_blank">https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/ongoing-programmes/</a>
-</p>
-<p></p>
 <p>Email: <a href="mailto:inclusivesport@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">inclusivesport@sport.gov.sg</a>
 </p>
 <p></p>
