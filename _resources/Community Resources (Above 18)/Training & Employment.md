@@ -40,6 +40,24 @@ potential</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://rainbowcentre.org.sg/employability-services/" rel="noopener nofollow" target="_blank">Rainbow Centre: Employability Services</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Various programmes like Artability, Workability, Micro Business Academy
+to suit different needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 6475 2072</p>
+<p></p>
+<p>Email:</p>
+<p><a href="mailto:contactus@rainbowcentre.org.sg" rel="noopener noreferrer nofollow" target="_blank">contactus@rainbowcentre.org.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Inclus</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,6 +87,19 @@ role where they feel happy, understood &amp; recognized as a person</p>
 </p>
 <p></p>
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tomo work</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programme aimed at uplifting students with talent/ strong capability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email: <a href="mailto:enquiry@tomowork.org" rel="noopener noreferrer nofollow" target="_blank">enquiry@tomowork.org</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -104,6 +135,41 @@ not attending:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://trampolene.org/" rel="noopener nofollow" target="_blank">Trampolene</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adapted development for employability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 8044 0260</p>
+<p></p>
+<p>Email: <a href="mailto:contact@trampolene.org" rel="noopener noreferrer nofollow" target="_blank">contact@trampolene.org</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YMCA Train &amp; Place Series</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The programme trains and co-supports persons with special needs towards
+gainful employment in the service and hospitality sector.</p>
+<p></p>
+<p>Each trainee will attend the programme from Mondays to Thursdays for five
+weeks, 9.30 AM 5.00 PM.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email: <a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mijhub.com" rel="noopener nofollow" target="_blank">My inspiring Journey</a>
 </p>
 </td>
@@ -123,12 +189,21 @@ Adult Programme (WRAP)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.social-gifting.com/" rel="noopener nofollow" target="_blank">Social Gifting</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A social enterprise that mainly works with persons with disabilities who
+have an interest towards the arts to help them start an online stall such
+that they can list and sell their handicraft work</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Tel: 9831 8300</p>
+<p></p>
+<p>Email:</p>
+<p><a href="mailto:hello@sgifting.com" rel="noopener noreferrer nofollow" target="_blank">hello@sgifting.com</a>
+</p>
+<p></p>
 <p></p>
 </td>
 </tr>
