@@ -159,7 +159,7 @@ autism understanding.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Uniquely_Human_Updated_and_Expanded_A_Different_Way_of_Seeing_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
