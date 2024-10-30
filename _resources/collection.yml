@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Community Services (Mental Health).md
+      - Mental Health Services.md
       - Inclusive Medical Services.md
       - Inclusive Dental Services.md
       - Other Helpful Community Services.md
