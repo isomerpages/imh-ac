@@ -2,19 +2,18 @@ collections:
   resources:
     output: true
     order:
-      - Inclusive Community Spaces/Gyms.md
-      - Inclusive Community Spaces/Cafes.md
-      - Inclusive Community Spaces/.keep
-      - Mental Health Services.md
-      - Inclusive Medical Services.md
-      - Inclusive Dental Services.md
-      - Other Helpful Community Services.md
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
       - Online Resources/Caregiver Resources.md
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
+      - Mental Health Services.md
+      - Inclusive Medical Services.md
+      - Inclusive Dental Services.md
+      - Inclusive Community Spaces/.keep
+      - Inclusive Community Spaces/Gyms.md
+      - Inclusive Community Spaces/Cafes.md
       - Community Resources (Sports)/.keep
       - Community Resources (Sports)/Swimming.md
       - Community Resources (Sports)/Cycling.md
@@ -31,4 +30,5 @@ collections:
       - Community Resources (Above 18)/Social & Leisure.md
       - Community Resources (Above 18)/Training & Employment.md
       - Community Resources (Horticulture).md
+      - Other Helpful Community Services.md
       - Support for Caregivers.md
