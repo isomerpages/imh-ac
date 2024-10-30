@@ -25,7 +25,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>All That Roller</p>
+<p><a href="https://www.allthatroller.com/" rel="noopener nofollow" target="_blank">All That Roller</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-line skating training to help individuals gain confidence to skate.
@@ -41,9 +42,6 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.allthatroller.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.allthatroller.com/</a>
-</p>
-<p></p>
 <p>Tel: 9793 3844</p>
 <p></p>
 <p>Email: <a href="mailto:hello@allthatroller.com" rel="noopener noreferrer nofollow" target="_blank">hello@allthatroller.com</a>
@@ -54,13 +52,14 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ananda Marga</p>
+<p><a href="https://anandamarga.org.sg/" rel="noopener nofollow" target="_blank">Ananda Marga</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yoga classes</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open to children age 8-12 years old and those with special needs</p>
+<p>Open to children aged 8-12 years old and those with special needs</p>
 </li>
 <li>
 <p>Timing: weekdays (9am - 10pm) or weekends (8am-4pm)</p>
@@ -72,9 +71,6 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://anandamarga.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://anandamarga.org.sg/</a>
-</p>
-<p></p>
 <p>Tel: 87724779</p>
 <p></p>
 <p>Email: <a href="mailto:yoga@anandamarga.org.sg" rel="noopener noreferrer nofollow" target="_blank">yoga@anandamarga.org.sg</a>
@@ -85,7 +81,8 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Exhale</p>
+<p><a href="https://exhale.com.sg/" rel="noopener nofollow" target="_blank">Exhale</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Private yoga session tailored to the needs of the student</p>
@@ -99,9 +96,6 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://exhale.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://exhale.com.sg/</a>
-</p>
-<p></p>
 <p>Tel: 81561350</p>
 <p></p>
 <p>Email: <a href="mailto:connect@exhale.com.sg" rel="noopener noreferrer nofollow" target="_blank">connect@exhale.com.sg</a>
@@ -112,7 +106,8 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bounce Singapore</p>
+<p><a href="https://bounceinc.com.sg/" rel="noopener nofollow" target="_blank">Bounce Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A trampoline park in the central region which welcomes persons with disabilities</p>
@@ -126,9 +121,6 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://bounceinc.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://bounceinc.com.sg/</a>
-</p>
-<p></p>
 <p>Tel: 6816 2879</p>
 <p></p>
 <p>Email: <a href="mailto:enquiries@bounceinc.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiries@bounceinc.com.sg</a>
@@ -139,7 +131,8 @@ am Afternoon: 3pm / 3:50pm / 4:40 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Runninghour</p>
+<p><a href="https://www.runninghour.com/" rel="noopener nofollow" target="_blank">Runninghour</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An inclusive running club, promoting integration of people with special
@@ -158,17 +151,17 @@ needs through running</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.runninghour.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.runninghour.com/</a>
-</p>
-<p></p>
 <p>Tel: 90505398</p>
 <p></p>
-<p>Email: admin@runninghour.com</p>
+<p>Email: <a href="mailto:admin@runninghour.com" rel="noopener noreferrer nofollow" target="_blank">admin@runninghour.com</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MeToo! Club (MINDS)</p>
+<p><a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MeToo! Club (MINDS)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leisure activities for persons with disabilities and their caregivers</p>
@@ -211,9 +204,6 @@ needs through running</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener noreferrer nofollow" target="_blank">https://www.minds.org.sg/for-adults/mtc/</a>
-</p>
-<p></p>
 <p>Tel: 65478502 / 83399751</p>
 <p></p>
 <p>Email: <a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a>
@@ -224,7 +214,8 @@ needs through running</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Innervate</p>
+<p><a href="https://www.innervatefit.com/adaptives" rel="noopener nofollow" target="_blank">Innervate</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adaptive Athletes Program - Crossfit specifically designed for individuals
@@ -250,9 +241,6 @@ with disabilities</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.innervatefit.com/adaptives" rel="noopener noreferrer nofollow" target="_blank">https://www.innervatefit.com/adaptives</a>
-</p>
-<p></p>
 <p>Tel: 88863099</p>
 <p></p>
 <p>Email: <a href="mailto:info@innervatefit.com" rel="noopener noreferrer nofollow" target="_blank">info@innervatefit.com</a>
@@ -263,7 +251,8 @@ with disabilities</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BazGym</p>
+<p><a href="https://www.bazgym.com/" rel="noopener nofollow" target="_blank">BazGym</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PhysioGym programme for children with special needs</p>
@@ -285,9 +274,6 @@ with disabilities</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.bazgym.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.bazgym.com/</a>
-</p>
-<p></p>
 <p>Tel: 6256 8191 (JOM)/ 6686 4309 (Jurong)/ 6386 0322 (Punggol)</p>
 <p></p>
 <p>Email: <a href="mailto:administrator@bazgym.com" rel="noopener noreferrer nofollow" target="_blank">administrator@bazgym.com</a>
