@@ -25,7 +25,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ageless Bicyclist</p>
+<p><a href="https://agelessbicyclists.org/" rel="noopener nofollow" target="_blank">Ageless Bicyclist</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Inclusive recreation cycling program for individuals with Autism</p>
@@ -40,10 +41,9 @@ third_nav_title: Community Resources (Sports)
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://agelessbicyclists.org/" rel="noopener noreferrer nofollow" target="_blank">https://agelessbicyclists.org/</a>
-</p>
+<p>Tel: 97614317</p>
 <p></p>
-<p>Tel: 97614317 Email:</p>
+<p>Email:</p>
 <p><a href="mailto:gday@agelessbicyclists.org" rel="noopener noreferrer nofollow" target="_blank">gday@agelessbicyclists.org</a>
 </p>
 <p></p>
@@ -52,7 +52,8 @@ third_nav_title: Community Resources (Sports)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cycle School SG</p>
+<p><a href="https://cycleschoolsg.com/" rel="noopener nofollow" target="_blank">Cycle School SG</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open to children with ADD, ADHD, Autism (Mild Spectrum), Aspergers (Psychomotor),
@@ -65,10 +66,11 @@ Lesson: $60/per hour</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 97552844</p>
+<p></p>
 <p>Email: <a href="https://cycleschoolsg.com/" rel="noopener noreferrer nofollow" target="_blank">https://cycleschoolsg.com/</a>
 </p>
 <p></p>
-<p>Location: 78 Moh Guan Terrace, Block 78, Singapore 162078</p>
+<p></p>
 </td>
 </tr>
 </tbody>
