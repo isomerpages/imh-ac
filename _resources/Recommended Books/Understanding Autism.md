@@ -33,5 +33,19 @@ A Guide for Parents. London: Jessica Kingsley Publisher.</div>
 and age-appropriate way.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/autism_what_does_it_mean_to_me.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Faherty, C. (2014). Autism: What Does It Mean to Me? A Workbook Explaining
+Self Awareness and Life Lessons to the Child or Youth with High Functioning
+Autism or Asperger's. Future Horizon.</div>
+<div class="isomer-card-description">A practical and interactive workbook to help children with ASD understand
+their diagnosis.</div>
+</div>
+</div>
 </div>
 <p></p>
