@@ -5,3 +5,52 @@ variant: tiptap
 description: ""
 third_nav_title: Recommended Books
 ---
+<p>Here are some recommended books for behavioural management and social
+skills! Books may be found at National Library (NLB) Singapore, selected
+local bookstores and online bookstores.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_social_skills_picture_book_teaching_play__emotion_and_communication_to_children_with_autism.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Baker, J. (2001). The Social Skills Picture Book Teaching play, emotion
+and communication to children with autism. Arlington: Future Horizon.</div>
+<div class="isomer-card-description">This book uses pictures and visual aids to help children with autism learn
+social skills, emotions, and appropriate play behaviours.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/No_more_meltdowns_Positive_strategies_for_managing_and_preventing_out_of_control_behaviour.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Baker, J. (2008). No more meltdowns. Positive strategies for managing
+and preventing out-of-control behaviour. Future Horizons.</div>
+<div class="isomer-card-description">Offers practical strategies for parents and educators to prevent and manage
+meltdowns in children with autism. The book provides real-life examples
+and step-by-step approaches.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Socially_Curious_and_Curiously_Social_A_social_thinking_guidebook_for_bright_teens_and_young_adults.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Garcia, M. C. &amp; Crooke, P. (2021). Socially Curious and Curiously
+Social: A social thinking guidebook for bright teens &amp; young adults.
+Think Social Publishing, Inc.</div>
+<div class="isomer-card-description">A guidebook that focuses on helping teenagers and young adults with autism
+or other social communication challenges navigate social interactions and
+develop better social thinking skills.</div>
+</div>
+</div>
+</div>
+<p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
+</p>
