@@ -73,5 +73,18 @@ strengths to young children.</div>
 children with diverse challenges, including autism.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Can_I_tell_you_about_Autism_A_guide_for_friends__family_and_professionals.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Welton, J. (2014). Can I tell you about Autism? A guide for friends, family
+and professionals. London: Jessica Kingsley Publisher.</div>
+<div class="isomer-card-description">An accessible introduction to autism designed for young readers and those
+new to understanding ASD.</div>
+</div>
+</div>
 </div>
 <p></p>
