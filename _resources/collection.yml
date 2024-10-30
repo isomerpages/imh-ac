@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Inclusive Community Spaces/.keep
       - Mental Health Services.md
       - Inclusive Medical Services.md
       - Inclusive Dental Services.md
