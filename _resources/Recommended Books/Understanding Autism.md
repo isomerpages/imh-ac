@@ -14,10 +14,10 @@ third_nav_title: Recommended Books
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Complete Guide to Asperger's Syndrome</div>
+<div class="isomer-card-title">Attwood, T. (2007). The Complete Guide to Asperger's Syndrome. London:
+Jessica Kingsley Publishers.</div>
 <div class="isomer-card-description">This book remains a comprehensive resource on Asperger’s and high-functioning
-autism. Attwood, T. (2007). The Complete Guide to Asperger's Syndrome.
-London: Jessica Kingsley Publishers.</div>
+autism.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -27,10 +27,10 @@ London: Jessica Kingsley Publishers.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Talking with your child about their Autism Diagnosis. A Guide for Parents.</div>
+<div class="isomer-card-title">Dundon, R. (2018). Talking with your child about their Autism Diagnosis.
+A Guide for Parents. London: Jessica Kingsley Publisher.</div>
 <div class="isomer-card-description">Offers a step-by-step guide on discussing autism with children in a supportive
-and age-appropriate way. Dundon, R. (2018). Talking with your child about
-their Autism Diagnosis. A Guide for Parents. London: Jessica Kingsley Publisher.</div>
+and age-appropriate way.</div>
 </div>
 </div>
 </div>
