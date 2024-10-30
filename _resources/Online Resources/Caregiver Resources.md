@@ -207,6 +207,48 @@ educational needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<h4>Skills Training Workshops</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/dac-service-matrix.pdf" rel="noopener nofollow" target="_blank">Day Activity Centre (DAC) Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Enabling Guide's DAC Guide provides</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An overview of the referral process</p>
+</li>
+<li>
+<p>General information of DACs for applicants with ASD/ID/PD/MD*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank">Sheltered Workshops (SW): Service Matrix</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This resource by the Enabling Guide provides:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An overview of the referral process</p>
+</li>
+<li>
+<p>General information of Sheltered Workshops for applicants with ASD/ID/PD/MD*</p>
+</li>
+<li>
+<p>Additional information by various agencies</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4>Caregivers Training</h4>
 </td>
 </tr>
@@ -338,23 +380,6 @@ in a special education classroom.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/dac-service-matrix.pdf" rel="noopener nofollow" target="_blank">Day Activity Centre (DAC) Guide</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Enabling Guide's DAC Guide provides</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>An overview of the referral process</p>
-</li>
-<li>
-<p>General information of DACs for applicants with ASD/ID/PD/MD*</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://daughtersoftomorrow.org/blog/" rel="noopener nofollow" target="_blank">Daughters of Tomorrow</a>
 </p>
 </td>
@@ -391,26 +416,6 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </li>
 <li>
 <p>Enrolled in an MSF-Funded Day Activity Centre or Sheltered Workshops</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank">Sheltered Workshops (SW): Service Matrix</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This resource by the Enabling Guide provides:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>An overview of the referral process</p>
-</li>
-<li>
-<p>General information of Sheltered Workshops for applicants with ASD/ID/PD/MD*</p>
-</li>
-<li>
-<p>Additional information by various agencies</p>
 </li>
 </ul>
 </td>
