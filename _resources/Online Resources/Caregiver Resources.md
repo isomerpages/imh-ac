@@ -422,7 +422,7 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAB is a short-term/temporary home based respite programme.</p>
+<p>TAB is a short-term/temporary home-based respite programme.</p>
 <p></p>
 <p>Eligibility of Caregiver:</p>
 <ul data-tight="true" class="tight">
