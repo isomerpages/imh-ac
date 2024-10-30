@@ -146,6 +146,38 @@ with the cost of raising children.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sntc.sg" rel="noopener nofollow" target="_blank">SNTC: Financial Care Plan (FCP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Special Needs Trust Company's FCP is a 5-minute online care plan generator
+that provides an estimate of one’s finances based on their future care
+arrangement and the income level of the family.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sntc.org.sg/services/special-needs-savings-scheme-(snss)" rel="noopener nofollow" target="_blank">SNTC: Special Needs Saving Scheme (SNSS)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Special Needs Trust Company's SNSS provides the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A type of CPF nomination (not a trust)</p>
+</li>
+<li>
+<p>SNSS takes effect after parent's demise</p>
+</li>
+<li>
+<p>Allows parents to specify a monthly payment instead of a lump sum payout
+to nominees</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4>Educational Resources</h4>
 </td>
@@ -366,10 +398,22 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank">Sheltered Workshops (SW): Service Matrix</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This resource by the Enabling Guide provides:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An overview of the referral process</p>
+</li>
+<li>
+<p>General information of Sheltered Workshops for applicants with ASD/ID/PD/MD*</p>
+</li>
+<li>
+<p>Additional information by various agencies</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
