@@ -74,6 +74,18 @@ of rare diseases.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1qQRX1uvrZvQY_B77lJ17LXXjlUuLtPqL/view" rel="noopener nofollow" target="_blank">The ABCs of Caregiving</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This booklet was specially curated for caregivers of individuals with
+physical disability (PD). Topics covered include financial planning, tips
+for caregiving, self-care, and the resources available for caregivers and
+their families.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4>Self-Care &amp; Burnout</h4>
 </td>
@@ -307,7 +319,7 @@ events for all caregivers in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PWD-Friendly Exercise Videos</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
