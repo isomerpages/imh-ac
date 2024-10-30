@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources (Above 18)/.keep
       - Community Resources (Above 18)/Leisure & Social Activities.md
       - Community Resources (Above 18)/Training & Employment.md
-      - Community Resources (Above 18)/.keep
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
