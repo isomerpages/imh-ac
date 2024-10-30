@@ -25,7 +25,8 @@ third_nav_title: Community Resources (Arts)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Creative Hub by SAMH</p>
+<p><a href="https://www.samhealth.org.sg/our-services/creativeservices/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Activities include art making sessions, counselling and art therapies.
@@ -33,10 +34,8 @@ Uses art, music and dance as therapy for participants to explore and express
 their feelings.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.samhealth.org.sg/our-services/creativeservices/samh-creative-hub/" rel="noopener noreferrer nofollow" target="_blank">https://www.samhealth.org.sg/our-services/creativeservices/samh-creative-hub/</a>
-</p>
-<p></p>
-<p>Tel: 6320 0722/ 9863 0603</p>
+<p>Tel:</p>
+<p>6320 0722/ 9863 0603</p>
 <p></p>
 <p>Email: <a href="mailto:creativehub@samhealth.org.sg" rel="noopener noreferrer nofollow" target="_blank">creativehub@samhealth.org.sg</a>
 </p>
@@ -45,16 +44,14 @@ their feelings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art:Dis</p>
+<p><a href="https://www.artdis.org.sg/" rel="noopener nofollow" target="_blank">Art:Dis</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Each student’s placement and level progression are specifically catered
 to their ability and learning pace.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website: <a href="https://www.artdis.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.artdis.org.sg/</a>
-</p>
-<p></p>
 <p>Tel: 6448 6275</p>
 <p></p>
 <p>Email: <a href="mailto:general@artdis.org.sg" rel="noopener noreferrer nofollow" target="_blank">general@artdis.org.sg</a>
