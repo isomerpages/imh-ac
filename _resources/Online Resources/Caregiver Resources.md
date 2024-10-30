@@ -319,18 +319,21 @@ events for all caregivers in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PWD-Friendly Exercise Videos</p>
+<p><a href="https://youtube.com/playlist?list=PLcB7q5Kh1WQqOysgj66n-76HgNqt_8sKi&amp;feature=shared" rel="noopener nofollow" target="_blank">PWD-Friendly Exercise Videos</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A playlist of inclusive sport fitness videos that was curated by ActiveSG.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Physiotherapy/CarersXPhysios/Pages/Workout.aspx#SH" rel="noopener nofollow" target="_blank">Workout Videos</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A compilation of workout videos that families can do at home, curated
+by Tan Tock Seng Hospital (TTSH).</p>
 </td>
 </tr>
 <tr>
@@ -463,6 +466,28 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 <td rowspan="1" colspan="1">
 <p>A community collaboration that aims to raise awareness of inclusion through
 talks and workshops on Facebook Live and Zoom.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtube.com/playlist?list=PLLBxxh7XpqtLnJ93VH9dOg5qPIC51AZc5&amp;feature=shared" rel="noopener nofollow" target="_blank">Virtual Reality (VR) Videos</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A series of VR YouTube videos for caregivers to see how their loved ones
+experience the world. Caregivers can also teach life skills in settings
+such as the:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dental clinic</p>
+</li>
+<li>
+<p>Food court</p>
+</li>
+<li>
+<p>Supermarket</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
