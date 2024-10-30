@@ -80,9 +80,9 @@ of rare diseases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This booklet was specially curated for caregivers of individuals with
-physical disability (PD). Topics covered include financial planning, tips
-for caregiving, self-care, and the resources available for caregivers and
-their families.</p>
+physical disability. Topics covered include financial planning, tips for
+caregiving, self-care, and the resources available for caregivers and their
+families.</p>
 </td>
 </tr>
 <tr>
