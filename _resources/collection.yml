@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Community Services (Mental Health).md
-      - Community Services (Medical).md
+      - Inclusive Medical Services.md
       - Inclusive Dental Services.md
       - Other Helpful Community Services.md
       - Online Resources/.keep
