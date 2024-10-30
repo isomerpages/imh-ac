@@ -64,6 +64,16 @@ student care centers, and guidance on financial and employment support.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.rdss.org.sg/wp-content/uploads/2019/07/Patient-Handbook.pdf" rel="noopener nofollow" target="_blank">Patient Handbook on Rare Disorders</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A handbook for parents with young children that includes the definition
+of rare diseases.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4>Self-Care &amp; Burnout</h4>
 </td>
