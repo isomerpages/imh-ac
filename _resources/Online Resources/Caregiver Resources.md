@@ -109,6 +109,17 @@ can be done at home.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nasponline.org/resources-and-publications/resources-and-podcasts/school-safety-and-crisis/mental-health-resources/care-for-caregivers-tips-for-families-and-educators" rel="noopener nofollow" target="_blank">National Association of School Psychologist (Self-Care Tips)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The National Association of School Psychologist (NASP) provides an article
+about caregiving burnout, as well as self-care tips that families and/or
+educators may tap on.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4>Financial Resources</h4>
 </td>
@@ -214,27 +225,6 @@ courses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4>Communities on Social Media</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://humadurranis.blogspot.com/" rel="noopener nofollow" target="_blank">Huma's Blog</a>
 </p>
 </td>
@@ -251,6 +241,31 @@ courses.</p>
 <p>A website that was started by Eric, an individual withASD.</p>
 <p>Besides sharing about the available resources and services, Eric also
 writes articles on topics such as adulting, inner growth, and caregiving.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Communities on Social Media</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://t.me/SGCaregiversCommunity" rel="noopener nofollow" target="_blank">SGCaregivers Community: Telegram Group Chat</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Telegram group chat that provides space for caregivers to provide mutual
+support and share information of the resources available.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://t.me/SGCaregivers" rel="noopener nofollow" target="_blank">SGCaregivers: Telegram Channel</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Telegram channel that shares information every Monday, about current
+events for all caregivers in Singapore.</p>
 </td>
 </tr>
 <tr>
