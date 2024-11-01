@@ -72,7 +72,7 @@ similar challenges.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Frender, S., &amp; Schiffmiller, R. (2009). Brotherly Feelings: Me, My
+<div class="isomer-card-title">Frender, S. &amp; Schiffmiller, R. (2009). Brotherly Feelings: Me, My
 Emotions, and My Brother with Asperger's Syndrome. London, England: Jessica
 Kingsley Publishers.</div>
 <div class="isomer-card-description">A diary-style account written by a sibling about the emotional ups and
