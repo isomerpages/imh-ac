@@ -68,6 +68,34 @@ child struggling with social interactions to finding success in his career
 and relationships after discovering he had Asperger’s.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/No_One_is_Too_Small_to_Make_a_Difference.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Thunberg, G. (2019). No One is Too Small to Make a Difference. Penguin
+Putnam Inc.</div>
+<div class="isomer-card-description">This collection of speeches by climate activist Greta Thunberg highlights
+her passion for environmental change. While not focused exclusively on
+autism, Thunberg’s advocacy resonates with many, as she has openly discussed
+how her autism shapes her worldview and activism.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism_in_Heels_The_Untold_Story_of_a_Female_Life_on_the_Spectrum.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">O’Toole, J.C. (2018). Autism in Heels: The Untold Story of a Female Life
+on the Spectrum. New York: Skyhorse Publishing.</div>
+<div class="isomer-card-description">Offers a unique perspective on living with autism as a woman, providing
+valuable insights for parents and caregivers of girls and women with ASD.</div>
+</div>
+</div>
 </div>
 <p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
 </p>
