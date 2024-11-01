@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Recommended Books
 ---
 <p>Here are some recommended books for behavioural management and social
-skills! Books may be found at National Library (NLB) Singapore, selected
-local bookstores and online bookstores.</p>
+skills!</p>
+<p><sub>Note: Books may be found at National Library (NLB) Singapore, selected local bookstores and online bookstores.</sub>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
