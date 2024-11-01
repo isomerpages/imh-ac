@@ -123,4 +123,5 @@ autism understand and manage menstruation.</div>
 </div>
 </div>
 </div>
-<p></p>
+<p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
+</p>
