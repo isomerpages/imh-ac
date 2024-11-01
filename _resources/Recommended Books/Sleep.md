@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Recommended Books
 ---
-<p>Here are some recommended books regarding puberty and sexuality among
-persons with autism!</p>
+<p>Here are some recommended books regarding sleep for persons with autism!</p>
 <p><sub>Note: Books may be found at National Library (NLB) Singapore, selected local bookstores and online bookstores.</sub>
 </p>
 <div class="isomer-card-grid">
