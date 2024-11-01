@@ -53,7 +53,21 @@ her life, describing how she thinks primarily in visual images. The book
 discusses her experiences and achievements, offering a deep understanding
 of the autistic perspective.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Funny__You_Don_t_Look_Autistic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">McCreary, M. (2019). Funny, You Don’t Look Autistic: A comedian's guide to life on the spectrum. Annick Press Ptd. </div><div class="isomer-card-description">Michael McCreary, a stand-up comedian, recounts his life experiences with humour and candor. The book is both a memoir and a guide that tackles common misconceptions about autism while sharing his journey in the comedy world.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Funny__You_Don_t_Look_Autistic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">McCreary, M. (2019). Funny, You Don’t Look Autistic: A comedian's guide to life on the spectrum. Annick Press Ptd.</div><div class="isomer-card-description">Michael McCreary, a stand-up comedian, recounts his life experiences with humour and candor. The book is both a memoir and a guide that tackles common misconceptions about autism while sharing his journey in the comedy world.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Look_me_in_the_eye_my_life_with_Asperger_s.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Robinson, J. E. (2009). Look me in the eye: My Life with Asperger’s. Ebury
+Publishing.</div>
+<div class="isomer-card-description">John Elder Robinson’s memoir shares his life story from being an undiagnosed
+child struggling with social interactions to finding success in his career
+and relationships after discovering he had Asperger’s.</div>
+</div>
+</div>
 </div>
 <p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
 </p>
