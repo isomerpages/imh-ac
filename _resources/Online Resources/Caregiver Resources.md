@@ -582,6 +582,18 @@ which aims to empower caregivers during theCOVID-19 pandemic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources?profile=profile0&amp;topic=all&amp;type=all&amp;page=1" rel="noopener nofollow" target="_blank">Media Literacy Council (Singapore)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Digital for Life movement aims to galvanise the community to help
+citizens of all ages and walks of life embrace digital as a shared platform
+and equal opportunity enabler. It also provides a variety of resources
+designed to enhance digital literacy and responsible media consumption.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://spd.org.sg/wp-content/uploads/2022/10/Take-A-Break-poster-scaled.jpg" rel="noopener nofollow" target="_blank"><u>Take-A-Break (TAB)</u></a>
 </p>
 </td>
