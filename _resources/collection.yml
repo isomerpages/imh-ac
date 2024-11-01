@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Online Resources/Caregiver Resources (testing).md
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
+      - Online Resources/Caregiver Resources (testing).md
       - Recommended Books/Puberty and Sexuality.md
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
