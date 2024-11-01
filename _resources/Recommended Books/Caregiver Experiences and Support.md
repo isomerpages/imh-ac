@@ -35,7 +35,21 @@ they face.</div>
 offering insight into their lives and the support they provide for their
 loved ones with autism.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Notbohm, E. (2005). Ten Things Every Child with Autism Wishes You Knew. Arlington, TX: Future Horizons.</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Notbohm, E. (2005). Ten Things Every Child with Autism Wishes You Knew.
+Arlington, TX: Future Horizons.</div>
+<div class="isomer-card-description">Written from the perspective of a parent, this book offers deep insights
+into understanding and supporting a child with autism, focusing on the
+emotional journey of caregiving.</div>
+</div>
+</div>
 </div>
 <p><sub>Disclaimer: Please note that the resource list is provided for general information and educational purposes only and does not constitute as professional advice or intervention on any subject matter. Please consult your doctor or mental health professional for individualized guidance and treatment. Thank you.</sub>
 </p>
