@@ -43,7 +43,15 @@ copying, use and destruction. The Team will not be held responsible for
 all submitted information and data that may be shared with any other third
 parties apart from those that the Team directly liaised with.</p>
 <h4>3. Personal Information Security</h4>
-<p></p>
+<p>i. The Team shall protect and take all reasonable precautions and adequate
+measures to safeguard the participants' personal information against risks
+such as loss, theft, unauthorised access, unauthorised disclosure, omdification,
+copying, use and destruction.</p>
+<p>ii. The Team will protect the confidentiality of the participants' personal
+information in its dealing with third parties.</p>
+<p>iii. The Team will not request for the participants' username and password
+via email or telephone. If participants receive such requests, please inform
+the Team immediately at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
 <h4>4. Accuracy of Personal Information</h4>
 <p></p>
 <h4>5. Retention and Destruction of Personal Information</h4>
