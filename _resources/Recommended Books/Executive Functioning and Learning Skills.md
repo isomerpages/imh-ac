@@ -17,7 +17,7 @@ skills for persons with autism!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dawson, P., &amp; Guare, R. (2018). Executive skills in children and adolescents:
+<div class="isomer-card-title">Dawson, P. &amp; Guare, R. (2018). Executive skills in children and adolescents:
 A practical guide to assessment and intervention (3rd ed.). Guilford Press.</div>
 <div class="isomer-card-description">This book provides evidence-based strategies for assessing and improving
 executive function skills in children and adolescents, including those
@@ -31,7 +31,7 @@ with ASD.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cooper-Kahn, J., &amp; Dietzel, L. (2019). Late, lost, and unprepared:
+<div class="isomer-card-title">Cooper-Kahn, J. &amp; Dietzel, L. (2019). Late, lost, and unprepared:
 A parent's guide to helping children with executive functioning. Woodbine
 House.</div>
 <div class="isomer-card-description">This book offers practical tips for parents to support children with executive
