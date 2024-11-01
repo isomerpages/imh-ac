@@ -54,15 +54,44 @@ have about autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/How_to_be_a_sisteer_A_love_story_with_a_twist_of_autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Siblings_The_autism_spectrum_through_our_eyes.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Garvin, E. (2018). How to Be a Sister: A Love Story with a Twist of Autism.
-Cambridge, MA: Think Piece Publishing.</div>
-<div class="isomer-card-description">A memoir by a sister of a person with autism that explores the unique
-sibling bond, the challenges, and the growth that comes from being part
-of a family with autism.</div>
+<div class="isomer-card-title">Johnson, J. &amp; Van Rensselaer, A. (2013). Siblings: The Autism Spectrum
+Through Our Eyes. London, England: Jessica Kingsley Publishers.</div>
+<div class="isomer-card-description">A collection of real-life stories written by siblings of individuals with
+autism. It offers insight, empathy, and practical advice for siblings experiencing
+similar challenges.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Brotherly_Feelings_Me__My_Emotions__and_My_Brother_with_Asperger_s_Syndrome.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Frender, S., &amp; Schiffmiller, R. (2009). Brotherly Feelings: Me, My
+Emotions, and My Brother with Asperger's Syndrome. London, England: Jessica
+Kingsley Publishers.</div>
+<div class="isomer-card-description">A diary-style account written by a sibling about the emotional ups and
+downs of living with a brother with Asperger's Syndrome. It’s aimed at
+young readers who may have similar experiences.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism__the_invisible_cord_A_sibling_s_diary.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cain, B.S. (2012). Autism, The Invisible Cord: A Sibling’s Diary. Washington,
+DC: Magination Press.</div>
+<div class="isomer-card-description">This diary-format book tells the story of a teenage girl navigating life
+with her brother who has autism. The book offers relatable experiences
+for teens facing similar challenges.</div>
 </div>
 </div>
 </div>
