@@ -16,8 +16,8 @@ third_nav_title: Recommended Books
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Buron Kari Dunn. (2006). When My Worries Get Too Big! Autism Asperger
-Publishing Company.</div>
+<div class="isomer-card-title">Buron, K. D. (2006). When My Worries Get Too Big! Autism Asperger Publishing
+Company.</div>
 <div class="isomer-card-description">To help children with ASD manage anxiety and stress. It uses simple language
 and engaging visuals to teach relaxation techniques.</div>
 </div>
