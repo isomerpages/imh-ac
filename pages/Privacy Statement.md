@@ -20,7 +20,28 @@ for necessary communication and participant support. The Team may have
 limited ability to assist enquiries and programme sign-ups if no information
 was provided.</p>
 <h4>2. Disclosure of Personal Information</h4>
-<p></p>
+<p>i. The Team will not disclose any participants' personal information except
+under these limited circumstances: a) The Team members will access the
+participants' personal information to provide the services that participants
+request for and b) communicate updates or information and any related or
+ancillary purposes deemed necessary by the Team.</p>
+<p>ii. Any disclosure of the participants' personal information by the Team
+to any third party will be used specifically for the purpose for which
+it had been disclosed. The Team will not share the participants' personal
+information to any party that is not involved in the collaboration of the
+Autism Collaborative.</p>
+<p>iii. By registering to be part of the AC network, you have given absolute
+consent and agree for all submitted information and data to be used for
+the submission of any grants related to the costs of organising and running
+of the Autism Collaborative. Any disclosure of the participants' personal
+information by the Team to any third party will be used specifically for
+the purpose for which it had been disclosed.</p>
+<p>iv. The Team shall protect and take all reasonable precautions and adequate
+measures to safeguard the participants' personal information against risks
+such as loss, theft, unauthorised access, unauthorised disclosure, modification,
+copying, use and destruction. The Team will not be held responsible for
+all submitted information and data that may be shared with any other third
+parties apart from those that the Team directly liaised with.</p>
 <h4>3. Personal Information Security</h4>
 <p></p>
 <h4>4. Accuracy of Personal Information</h4>
