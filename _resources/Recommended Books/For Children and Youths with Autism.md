@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Recommended Books
 ---
-<p>Here are some recommended books for children and youths with autism! Books
-may be found at National Library (NLB) Singapore, selected local bookstores
-and online bookstores.</p>
+<p>Here are some recommended books for children and youths with autism!</p>
+<p><sub>Note: Books may be found at National Library (NLB) Singapore, selected local bookstores and online bookstores.</sub>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
