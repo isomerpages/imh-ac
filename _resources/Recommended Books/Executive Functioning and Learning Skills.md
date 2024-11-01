@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Recommended Books
 ---
-<p>Here are some recommended books regarding executive functioningand learning
+<p>Here are some recommended books regarding executive functioning and learning
 skills for persons with autism!</p>
 <p><sub>Note: Books may be found at National Library (NLB) Singapore, selected local bookstores and online bookstores.</sub>
 </p>
