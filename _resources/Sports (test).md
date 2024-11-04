@@ -16,7 +16,8 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Organisation &amp; Contact</p>
+<p>Organisation
+<br>&amp; Contact Details</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Programme Information</p>
@@ -124,7 +125,66 @@ needs):</p>
 <details class="isomer-details">
 <summary>Cycling</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation
+<br>&amp; Contact Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://agelessbicyclists.org/" rel="noopener nofollow" target="_blank">Ageless Bicyclist</a>
+</p>
 <p></p>
+<p>Tel: 97614317
+<br>Email:
+<br><a href="mailto:gday@agelessbicyclists.org" rel="noopener noreferrer nofollow" target="_blank">gday@agelessbicyclists.org</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inclusive recreation cycling program for individuals with Autism</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pedal enABLE: Inclusive cycling sessions for independent cyclists</p>
+</li>
+<li>
+<p>ABL BikeFIX: Bike mechanic and repair workshop</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://cycleschoolsg.com/" rel="noopener nofollow" target="_blank">Cycle School SG</a>
+</p>
+<p></p>
+<p>Tel: 97552844
+<br>Email:
+<br><a href="https://cycleschoolsg.com" rel="noopener noreferrer nofollow" target="_blank">https://cycleschoolsg.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open to children with ADD, ADHD, Autism (Mild Spectrum), Aspergers (Psychomotor),
+Mild Intellectual Disability</p>
+<p></p>
+<p>Lessons Structure: Beginner / Intermediate / Advanced</p>
+<p></p>
+<p>Pricing: Individual: $90/per hour Private group: $75/per hour | Group
+Lesson: $60/per hour</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
