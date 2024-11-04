@@ -75,13 +75,6 @@ or profit-generating purpose, or in the conduct of research that is subject
 to consulting, licensing or other similar legal or commercial obligations
 to another institution, corporation or business entity, unless the provider
 provides its prior written consent.</p>
-<h4>7. Photography and Video Recordings</h4>
-<p>i. The Team has the right to use images/videos taken by the Team or collaborating
-institutions at AC programmes for future marketing purposes and/or materials.</p>
-<p>ii. By joining the AC network, you grant the Team, or anyone authorised
-by the Team, the right to use or publish in print or electronic medium
-any photograph or video taken during AC programmes containing your image
-for educational, news, or promotional purposes without compensation.</p>
-<p>iii. For any enquiries regarding the Privacy Policy or any requests regarding
+<p>ii. For any enquiries regarding the Privacy Policy or any requests regarding
 personal information, please contact the Team at <a href="mailto:autism_reesarch@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_reesarch@imh.com.sg</a>.</p>
 <p></p>
