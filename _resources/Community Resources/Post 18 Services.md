@@ -37,6 +37,9 @@ third_nav_title: Community Resources
 <td rowspan="1" colspan="1">
 <p>Pre-Vocational Classes for older students who have reached their academic
 potential.</p>
+<p></p>
+<p><em>Location: 126 Joo Seng Road, #03-05 Goldpine, Industrial Building S368355</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +68,20 @@ to suit different needs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Job support services for persons with disabilities</p>
+<p>Job support services for persons with disabilities.</p>
+<p></p>
+<p><em>Location:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Headquarters: ITE College Central, 2 Ang Mo Kio Drive Blk D, Level 2, #201G, S567720</em>
+</p>
+</li>
+<li>
+<p><em>Training &amp; Enrichment: 20 Lengkok Bahru, #01-11 Enabling Village S159053</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -82,6 +98,9 @@ to suit different needs.</p>
 <p>Me2 was born from an idea of giving youths &amp; disabled persons who
 might not otherwise have help with training &amp; placement into a job
 role where they feel happy, understood &amp; recognized as a person.</p>
+<p></p>
+<p><em>Location: 12 Hoy Fatt Road, #04-01 S159506</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -95,6 +114,9 @@ role where they feel happy, understood &amp; recognized as a person.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Programme aimed at uplifting students with talent/ strong capability.</p>
+<p></p>
+<p><em>Location: 18 Cross Street #02-101, S048423</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,6 +146,9 @@ not attending:</p>
 <p>Open employment</p>
 </li>
 </ul>
+<p></p>
+<p><em>Location: St Patrick's School Brothers' Residence 490 East Coast Rd, Singapore 429058</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -138,6 +163,11 @@ not attending:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adapted development for employability.</p>
+<p></p>
+<p><em>Location:</em>
+</p>
+<p><em>79 Ayer Rajah Crescent #01-06 S139955</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +189,7 @@ weeks, 9.30 AM 5.00 PM.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mijhub.com" rel="noopener nofollow" target="_blank">My inspiring Journey</a></strong>
+<p><strong><a href="mijhub.com" rel="noopener nofollow" target="_blank">My Inspiring Journey</a></strong>
 </p>
 <p></p>
 <p>Tel: 6443 6601
@@ -180,6 +210,9 @@ weeks, 9.30 AM 5.00 PM.</p>
 <p>Our Work Readiness Adult Programme (WRAP)</p>
 </li>
 </ul>
+<p></p>
+<p><em>Location: Changi, Woodlands, Jurong</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -211,6 +244,9 @@ that they can list and sell their handicraft work.</p>
 <td rowspan="1" colspan="1">
 <p>Persons with autism will help to test and pack the electronical products
 that the company has.</p>
+<p></p>
+<p><em>Location: 126 Joo Seng Road, #03-05 Goldpine, Industrial Building S368355</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -284,6 +320,9 @@ participation in comminity and develop friendships.</p>
 <br>Email:
 <br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
 </p>
+<p></p>
+<p>Click <a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">here</a> for
+the registration link.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A club for special needs youth to hang out!</p>
