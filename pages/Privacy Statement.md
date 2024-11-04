@@ -45,7 +45,7 @@ parties apart from those that the Team directly liaised with.</p>
 <h4>3. Personal Information Security</h4>
 <p>i. The Team shall protect and take all reasonable precautions and adequate
 measures to safeguard the participants' personal information against risks
-such as loss, theft, unauthorised access, unauthorised disclosure, omdification,
+such as loss, theft, unauthorised access, unauthorised disclosure, modification,
 copying, use and destruction.</p>
 <p>ii. The Team will protect the confidentiality of the participants' personal
 information in its dealing with third parties.</p>
