@@ -2,10 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Community Resources/Community Resources (Horticulture).md
-      - Community Resources/.keep
-      - Community Resources/Sports.md
-      - Community Resources/Arts.md
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
@@ -20,6 +16,10 @@ collections:
       - Recommended Books/Caregiver Experiences and Support.md
       - Recommended Books/Experiences of Siblings of Persons with Autism.md
       - Recommended Books/Books by Authors with Autism.md
+      - Community Resources/.keep
+      - Community Resources/Community Resources (Horticulture).md
+      - Community Resources/Sports.md
+      - Community Resources/Arts.md
       - Mental Health Services.md
       - Inclusive Medical Services.md
       - Inclusive Dental Services.md
