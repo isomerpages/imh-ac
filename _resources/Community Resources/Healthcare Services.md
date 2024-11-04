@@ -46,7 +46,7 @@ third_nav_title: Community Resources
 </p>
 </li>
 <li>
-<p><em>180 Kitcher Road, #08-06, City Square Mall, S6909 2170 </em>
+<p><em>180 Kitcher Road, #08-06, City Square Mall, S6909 2170</em>
 </p>
 </li>
 </ul>
@@ -121,18 +121,40 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="https://drtammiquek.com/paediatrics-clinic/" rel="noopener nofollow" target="_blank">Developmental &amp; Behavioral Paediatrics Clinic</a></strong>
+</p>
 <p></p>
+<p>Tel: 6397 6637</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Dr. Tammi Quek |</p>
+<p>Diagnostic assessments, treating planning, monitoring progress</p>
 <p></p>
+<p>Mondays to Fridays: 9am - 5pm
+<br>Closed on Saturdays &amp; Sundays</p>
+<p></p>
+<p><em>Location: 10 Sinaran Drive, #10-12 Novena Medical Centre, S307506</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Dr. Soh Family Clinic</strong>
+</p>
 <p></p>
+<p>Tel: 6886 0905</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Dr. Kenny Poh</p>
 <p></p>
+<p>Mondays to Fridays: 8:30am - 1pm
+<br>Mondays - Wednesdays, &amp; Fridays: 2 - 4:30pm
+<br>Mondays, Tuesdays, Thursdays: 7 - 9pm
+<br>Saturdays: 11:30 - 1pm
+<br>Sundays: 9am - 1pm
+<br>
+<br><em>Location: 966 Jurong West Street 93, S640966</em>
+</p>
 </td>
 </tr>
 </tbody>
