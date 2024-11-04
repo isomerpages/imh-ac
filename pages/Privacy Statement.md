@@ -53,10 +53,35 @@ information in its dealing with third parties.</p>
 via email or telephone. If participants receive such requests, please inform
 the Team immediately at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
 <h4>4. Accuracy of Personal Information</h4>
-<p></p>
+<p>i. The participants' personal information will be deemed as accurate and
+complete upon registering interest in joining the AC network, necessary
+for the purpose for which it is intended to be used.</p>
+<p>ii. Accurate, complete and up to date personal information will minimise
+any inappropriate decisions made about a participant when the need arises.</p>
+<p>iii. The participants may email to <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> and
+request for changes to be made to their registration details.</p>
 <h4>5. Retention and Destruction of Personal Information</h4>
-<p></p>
+<p>i. The Team will maintain appropriate practices for retention and destruction
+where participants' personal information will be erased and destroyed if
+it is no longer of use or relevant. Upon the destruction of participants'
+personal information, the Team will then no longer have access to such
+personal information.</p>
 <h4>6. Transfer of Personal Information</h4>
-<p></p>
+<p>i. The participants' personal information provided is not transferrable
+to other countries and will be accessed only by the Team and its duly authorised
+partner/s. The Team shall not use any data provided by the participants,
+or any substance that is replicated or derived therefrom for any commercial
+or profit-generating purpose, or in the conduct of research that is subject
+to consulting, licensing or other similar legal or commercial obligations
+to another institution, corporation or business entity, unless the provider
+provides its prior written consent.</p>
 <h4>7. Photography and Video Recordings</h4>
+<p>i. The Team has the right to use images/videos taken by the Team or collaborating
+institutions at AC programmes for future marketing purposes and/or materials.</p>
+<p>ii. By joining the AC network, you grant the Team, or anyone authorised
+by the Team, the right to use or publish in print or electronic medium
+any photograph or video taken during AC programmes containing your image
+for educational, news, or promotional purposes without compensation.</p>
+<p>iii. For any enquiries regarding the Privacy Policy or any requests regarding
+personal information, please contact the Team at <a href="mailto:autism_reesarch@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_reesarch@imh.com.sg</a>.</p>
 <p></p>
