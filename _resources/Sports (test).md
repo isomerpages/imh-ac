@@ -127,5 +127,23 @@ needs):</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Horse Riding</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ball Sports</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Others</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
