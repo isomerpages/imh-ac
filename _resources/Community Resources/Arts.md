@@ -236,7 +236,68 @@ to their ability and learning pace.</p>
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation
+<br>&amp; Contact Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.srt.com.sg/" rel="noopener nofollow" target="_blank">Singapore Repertory Theatre</a>
+</p>
 <p></p>
+<p>Email:
+<br><a href="mailto:seren@srt.com.sg" rel="noopener noreferrer nofollow" target="_blank">seren@srt.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SRT’s Inclusive Young Company (iYC) is a holistic acting programme for
+young persons and adults (ages 16 – 35)</p>
+<p></p>
+<p>Price: $225.00/semester (January- April, July- November)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.singaporefashionrunway.com/" rel="noopener nofollow" target="_blank">Singapore Fashion Runway</a>
+</p>
+<p></p>
+<p>Tel: 9766 2490
+<br>Email:
+<br><a href="mailto:welovesfr@gmail.com" rel="noopener noreferrer nofollow" target="_blank">welovesfr@gmail.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants learn about designing, sewing, modelling, photography, styling,
+writing and/ or events organising</p>
+<p></p>
+<p>Price: $1040 (52 sessions, 1 year)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hatch.sg/" rel="noopener nofollow" target="_blank">Hatch</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hatch Academy runs programs in Digital Marketing and User Interface, User
+Experience (UI/UX) Design.</p>
+<p></p>
+<p>Price: $480/ 3hrs class</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
