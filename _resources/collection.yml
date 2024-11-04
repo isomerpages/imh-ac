@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Community Resources/.keep
-      - Community Resources/Arts.md
       - Community Resources/Sports.md
+      - Community Resources/Arts.md
       - Online Resources/.keep
       - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
