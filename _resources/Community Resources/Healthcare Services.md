@@ -177,7 +177,7 @@ progress</p>
 <td rowspan="1" colspan="1">
 <p>Mon - Sun: 8:30am-12pm
 <br>Mon - Fri: 2:30pm - 4:30pm
-<br>Tues - Fri: 7pm-9pm</p>
+<br>Tues - Fri: 7pm - 9pm</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -276,7 +276,7 @@ and link them to the suitable EYS clinics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon &amp; Fri: 9am - 1pm /2pm - 6pm
+<p>Mon &amp; Fri: 9am - 1pm / 2pm - 6pm
 <br>Tues - Thurs: 12pm - 4pm / 5pm - 8pm</p>
 <p></p>
 <p>Pricing: $15 | Bring along any other disability membership card</p>
@@ -322,7 +322,7 @@ and link them to the suitable EYS clinics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon &amp; Fri: 8:30am - 12:30pm / 2pm - 4pm / 6pm - 8:30pm
-<br>Sat: 8:30am - 12:30pm / 2-4pm
+<br>Sat: 8:30am - 12:30pm / 2pm - 4pm
 <br>Closed on Sun</p>
 <p></p>
 <p><em>Location: 505 Tampines Central 1, #01 - 339, S520505</em>
@@ -339,7 +339,7 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Dr. TH Chia</p>
 <p></p>
-<p>Mon &amp; Fri : 8:30am - 12:30pm / 2pm - 4pm / 6 - 8:30pm
+<p>Mon &amp; Fri : 8:30am - 12:30pm / 2pm - 4pm / 6pm - 8:30pm
 <br>Sat and Sun: 9am - 12pm</p>
 <p></p>
 <p><em>Location: 151 Serangoon North Ave 2, S550151</em>
@@ -362,7 +362,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Mon - Wed: 8:30am - 1pm / 2pm - 6:30pm
 <br>Thurs &amp; Fri: 8:30am-1pm
 <br>Sat: 8:30am - 12:30pm
-<br>Closes on Sunand Public Holidays</p>
+<br>Closes on Sun and Public Holidays</p>
 <p></p>
 <p>Other Services:</p>
 <ul data-tight="true" class="tight">
@@ -552,7 +552,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Dr. Leonard Lim</p>
 <p></p>
 <p>Mon - Sat: 8:30am - 3pm
-<br>Mon, Wed, Fri: 6:30 - 9:30pm</p>
+<br>Mon, Wed, Fri: 6:30pm - 9:30pm</p>
 <p></p>
 <p><em>Location: 716 Yishun Street 71, #01-270, S760715</em>
 </p>
