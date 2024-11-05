@@ -370,7 +370,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Insurance medical examination</p>
 </li>
 <li>
-<p>Advance Medical Directive(AMD)</p>
+<p>Advance Medical Directive (AMD)</p>
 </li>
 <li>
 <p>Lasting Power of Attorney (LPA)</p>
