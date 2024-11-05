@@ -323,7 +323,7 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Mon &amp; Fri: 8:30am - 12:30pm / 2pm - 4pm / 6pm - 8:30pm
 <br>Sat: 8:30am - 12:30pm / 2-4pm
-<br>Closed on Sundays</p>
+<br>Closed on Sun</p>
 <p></p>
 <p><em>Location: 505 Tampines Central 1, #01 - 339, S520505</em>
 </p>
@@ -339,8 +339,8 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Dr. TH Chia</p>
 <p></p>
-<p>Mondays &amp; Fridays: 8:30am - 12:30pm / 2-4pm / 6-8:30pm
-<br>Saturdays and Sundays: 9am - 12pm</p>
+<p>Mon &amp; Fri : 8:30am - 12:30pm / 2pm - 4pm / 6 - 8:30pm
+<br>Sat and Sun: 9am - 12pm</p>
 <p></p>
 <p><em>Location: 151 Serangoon North Ave 2, S550151</em>
 </p>
@@ -359,10 +359,10 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Dr. Ray Seah</p>
 <p></p>
-<p>Mondays - Wednesdays: 8:30am - 1pm / 2-6:30pm
-<br>Thursday &amp; Friday: 8:30am-1pm
-<br>Saturday: 8:30am - 12:30pm
-<br>Closes on Sundays and Public Holidays</p>
+<p>Mon - Wed: 8:30am - 1pm / 2pm - 6:30pm
+<br>Thurs &amp; Fri: 8:30am-1pm
+<br>Sat: 8:30am - 12:30pm
+<br>Closes on Sunand Public Holidays</p>
 <p></p>
 <p>Other Services:</p>
 <ul data-tight="true" class="tight">
@@ -388,10 +388,8 @@ and link them to the suitable EYS clinics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays</p>
-<p>-Saturdays:</p>
-<p>10am - 12:30pm / 2-4:30pm / 7-9pm
-<br>Closes on Sundays and Public Holidays</p>
+<p>Mon - Sat: 10am - 12:30pm / 2pm - 4:30pm / 7pm - 9pm
+<br>Closes on Sun and Public Holidays</p>
 <p></p>
 <p><em>Location: 101 Yishun Ave 5, #01-31, S760101</em>
 </p>
