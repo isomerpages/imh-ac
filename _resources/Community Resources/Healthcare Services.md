@@ -441,7 +441,7 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Mon - Fri: 9am - 6pm
 <br>Sat: 9am - 1pm
-<br>Closed on Sundays</p>
+<br>Closed on Sun</p>
 <p></p>
 <p><em>Location: T32 Dental Centre, 1 Orchard Blvd, #17-00, S248649</em>
 </p>
@@ -488,7 +488,7 @@ and link them to the suitable EYS clinics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon - Fri: 9:30-1pm / 2-5:30pm</p>
+<p>Mon - Fri: 9:30am - 1pm / 2pm - 5:30pm</p>
 <p></p>
 <p>Pricing: $30*
 <br>*Bring along any other disability membership card</p>
@@ -511,7 +511,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Kids Dental World | Dr. Ong Yen Sze</p>
 <p></p>
 <p>Mon - Sat: 8:30am - 5:30pm
-<br>Closed on Sundays</p>
+<br>Closed on Sun</p>
 <p></p>
 <p><em>Location: 38 Irrawaddy Road, #08-33, S329563</em>
 </p>
@@ -566,9 +566,9 @@ and link them to the suitable EYS clinics.</p>
 <p></p>
 <p>Mon - Fri: 9am - 5pm
 <br>Sat: 9am - 2pm
-<br>Closed on Sundays and Public Holidays</p>
+<br>Closed on Sun and Public Holidays</p>
 <p></p>
-<p><em>Location: </em>
+<p><em>Location:</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -618,7 +618,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Dr. Ang Kok-Yang | Adults Special Needs Dentistry</p>
 <p></p>
 <p>Mon - Fri: 8:30am - 5:30pm
-<br>Closes on Saturdays, Sundays, and Public Holidays</p>
+<br>Closes on Sat, Sun, and Public Holidays</p>
 <p></p>
 <p><em>Location:</em>
 </p>
@@ -638,7 +638,7 @@ and link them to the suitable EYS clinics.</p>
 <p></p>
 <p>Mon - Thur: 9am - 9pm
 <br>Fri &amp; Sat: 9am - 6pm
-<br>Closed on Sundays and Public Holidays</p>
+<br>Closed on Sun and Public Holidays</p>
 <p></p>
 <p><em>Location: 168 Punggol Field, #02-06, S820168</em>
 </p>
