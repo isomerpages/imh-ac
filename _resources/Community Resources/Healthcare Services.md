@@ -177,7 +177,7 @@ progress</p>
 <td rowspan="1" colspan="1">
 <p>Mon - Sun: 8:30am-12pm
 <br>Mon - Fri: 2:30pm - 4:30pm
-<br>Tues - Fri: 7-9pm</p>
+<br>Tues - Fri: 7pm-9pm</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
