@@ -65,8 +65,18 @@ third_nav_title: Community Resources
 <td rowspan="1" colspan="1">
 <p>Various types of therapies.</p>
 <p></p>
-<p>Pricing: $120/hr (Individual) | $60/hr or $80/1.5hr (Group)
-<br>Financial assistance is provided when necessary.</p>
+<p>Pricing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$120/hr (Individual)</p>
+</li>
+<li>
+<p>$60/hr or $80/1.5hr (Group)</p>
+</li>
+<li>
+<p>Financial assistance is provided when necessary</p>
+</li>
+</ul>
 <p></p>
 <p><em>Location: 7500A Beach Rd, #01-313 The Plaza, S199591</em>
 </p>
@@ -88,7 +98,7 @@ third_nav_title: Community Resources
 <p>Individual sessions:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$600 for 11 sessions 45min/sech</p>
+<p>$600 for 11 sessions 45min/sesh</p>
 </li>
 <li>
 <p>$400 for 11 sessions 30min/sesh</p>
@@ -147,11 +157,11 @@ progress</p>
 <td rowspan="1" colspan="1">
 <p>Dr. Kenny Poh</p>
 <p></p>
-<p>Mondays to Fridays: 8:30am - 1pm
-<br>Mondays - Wednesdays, &amp; Fridays: 2 - 4:30pm
-<br>Mondays, Tuesdays, Thursdays: 7 - 9pm
-<br>Saturdays: 11:30 - 1pm
-<br>Sundays: 9am - 1pm
+<p>Mon - Fri: 8:30am - 1pm
+<br>Mon - Wed, &amp; Fri: 2pm - 4:30pm
+<br>Mon, Tues, Thurs: 7pm - 9pm
+<br>Sat: 11:30am - 1pm
+<br>Sun: 9am - 1pm
 <br>
 <br><em>Location: 966 Jurong West Street 93, S640966</em>
 </p>
@@ -165,9 +175,9 @@ progress</p>
 <p>Tel: 6384 0904</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays to Sundays: 8:30am-12pm
-<br>Mondays to Fridays: 2:30-4:30pm
-<br>Tuesdays to Fridays: 7-9pm</p>
+<p>Mon - Sun: 8:30am-12pm
+<br>Mon - Fri: 2:30pm - 4:30pm
+<br>Tues - Fri: 7-9pm</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -211,9 +221,9 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Community-based and integrated health team</p>
 <p></p>
-<p>Mondays - Fridays: 8:30am - 6pm
-<br>Fridays: 8:30am - 5:30pm
-<br>Closed on Saturdays and Sundays</p>
+<p>Mon - Fri-: 8:30am - 6pm
+<br>Fri: 8:30am - 5:30pm
+<br>Closed on Sat and Sun</p>
 <p></p>
 <p><em>Location: 600 Upper Thomson Road, Blk E, #01-43 Upper Thomson Community Hub, S574421</em>
 </p>
@@ -229,9 +239,9 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Dr. Erwin Kay</p>
 <p></p>
-<p>Mondays to Fridays: 8:30am - 2pm / 7-9pm
-<br>Saturdays: 8:30am - 12:30pm
-<br>Closed on Sundays</p>
+<p>Mon - Fri: 8:30am - 2pm / 7pm - 9pm
+<br>Sat: 8:30am - 12:30pm
+<br>Closed on Sun</p>
 <p></p>
 <p><em>Location: Blk 515 Bedok North Avenue 2, #01-205, S460515</em>
 </p>
@@ -247,11 +257,11 @@ and link them to the suitable EYS clinics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Fridays: 9-1pm / 2-5pm</p>
+<p>Mon &amp; Fri: 9am - 1pm / 2pm - 5pm</p>
 <p></p>
-<p>Whole consult would normally take around 1.5-2 hours</p>
+<p>Whole consult would take around 1.5-2 hours</p>
 <p></p>
-<p><em>Blk 2 Queen’s Rd, #01-181, S260002</em>
+<p><em>Location: Blk 2 Queen’s Rd, #01-181, S260002</em>
 </p>
 </td>
 </tr>
