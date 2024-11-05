@@ -276,8 +276,8 @@ and link them to the suitable EYS clinics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Fridays: 9-1pm /2-6pm
-<br>Tuesdays, Wednesdays, Thursdays: 12-4pm / 5-8pm</p>
+<p>Mon &amp; Fri: 9am - 1pm /2pm - 6pm
+<br>Tues - Thurs: 12pm - 4pm / 5pm - 8pm</p>
 <p></p>
 <p>Pricing: $15 | Bring along any other disability membership card</p>
 <p></p>
@@ -296,9 +296,9 @@ and link them to the suitable EYS clinics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays to Fridays: 8:30am - 4pm
-<br>Saturdays: 8:30am - 12pm
-<br>Closed on Sundays</p>
+<p>Mon - Fri: 8:30am - 4pm
+<br>Sat: 8:30am - 12pm
+<br>Closed on Sun</p>
 <p></p>
 <p>Services Provided:</p>
 <ul data-tight="true" class="tight">
@@ -321,8 +321,8 @@ and link them to the suitable EYS clinics.</p>
 <br>Tel: 6783 7847</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Fridays: 8:30am - 12:30pm / 2-4pm / 6-8:30pm
-<br>Saturdays: 8:30am - 12:30pm / 2-4pm
+<p>Mon &amp; Fri: 8:30am - 12:30pm / 2pm - 4pm / 6pm - 8:30pm
+<br>Sat: 8:30am - 12:30pm / 2-4pm
 <br>Closed on Sundays</p>
 <p></p>
 <p><em>Location: 505 Tampines Central 1, #01 - 339, S520505</em>
