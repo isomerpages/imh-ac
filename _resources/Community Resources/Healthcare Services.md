@@ -383,7 +383,6 @@ and link them to the suitable EYS clinics.</p>
 <p><strong>Yishun Clinic (Ren Medical)</strong>
 <br>
 <br>Tel: 6257 6965
-<br>Email: <a href="mailto:medical.yarra@gmail.com" rel="noopener noreferrer nofollow" target="_blank">medical.yarra@gmail.com</a>
 <br>
 </p>
 </td>
