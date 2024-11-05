@@ -597,9 +597,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Mon - Fri: 8:30am - 7pm</p>
 <p>Sat: 8am - 5pm</p>
 <p></p>
-<p><em>Location:</em>
-</p>
-<p><em>The Penthouse, 391B Orchard Road, Ngee Ann City Tower B, #26-01, S238874</em>
+<p><em>Location: The Penthouse, 391B Orchard Road, Ngee Ann City Tower B, #26-01, S238874</em>
 </p>
 </td>
 </tr>
@@ -619,9 +617,7 @@ and link them to the suitable EYS clinics.</p>
 <p>Mon - Fri: 8:30am - 5:30pm
 <br>Closes on Sat, Sun, and Public Holidays</p>
 <p></p>
-<p><em>Location:</em>
-</p>
-<p><em>11 Jln Tan Tock Seng, Clinic 6B, Level 6, Medical Centre, S308433</em>
+<p><em>Location: 11 Jln Tan Tock Seng, Clinic 6B, Level 6, Medical Centre, S308433</em>
 </p>
 </td>
 </tr>
