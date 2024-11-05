@@ -130,8 +130,8 @@ third_nav_title: Community Resources
 <p>Dr. Tammi Quek | Diagnostic assessments, treatment planning, monitoring
 progress</p>
 <p></p>
-<p>Mondays to Fridays: 9am - 5pm
-<br>Closed on Saturdays &amp; Sundays</p>
+<p>Mon - Fri: 9am - 5pm
+<br>Closed on Sat &amp; Sun</p>
 <p></p>
 <p><em>Location: 10 Sinaran Drive, #10-12 Novena Medical Centre, S307506</em>
 </p>
