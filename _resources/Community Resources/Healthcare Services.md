@@ -221,7 +221,7 @@ and link them to the suitable EYS clinics.</p>
 <td rowspan="1" colspan="1">
 <p>Community-based and integrated health team</p>
 <p></p>
-<p>Mon - Fri-: 8:30am - 6pm
+<p>Mon - Thurs: 8:30am - 6pm
 <br>Fri: 8:30am - 5:30pm
 <br>Closed on Sat and Sun</p>
 <p></p>
