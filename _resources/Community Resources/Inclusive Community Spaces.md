@@ -60,6 +60,84 @@ School and Bettr Barista.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/changchengfoodtastic/" rel="noopener nofollow" target="_blank">FoodTastic (Keat Hong)</a></strong>
+</p>
+<p></p>
+<p>Tel: 6501 5285</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coffeeshop that has a self-ordering and paymentsystem, cashless payment
+terminals.</p>
+<p></p>
+<p><em>Location: 818 Choa Chu Kang Avenue 1 #01-01, S680818</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a></strong>
+</p>
+<p></p>
+<p>Tel: 8949 0142</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise cafe that provides employment opportunities for persons
+with disabilities, special needs, and mental health conditions.</p>
+<p></p>
+<p>Mon - Fri: 8am - 5pm</p>
+<p></p>
+<p><em>Location: NUS | Mediacorp Campus | Temasek Shophouse | Esplanade Mall</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.joanbowen.com/" rel="noopener nofollow" target="_blank">Joan Bowen Cafe</a></strong>
+</p>
+<p></p>
+<p>Tel: 6530 3628
+<br>Email:
+<br><a href="mailto:cafe@joanbowen.com" rel="noopener noreferrer nofollow" target="_blank">cafe@joanbowen.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A cafe that was started by a parent who has a child with special needs.
+The dishes are also hand cooked and prepared by persons with special needs.</p>
+<p></p>
+<p>Tues - Fri: 11:30am - 2:30pm
+<br>Closed on Mon, Sat, and Sun</p>
+<p></p>
+<p><em>Location: 9 Jalan Wangi, S349354</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/cafemetta/" rel="noopener nofollow" target="_blank">Metta Cafe</a></strong>
+</p>
+<p></p>
+<p>Tel: 6580 4624
+<br>Email:
+<br><a href="mailto:mettacafe@metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">mettacafe@metta.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A bakery that provides employment and training for youths with special
+needs.</p>
+<p></p>
+<p>Click <a href="https://shop.metta.org.sg/" rel="noopener nofollow" target="_blank">here</a> to
+order cakes and pastries.
+<br>Click <a href="https://shop.metta.org.sg/collections/donatemeal" rel="noopener nofollow" target="_blank">here</a> to
+donate a meal/cake.</p>
+<p></p>
+<p>Mon - Sun: 7am - 5pm
+<br>(Last order: 3:45pm)</p>
+<p></p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
