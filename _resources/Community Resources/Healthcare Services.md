@@ -127,8 +127,8 @@ third_nav_title: Community Resources
 <p>Tel: 6397 6637</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Tammi Quek |</p>
-<p>Diagnostic assessments, treating planning, monitoring progress</p>
+<p>Dr. Tammi Quek | Diagnostic assessments, treating planning, monitoring
+progress</p>
 <p></p>
 <p>Mondays to Fridays: 9am - 5pm
 <br>Closed on Saturdays &amp; Sundays</p>
@@ -154,6 +154,34 @@ third_nav_title: Community Resources
 <br>Sundays: 9am - 1pm
 <br>
 <br><em>Location: 966 Jurong West Street 93, S640966</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EON Medical Clinic</strong>
+</p>
+<p></p>
+<p>Tel: 6384 0904</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays to Sundays: 8:30am-12pm
+<br>Mondays to Fridays: 2:30-4:30pm
+<br>Tuesdays to Fridays: 7-9pm</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CHAS Participating Clinic</p>
+</li>
+<li>
+<p>IDAPE/Eldershield Disability Assessors</p>
+</li>
+<li>
+<p>CDMP Participating Clinics</p>
+</li>
+</ul>
+<p></p>
+<p><em>Location: 475 Upper Serangoon Cresent, MultiStorey Car Park, #01-04, S530475</em>
 </p>
 </td>
 </tr>
