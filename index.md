@@ -4,8 +4,7 @@ title: Autism Collaborative
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: HMDP sharing with visiting expert Prof Roy McConkey will be
-  happening from 21 to 25 October 2024!
+notification: ""
 sections:
   - hero:
       title: Autism Collaborative
