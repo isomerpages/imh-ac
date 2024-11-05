@@ -175,7 +175,7 @@ progress</p>
 <p>Tel: 6384 0904</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon - Sun: 8:30am-12pm
+<p>Mon - Sun: 8:30am - 12pm
 <br>Mon - Fri: 2:30pm - 4:30pm
 <br>Tues - Fri: 7pm - 9pm</p>
 <p></p>
