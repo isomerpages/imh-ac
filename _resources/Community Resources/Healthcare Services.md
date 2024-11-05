@@ -411,7 +411,6 @@ and link them to the suitable EYS clinics.</p>
 <details class="isomer-details">
 <summary>Dental Services</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
