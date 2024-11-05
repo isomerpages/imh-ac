@@ -103,7 +103,6 @@ third_nav_title: Community Resources
 <details class="isomer-details">
 <summary>Medical Services</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -412,6 +411,7 @@ and link them to the suitable EYS clinics.</p>
 <details class="isomer-details">
 <summary>Dental Services</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -430,18 +430,218 @@ and link them to the suitable EYS clinics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Camden Medical Centre</strong>
+</p>
 <p></p>
+<p>Tel: 6733 1388
+<br>Email:
+<br><a href="mailto:patientservices@t32dental.com" rel="noopener noreferrer nofollow" target="_blank">patientservices@t32dental.com</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mon - Fri: 9am - 6pm
+<br>Sat: 9am - 1pm
+<br>Closed on Sundays</p>
 <p></p>
+<p><em>Location: T32 Dental Centre, 1 Orchard Blvd, #17-00, S248649</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="https://clunycourtdental.com.sg/" rel="noopener nofollow" target="_blank">Cluny Court Family Dental</a></strong>
+</p>
 <p></p>
+<p>Tel: 6467 9088 | 9235 7288
+<br>Email:
+<br><a href="mailto:clunycourtfamilydental@gmail.com" rel="noopener noreferrer nofollow" target="_blank">clunycourtfamilydental@gmail.com</a> 
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Pediatrics Dentist (6 months to 18 years-old)</p>
 <p></p>
+<p>Pricing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1st visit ($80) / 2nd visit onwards ($40)</p>
+</li>
+<li>
+<p>Cleaning ($90)</p>
+</li>
+<li>
+<p>Accepts CHAS card holders</p>
+</li>
+</ul>
+<p></p>
+<p><em>Location: 501 Bukit Timah Road, #02-18, S259760</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://enablingvillage.sg/portfolio-items/mount-alvernia-outreach-medical-and-dental-clinic/" rel="noopener nofollow" target="_blank">Mount Alvernia Outreach Medical Clinic</a></strong>
+<br>
+<br>Tel: 6473 9100
+<br>Email:
+<br><a href="mailto:outreachclinic@mtalvernia.sg" rel="noopener noreferrer nofollow" target="_blank">outreachclinic@mtalvernia.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Fri: 9:30-1pm / 2-5:30pm</p>
+<p></p>
+<p>Pricing: $30*
+<br>*Bring along any other disability membership card</p>
+<p></p>
+<p><em>Location: Agape Village 7A Lorong 8 Toa Payoh, #02-07, S319264</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.kidsdentalworld.com.sg/index.html" rel="noopener nofollow" target="_blank">Mount Elizabeth Novena Specialist Centre</a></strong>
+</p>
+<p></p>
+<p>Tel: 6684 3113 | 8218 3777
+<br>Email:
+<br><a href="mailto:smile@kidsdentalworld.com.sg" rel="noopener noreferrer nofollow" target="_blank">smile@kidsdentalworld.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kids Dental World | Dr. Ong Yen Sze</p>
+<p></p>
+<p>Mon - Sat: 8:30am - 5:30pm
+<br>Closed on Sundays</p>
+<p></p>
+<p><em>Location: 38 Irrawaddy Road, #08-33, S329563</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.nucohs.com.sg/Pages/home.aspx" rel="noopener nofollow" target="_blank">National University Health System</a></strong>
+</p>
+<p></p>
+<p>Tel: 6716 2233
+<br>Email:
+<br><a href="mailto:NUHS_dental@nuhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NUHS_dental@nuhs.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Tay Chor Meng | Special Needs Dentistry</p>
+<p></p>
+<p><em>Location: 9 Lower Kent Ridge Road, S119085</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pacific Medical &amp; Dental Group</strong>
+<br>
+</p>
+<p>Tel: 6752 4050</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Leonard Lim</p>
+<p></p>
+<p>Mon - Sat: 8:30am - 3pm
+<br>Mon, Wed, Fri: 6:30 - 9:30pm</p>
+<p></p>
+<p><em>Location: 716 Yishun Street 71, #01-270, S760715</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.petitesmiles.sg/" rel="noopener nofollow" target="_blank">Petite Smiles Children's Dental Clinic</a></strong>
+</p>
+<p></p>
+<p>Tel: (Novena) 6250 8669 | (Dunearn) 6257 0117
+<br>Email:
+<br><a href="mailto:info@petitesmiles.sg" rel="noopener noreferrer nofollow" target="_blank">info@petitesmiles.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Ng Jing Ting | Dr. Tong Huei Jinn</p>
+<p></p>
+<p>Mon - Fri: 9am - 5pm
+<br>Sat: 9am - 2pm
+<br>Closed on Sundays and Public Holidays</p>
+<p></p>
+<p><em>Location: </em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>10 Sinaran Drive, #11-18, S307506</em>
+</p>
+</li>
+<li>
+<p><em>896 Dunearn Rd, S589472</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.tpdental.com.sg/" rel="noopener nofollow" target="_blank">Tp Dental</a></strong>
+</p>
+<p></p>
+<p>Tel: 6737 9011
+<br>Email:
+<br><a href="mailto:contact@tpdental.com" rel="noopener noreferrer nofollow" target="_blank">contact@tpdental.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Gan Siok Ngoh</p>
+<p></p>
+<p>Mon - Fri: 8:30am - 7pm</p>
+<p>Sat: 8am - 5pm</p>
+<p></p>
+<p><em>Location:</em>
+</p>
+<p><em>The Penthouse, 391B Orchard Road, Ngee Ann City Tower B, #26-01, S238874</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TTSH Dental</strong>
+</p>
+<p></p>
+<p>Tel: 6889 4627
+<br>Email:
+<br><a href="mailto:Clinic6B@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank">Clinic6B@ttsh.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Ang Kok-Yang | Adults Special Needs Dentistry</p>
+<p></p>
+<p>Mon - Fri: 8:30am - 5:30pm
+<br>Closes on Saturdays, Sundays, and Public Holidays</p>
+<p></p>
+<p><em>Location:</em>
+</p>
+<p><em>11 Jln Tan Tock Seng, Clinic 6B, Level 6, Medical Centre, S308433</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.fdc.sg/" rel="noopener nofollow" target="_blank">Victoria Dentalcare</a></strong>
+</p>
+<p></p>
+<p>Tel: 6886 0905</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Kenny Poh</p>
+<p></p>
+<p>Mon - Thur: 9am - 9pm
+<br>Fri &amp; Sat: 9am - 6pm
+<br>Closed on Sundays and Public Holidays</p>
+<p></p>
+<p><em>Location: 168 Punggol Field, #02-06, S820168</em>
+</p>
 </td>
 </tr>
 </tbody>
