@@ -135,7 +135,48 @@ donate a meal/cake.</p>
 <p>Mon - Sun: 7am - 5pm
 <br>(Last order: 3:45pm)</p>
 <p></p>
+<p><em>Location: Metta Building Level 1, Metta Cafe, 32 Simei Street 1, S529950</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.mynonnas.com/" rel="noopener nofollow" target="_blank">My NoNNa’s</a></strong>
+</p>
 <p></p>
+<p>Tel: 8188 8368
+<br>Email:
+<br><a href="mailto:geri@mynonnas.com" rel="noopener noreferrer nofollow" target="_blank">geri@mynonnas.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise that provides employment for persons with disabilities
+and the elderly.</p>
+<p></p>
+<p>Currently, they also provide employment via My NoNNa's Match-and-Train
+Program.</p>
+<p></p>
+<p><em>Locations: Upper Thomson | Canteens @ Catholic Junior College and Nanyang Girls High School</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.professorbrawn.com/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
+</p>
+<p></p>
+<p>Tel: 8321 2204 | 8129 4029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise by Autism Resource Centre (Singapore), which provides
+job and social integration opportunities to people with special needs and
+the disadvantaged in society.</p>
+<p></p>
+<p>(Redhill) Mon - Sat: 11am - 9pm
+<br>(AMK) Mon - Sat: 9am - 9pm</p>
+<p></p>
+<p><em>Location: Enabling Village @Redhill | Pathlight School @Ang Mo Kio</em>
+</p>
 </td>
 </tr>
 </tbody>
