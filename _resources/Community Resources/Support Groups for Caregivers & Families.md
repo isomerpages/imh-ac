@@ -206,6 +206,9 @@ by caregivers.</p>
 <p>Provide mutual support</p>
 </li>
 </ul>
+<p></p>
+<p><sub>Participants need to request to join the private Facebook group</sub>
+</p>
 </td>
 </tr>
 <tr>
@@ -219,6 +222,130 @@ by caregivers.</p>
 <p>For individuals and families of the disability community in Singapore.</p>
 <p></p>
 <p>Group Activities: Sharing of resources and information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://linktr.ee/sibsunite" rel="noopener nofollow" target="_blank">SibsUnite</a></strong>
+</p>
+<p></p>
+<p>All SENs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volunteer-run support group for siblings of persons with special needs
+(Only for siblings above 21).</p>
+<p></p>
+<p>Group Activities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SibsAcademy: Sharing of resources and information</p>
+</li>
+<li>
+<p>SibsMeet: Monthly meet-ups</p>
+</li>
+<li>
+<p>SibsDayOut: SN-friendly activities between siblings and their siblings
+with special needs</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/groups/261948530650504/about" rel="noopener nofollow" target="_blank">Singapore Muslim Special Needs Support Group</a></strong>
+</p>
+<p></p>
+<p>All SENs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Muslim families whose loved one has special needs | To raise awareness
+and provide support</p>
+<p></p>
+<p>Group Activities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sharing of resources and information</p>
+</li>
+<li>
+<p>Provide mutual support</p>
+</li>
+</ul>
+<p></p>
+<p><sub>Participants need to request to join the private Facebook group</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/groups/SingaporeSpecialCommunity/about" rel="noopener nofollow" target="_blank">Singapore Special Community</a></strong>
+</p>
+<p></p>
+<p>All SENs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For families of children with SEN | Founded by parents, the group aims
+to educate children with SEN on giving back to the society.</p>
+<p></p>
+<p>Group Activities: Bonding activities (e.g. Choir &amp; Art Classes)</p>
+<p></p>
+<p>Tel: 9009 7711</p>
+<p></p>
+<p><sub>Participants need to request to join the private Facebook group</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/groups/488991321113132/" rel="noopener nofollow" target="_blank">Special Needs Kids Singapore</a></strong>
+</p>
+<p></p>
+<p>All SENs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For families of children with SEN</p>
+<p></p>
+<p>Group Activities: Sharing of resources and information</p>
+<p></p>
+<p><sub>Participants need to request to join the private Facebook group</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/specialseeds.sg/" rel="noopener nofollow" target="_blank">Special Seeds</a></strong>
+</p>
+<p></p>
+<p>All Disabilities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For caregivers of persons with disabilities | A digital parenting resource
+initiative by the Rare Disorders Society of Singapore (RDSS)</p>
+<p></p>
+<p>Group Activities: Sharing of resources and information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/groups/Singaporespecialneedsandparents/" rel="noopener nofollow" target="_blank">SSNAP - Singapore Special Needs and Parents</a>
+</p>
+<p></p>
+<p>All SENs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents of children with SENs</p>
+<p></p>
+<p>Group Activities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sharing of resources and information</p>
+</li>
+<li>
+<p>Mutual support</p>
+</li>
+</ul>
+<p></p>
+<p><sub>Participants need to request to join the private Facebook group</sub>
+</p>
 </td>
 </tr>
 </tbody>
@@ -248,7 +375,7 @@ by caregivers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Whatsapp group chat for both individual with ASD (aged 18 and above) and
+<p>WhatsApp group chat for both individual with ASD (aged 18 and above) and
 their families.</p>
 <p></p>
 <p>Group Activities:</p>
@@ -302,6 +429,28 @@ their families.</p>
 <p></p>
 <p>Group Activities: Disseminate verified and updated information when a
 child goes missing in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.facebook.com/groups/SingaporeAutism/" rel="noopener nofollow" target="_blank">Singapore Autism Parents Need Support Too!</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For caregivers, families, and relatives of individuals with ASD</p>
+<p></p>
+<p>Group Activities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sharing of resources and information</p>
+</li>
+<li>
+<p>Provide mutual support</p>
+</li>
+</ul>
+<p></p>
+<p><sub>Participants need to request to join the private Facebook group</sub>
+</p>
 </td>
 </tr>
 </tbody>
