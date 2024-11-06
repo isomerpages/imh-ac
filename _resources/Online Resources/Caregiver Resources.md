@@ -660,7 +660,8 @@ such as the:</p>
 <p>A Facebook page that shares resources with parents of children with special
 needs.</p>
 <p></p>
-<p>Email Contact: <a href="https://www.ams.edu.sg/view-pdf.aspx?file=media%5c6917_fi_934.pdf&amp;amp;ofile=2023+CPG+on+ASD+in+Children+and+Adolescents+Lay+Version.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>lilian@8under8.com</u></a>
+<p>Email Contact:
+<br><a href="mailto:lilian@8under8.com" rel="noopener noreferrer nofollow" target="_blank">lilian@8under8.com</a> 
 </p>
 </td>
 </tr>
