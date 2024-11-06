@@ -325,7 +325,7 @@ initiative by the Rare Disorders Society of Singapore (RDSS)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/groups/Singaporespecialneedsandparents/" rel="noopener nofollow" target="_blank">SSNAP - Singapore Special Needs and Parents</a>
+<p><strong><a href="https://www.facebook.com/groups/Singaporespecialneedsandparents/" rel="noopener nofollow" target="_blank">SSNAP - Singapore Special Needs and Parents</a></strong>
 </p>
 <p></p>
 <p>All SENs</p>
