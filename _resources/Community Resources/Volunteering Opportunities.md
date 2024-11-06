@@ -39,7 +39,7 @@ exercises and retreat.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.sccfsc.sg" rel="noopener nofollow" target="_blank">South Central Community Family Service Centre</a>
+<p><strong><a href="http://www.sccfsc.sg" rel="noopener nofollow" target="_blank">South Central Community Family Service Centre</a></strong>
 </p>
 <p></p>
 <p>Email: (Teresa Lee, Senior Executive)
