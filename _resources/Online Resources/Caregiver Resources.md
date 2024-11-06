@@ -653,7 +653,7 @@ such as the:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ams.edu.sg/view-pdf.aspx?file=media%5c6917_fi_934.pdf&amp;amp;ofile=2023+CPG+on+ASD+in+Children+and+Adolescents+Lay+Version.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>8under8.com</u></a>
+<p><a href="https://www.facebook.com/8under8/about" rel="noopener noreferrer nofollow" target="_blank"><u>8under8.com</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
