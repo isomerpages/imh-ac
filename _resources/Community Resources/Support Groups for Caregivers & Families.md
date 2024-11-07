@@ -5,38 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Community Resources
 ---
-<h4>Self-care Tips</h4>
-<p>Often, caregivers of individuals with ASD may prioritise the needs of
-those they care for over their own well-being. It is important for caregivers
-to take care for themselves to avoid burn out and ensure that they have
-the capacity to care for others.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Meditation</p>
-</li>
-<li>
-<p>Get proper sleep</p>
-</li>
-<li>
-<p>Be active</p>
-</li>
-<li>
-<p>Eat a well-balanced diet</p>
-</li>
-<li>
-<p>Engage in an activity you enjoy</p>
-</li>
-<li>
-<p>Set aside "me-time" to rest and relax</p>
-</li>
-<li>
-<p>Stay connected to your loved ones</p>
-</li>
-<li>
-<p>Reach out for support</p>
-</li>
-</ul>
-<h4>Support Groups for Caregivers and Family Members in Singapore</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Various SENs/Disabilities</summary>
@@ -457,4 +425,5 @@ child goes missing in Singapore</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
