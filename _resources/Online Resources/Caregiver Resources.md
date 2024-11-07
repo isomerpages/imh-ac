@@ -333,7 +333,7 @@ educational needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank"><u>Sheltered Workshops (SW): Service Matrix</u></a>
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank"><u>Sheltered Workshop (SW) Guide</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
