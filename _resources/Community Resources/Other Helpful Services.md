@@ -88,7 +88,7 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://www.eyezone.com.sg/" rel="noopener nofollow" target="_blank">Eyezone Optical</a></strong>
+<p><strong><a href="http://www.eyezone.com.sg/" rel="noopener nofollow" target="_blank">Eye Zone Optical</a></strong>
 </p>
 <p></p>
 <p>Tel: 6241 7445</p>
@@ -117,7 +117,7 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/teckyewoptical/?hl=en" rel="noopener nofollow" target="_blank">Teck Yew Optical &amp; Watches Co.</a>
+<p><strong><a href="https://www.instagram.com/teckyewoptical/?hl=en" rel="noopener nofollow" target="_blank">Teck Yew Optical &amp; Watches Co.</a></strong>
 <br>
 <br>Tel: 6281 3477</p>
 </td>
