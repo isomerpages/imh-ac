@@ -153,11 +153,12 @@ the tips and resources they may refer to.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/burnout-guide.pdf?sfvrsn=5c9155cb_0" rel="noopener nofollow" target="_blank"><u>Caregivers Asia</u></a>
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/burnout-guide.pdf?sfvrsn=5c9155cb_0" rel="noopener nofollow" target="_blank"><u>A Caregiver's Guide to Avoid Burnout</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Self-care tips and videos for caregivers that can be done at home.</p>
+<p>Singapore Silver Pages' informative booklet for caregivers that addresses
+feelings, self-care, and other resources.</p>
 </td>
 </tr>
 <tr>
