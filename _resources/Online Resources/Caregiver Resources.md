@@ -587,7 +587,7 @@ their families.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dear Doctor by the Lien Foundation is a four-part online video series
-which aims to empower caregivers during theCOVID-19 pandemic.</p>
+which aims to empower caregivers during the COVID-19 pandemic.</p>
 </td>
 </tr>
 <tr>
