@@ -657,8 +657,9 @@ designed to enhance digital literacy and responsible media consumption.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A community collaboration that aims to raise awareness of inclusion through
-talks and workshops on Facebook Live and Zoom.</p>
+<p>A community collaboration by Superhero Me and Lien Foundation that aims
+to raise awareness of inclusion through talks and workshops on Facebook
+Live and Zoom.</p>
 </td>
 </tr>
 <tr>
