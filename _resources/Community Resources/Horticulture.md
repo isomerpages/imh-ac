@@ -32,7 +32,7 @@ third_nav_title: Community Resources
 <p></p>
 <p>Tel: 8218 9707
 <br>Email:
-<br><a href="mailto:zhikin@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">zhikin@citysprouts.com.sg</a>
+<br><a href="mailto:hello@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">hello@citysprouts.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,8 @@ and environmental concerns.</p>
 <p></p>
 <p>Price: Varies from workshop to workshop.</p>
 <p></p>
-<p>In various locations.</p>
+<p><em>In various locations.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +63,8 @@ management to equip participants with horticulture skills.</p>
 <p></p>
 <p>Students have to go through school’s referral.</p>
 <p></p>
-<p>Location: Ang Mo Kio</p>
+<p><em>Location: Ang Mo Kio</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +81,8 @@ management to equip participants with horticulture skills.</p>
 <p>Founded by Lena (formerly of Flour Power) to do packing and urban farming
 tasks. May be open to take in workers that require support.</p>
 <p></p>
-<p>Location: Tai Seng</p>
+<p><em>Location: Tai Seng</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -116,13 +119,14 @@ tasks. May be open to take in workers that require support.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A not-for-profit social enterprise under the E4PID Co-op Ltd (Employment
-for Persons with Intellectual Disability Co-op Ltd).</p>
+<p>A not-for-profit social enterprise under the Employment for Persons with
+Intellectual Disability (E4PID) Co-op Ltd.</p>
 <p></p>
 <p>Aims to provide sustainable employment for individuals with intellectual
-disabilities</p>
+disabilities.</p>
 <p></p>
-<p>Location: Henderson Road</p>
+<p><em>Location: Henderson Road</em>
+</p>
 </td>
 </tr>
 </tbody>

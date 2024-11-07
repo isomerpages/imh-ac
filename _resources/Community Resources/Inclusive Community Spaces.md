@@ -135,7 +135,48 @@ donate a meal/cake.</p>
 <p>Mon - Sun: 7am - 5pm
 <br>(Last order: 3:45pm)</p>
 <p></p>
+<p><em>Location: Metta Building Level 1, Metta Cafe, 32 Simei Street 1, S529950</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.mynonnas.com/" rel="noopener nofollow" target="_blank">My NoNNa’s</a></strong>
+</p>
 <p></p>
+<p>Tel: 8188 8368
+<br>Email:
+<br><a href="mailto:geri@mynonnas.com" rel="noopener noreferrer nofollow" target="_blank">geri@mynonnas.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise that provides employment for persons with disabilities
+and the elderly.</p>
+<p></p>
+<p>Currently, they also provide employment via My NoNNa's Match-and-Train
+Program.</p>
+<p></p>
+<p><em>Locations: Upper Thomson | Canteens @ Catholic Junior College and Nanyang Girls High School</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.professorbrawn.com/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
+</p>
+<p></p>
+<p>Tel: 8321 2204 | 8129 4029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise by Autism Resource Centre (Singapore), which provides
+job and social integration opportunities to people with special needs and
+the disadvantaged in society.</p>
+<p></p>
+<p>(Redhill) Mon - Sat: 11am - 9pm
+<br>(AMK) Mon - Sat: 9am - 9pm</p>
+<p></p>
+<p><em>Location: Enabling Village @Redhill | Pathlight School @Ang Mo Kio</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -145,31 +186,238 @@ donate a meal/cake.</p>
 <details class="isomer-details">
 <summary>Gym</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>ActiveSG (Jurong West)</p>
+</li>
+<li>
+<p>ActiveSG @ Ang Mo Kio CC</p>
+</li>
+<li>
+<p>ActiveSG Gym @ Toa Payoh</p>
+</li>
+<li>
+<p>Enabling Village Gym</p>
+</li>
+<li>
+<p>Heartbeat @Bedok</p>
+</li>
+<li>
+<p>Jurong Lake Gardens Gym</p>
+</li>
+<li>
+<p>Kallang Stadium</p>
+</li>
+<li>
+<p>Parkour Gym Singapore</p>
+</li>
+<li>
+<p>Toa Payoh Sports Centre</p>
+</li>
+<li>
+<p>Woodlands Stadium</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Malls</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Changi Airport</p>
+</li>
+<li>
+<p>Changi CIty Point</p>
+</li>
+<li>
+<p>City Square mall (Farrer Park MRT)</p>
+</li>
+<li>
+<p>Junction 10</p>
+</li>
+<li>
+<p>Junction 9</p>
+</li>
+<li>
+<p>Our Tampines Hub (Tampines MRT)</p>
+</li>
+<li>
+<p>Tiong Bahru Plaza (Tiong Bahru MRT)</p>
+</li>
+<li>
+<p>Wisteria Mall</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Parks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Admiralty Park</p>
+</li>
+<li>
+<p>Bedok Reservoir</p>
+</li>
+<li>
+<p>Bishan-Ang Mo Kio Park</p>
+</li>
+<li>
+<p>Botanic Gardens</p>
+</li>
+<li>
+<p>Bukit Batok Nature Park</p>
+</li>
+<li>
+<p>Bukit Timah Hill</p>
+</li>
+<li>
+<p>Canberra Park (Sembawang)</p>
+</li>
+<li>
+<p>Chinese/Japanese Garden</p>
+</li>
+<li>
+<p>Coney Island</p>
+</li>
+<li>
+<p>Gardens By the Bay</p>
+</li>
+<li>
+<p>Jacob Ballas Children’s Garden</p>
+</li>
+<li>
+<p>Keat Hong park</p>
+</li>
+<li>
+<p>Labrador Park</p>
+</li>
+<li>
+<p>Macritchie Reservoir</p>
+</li>
+<li>
+<p>Marine Cove, East Coast Park</p>
+</li>
+<li>
+<p>Pasir Ris Park</p>
+</li>
+<li>
+<p>Serangoon Park</p>
+</li>
+<li>
+<p>Tiong Bahru Park</p>
+</li>
+<li>
+<p>West Coast Park</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Neighbourhoods</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>256 Bangkit Road</p>
+</li>
+<li>
+<p>7A Ghim Moh Road</p>
+</li>
+<li>
+<p>1 Tampines Avenue</p>
+</li>
+<li>
+<p>727 Tampines St 71</p>
+</li>
+<li>
+<p>110 Pasir Ris Road</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Pools</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Heartbeat@Bedok ActiveSG Swimming Complex</p>
+</li>
+<li>
+<p>Jurong Lake Gardens Swimming Complex</p>
+</li>
+<li>
+<p>Jurong West Swimming Complex</p>
+</li>
+<li>
+<p>Sengkang Swimming Complex</p>
+</li>
+<li>
+<p>Our Tampines Hub</p>
+</li>
+<li>
+<p>Pasir Ris Swimming Complex</p>
+</li>
+<li>
+<p>Causeway Point Water Playground</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>

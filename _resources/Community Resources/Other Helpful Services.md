@@ -45,12 +45,11 @@ third_nav_title: Community Resources
 <p></p>
 <p>Tel: 6737 9925
 <br>Email:
-<br><a href="mailto:littlereddot.1992@gmail.com" rel="noopener noreferrer nofollow" target="_blank">littlereddot.1992@gmail.com</a> 
+<br><a href="mailto:littlereddot.1992@gmail.com" rel="noopener noreferrer nofollow" target="_blank">littlereddot.1992@gmail.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays -</p>
-<p>Sundays: 10:30am - 6:30pm</p>
+<p>Mon - Sun: 10:30am - 6:30pm</p>
 <p></p>
 <p><em>Location: 583 Orchard Road, #02-35/36, The Forum Shopping Mall, S238884</em>
 </p>
@@ -66,7 +65,7 @@ third_nav_title: Community Resources
 <td rowspan="1" colspan="1">
 <p>Housekeeping Services</p>
 <p></p>
-<p>Mondays to Fridays: 10am - 8pm
+<p>Mon - Fri: 10am - 8pm
 <br>Weekends and Public Holidays: 10am - 5pm</p>
 <p></p>
 <p><em>Location: 130 Jurong Gateway Road, #01-233, S600130</em>
@@ -89,7 +88,7 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://www.eyezone.com.sg/" rel="noopener nofollow" target="_blank">Eyezone Optical</a></strong>
+<p><strong><a href="http://www.eyezone.com.sg/" rel="noopener nofollow" target="_blank">Eye Zone Optical</a></strong>
 </p>
 <p></p>
 <p>Tel: 6241 7445</p>
@@ -109,8 +108,8 @@ third_nav_title: Community Resources
 <td rowspan="1" colspan="1">
 <p>Vision Therapy Services</p>
 <p></p>
-<p>Tuesdays - Fridays: 10am - 6pm
-<br>Saturdays: 10am - 1pm</p>
+<p>Tues - Fri: 10am - 6pm
+<br>Sat: 10am - 1pm</p>
 <p></p>
 <p><em>Location: Tanglin Place, #02-01, 91 Tanglin Road, S247918</em>
 </p>
@@ -118,12 +117,12 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/teckyewoptical/?hl=en" rel="noopener nofollow" target="_blank">Teck Yew Optical &amp; Watches Co.</a>
+<p><strong><a href="https://www.instagram.com/teckyewoptical/?hl=en" rel="noopener nofollow" target="_blank">Teck Yew Optical &amp; Watches Co.</a></strong>
 <br>
 <br>Tel: 6281 3477</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays to Sundays: 11am - 6pm</p>
+<p>Mon - Sun: 11am - 6pm</p>
 <p></p>
 <p><em>Location: 204 Hougang Street 21, #01-127, S530204</em>
 </p>
@@ -184,7 +183,7 @@ requirements of persons with special needs</p>
 <p></p>
 <p>Tel: 8909 1606
 <br>Email:
-<br><a href="mailto:ask@timeliss.com" rel="noopener noreferrer nofollow" target="_blank">ask@timeliss.com</a> 
+<br><a href="mailto:ask@timeliss.com" rel="noopener noreferrer nofollow" target="_blank">ask@timeliss.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

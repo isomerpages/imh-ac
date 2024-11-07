@@ -197,7 +197,7 @@ progress</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://sg.euyansangclinic.com/en/clinics" rel="noopener nofollow" target="_blank">Eu Yan Sang TCM</a></strong>
+<p><strong><a href="https://sg.euyansangclinic.com/" rel="noopener nofollow" target="_blank">Eu Yan Sang TCM</a></strong>
 </p>
 <p></p>
 <p>Tel: 1800 888 1879</p>

@@ -35,7 +35,7 @@ third_nav_title: Upcoming Partnerships
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>May require parent/caregiver to accompany</p>
+<p>May require parent/ caregiver to accompany</p>
 </li>
 <li>
 <p><strong>Consent for recording</strong> of the session for professional
@@ -53,7 +53,7 @@ training is <strong>required</strong>
 <p>Updated Assessment Session (ADI-R)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For parent/caregivers</p>
+<p>For parents/ caregivers</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,11 +69,12 @@ training is <strong>required</strong>
 <p>10 January 2025, 3pm-4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discussion Group: What services or programmes do you think your child
-requires from healthcare organisations?</p>
+<p>Discussion Group:
+<br>What services or programmes do you think your child requires from healthcare
+organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For parents/caregivers with children with ASD <strong>below 12 years old</strong>
+<p>For parents/ caregivers with children with ASD <strong>below 12 years old</strong>
 </p>
 </td>
 </tr>
@@ -82,11 +83,12 @@ requires from healthcare organisations?</p>
 <p>17 January 2025, 3pm-4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discussion Group: What services or programmes do you think your child
-requires from healthcare organisations?</p>
+<p>Discussion Group:
+<br>What services or programmes do you think your child requires from healthcare
+organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For parents/caregivers with children with ASD <strong>above 12 years old</strong>
+<p>For parents/ caregivers with children with ASD <strong>above 12 years old</strong>
 </p>
 </td>
 </tr>
@@ -95,8 +97,8 @@ requires from healthcare organisations?</p>
 <p>24 January 2025, 3pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discussion Group:</p>
-<p>What services or programmes do you think you need?</p>
+<p>Discussion Group:
+<br>What services or programmes do you think you need?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For persons with ASD</p>
