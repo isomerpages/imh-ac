@@ -93,6 +93,37 @@ families.</p>
 <details class="isomer-details">
 <summary>Self-Care &amp; Burnout</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Often, caregivers of individuals with ASD may prioritise the needs of
+those they care for over their own well-being. It is important for caregivers
+to take care for themselves to avoid burn out and ensure that they have
+the capacity to care for others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meditation</p>
+</li>
+<li>
+<p>Get proper sleep</p>
+</li>
+<li>
+<p>Be active</p>
+</li>
+<li>
+<p>Eat a well-balanced diet</p>
+</li>
+<li>
+<p>Engage in an activity you enjoy</p>
+</li>
+<li>
+<p>Set aside "me-time" to rest and relax</p>
+</li>
+<li>
+<p>Stay connected to your loved ones</p>
+</li>
+<li>
+<p>Reach out for support</p>
+</li>
+</ul>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -661,7 +692,7 @@ such as the:</p>
 needs.</p>
 <p></p>
 <p>Email Contact:
-<br><a href="mailto:lilian@8under8.com" rel="noopener noreferrer nofollow" target="_blank">lilian@8under8.com</a> 
+<br><a href="mailto:lilian@8under8.com" rel="noopener noreferrer nofollow" target="_blank">lilian@8under8.com</a>
 </p>
 </td>
 </tr>
