@@ -25,7 +25,7 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17-18 March 2025</p>
+<p>20-21 March 2025 (Amended)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dealing with Feelings - a CBT based program for emotional regulation</p>
