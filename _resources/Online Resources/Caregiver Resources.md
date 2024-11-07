@@ -626,29 +626,12 @@ designed to enhance digital literacy and responsible media consumption.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://spd.org.sg/wp-content/uploads/2022/10/Take-A-Break-poster-scaled.jpg" rel="noopener nofollow" target="_blank"><u>Take-A-Break (TAB)</u></a>
+<p><a href="https://www.spd.org.sg/take-a-break-tab-programme/" rel="noopener nofollow" target="_blank"><u>Take-A-Break (TAB)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAB is a short-term/temporary home-based respite programme.</p>
-<p></p>
-<p>Eligibility of Caregiver:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SG/PR (60 years and above)</p>
-</li>
-<li>
-<p>Caring for &gt;1 care recipient with permanent disability <u>OR</u>
-</p>
-</li>
-<li>
-<p>From single-parent household <u>OR</u>
-</p>
-</li>
-<li>
-<p>Affected by loss of income/disruption of disability services (etc.)</p>
-</li>
-</ul>
+<p>TAB is a short-term/temporary home-based respite programme that provides
+caregivers temporary relief from their caregiving duties.</p>
 </td>
 </tr>
 <tr>
