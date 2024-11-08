@@ -25,6 +25,21 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>17 January 2025
+<br>5pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NS Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For professionals and parents/ caregivers of child(ren) with ASD.</p>
+<p></p>
+<p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20-21 March 2025 (Amended)</p>
 </td>
 <td rowspan="1" colspan="1">
