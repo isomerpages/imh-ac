@@ -25,6 +25,25 @@ third_nav_title: Upcoming Workshops and Talks
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>17 January 2025
+<br>5pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NS Talk by Dr. Adrian Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For professionals and parents/ caregivers of person(s) with ASD.</p>
+<p></p>
+<p>Price: Free of charge</p>
+<p></p>
+<p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
+</p>
+<p></p>
+<p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20-21 March 2025 (Amended)</p>
 </td>
 <td rowspan="1" colspan="1">
