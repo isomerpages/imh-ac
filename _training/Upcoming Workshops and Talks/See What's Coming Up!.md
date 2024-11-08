@@ -36,6 +36,8 @@ third_nav_title: Upcoming Workshops and Talks
 <p></p>
 <p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
 </p>
+<p></p>
+<p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
 </td>
 </tr>
 <tr>
