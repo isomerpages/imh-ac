@@ -43,6 +43,9 @@ training is <strong>required</strong>
 </p>
 </li>
 </ul>
+<p></p>
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+sign up!</p>
 </td>
 </tr>
 <tr>
@@ -53,15 +56,21 @@ training is <strong>required</strong>
 <p>Updated Assessment Session (ADI-R)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For parents/ caregivers</p>
+<p>For persons with ASD</p>
 <p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>May require parent/ caregiver to accompany</p>
+</li>
 <li>
 <p><strong>Consent for recording</strong> of the session for professional
 training is <strong>required</strong>
 </p>
 </li>
 </ul>
+<p></p>
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+sign up!</p>
 </td>
 </tr>
 <tr>
