@@ -76,6 +76,8 @@ organisations?</p>
 <td rowspan="1" colspan="1">
 <p>For parents/ caregivers with children with ASD <strong>below 12 years old</strong>
 </p>
+<p></p>
+<p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +92,8 @@ organisations?</p>
 <td rowspan="1" colspan="1">
 <p>For parents/ caregivers with children with ASD <strong>above 12 years old</strong>
 </p>
+<p></p>
+<p>Sign up <a href="https://form.gov.sg/672db0da9baafa8a4b159d0e" rel="noopener nofollow" target="_blank">here</a>!</p>
 </td>
 </tr>
 <tr>
@@ -102,6 +106,8 @@ organisations?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For persons with ASD</p>
+<p></p>
+<p>Sign up <a href="https://form.gov.sg/672d7f5a9baafa8a4b081c04" rel="noopener nofollow" target="_blank">here</a>!</p>
 </td>
 </tr>
 </tbody>
