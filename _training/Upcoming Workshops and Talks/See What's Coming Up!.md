@@ -32,6 +32,8 @@ third_nav_title: Upcoming Workshops and Talks
 <p>NS Talk</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>By Dr. Adrian Loh</p>
+<p></p>
 <p>For professionals and parents/ caregivers of child(ren) with ASD.</p>
 <p></p>
 <p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
