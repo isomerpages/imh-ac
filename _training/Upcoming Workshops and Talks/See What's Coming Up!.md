@@ -34,6 +34,8 @@ third_nav_title: Upcoming Workshops and Talks
 <td rowspan="1" colspan="1">
 <p>For professionals and parents/ caregivers of person(s) with ASD.</p>
 <p></p>
+<p>Price: Free of charge</p>
+<p></p>
 <p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
 </p>
 <p></p>
