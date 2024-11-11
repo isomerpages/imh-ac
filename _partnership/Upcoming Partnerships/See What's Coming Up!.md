@@ -12,12 +12,12 @@ third_nav_title: Upcoming Partnerships
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <h4>Updated Assessment Session (ADOS-2)</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+</div>
+<p></p>
 <p><strong>Date:</strong>
 <br>13 December 2024</p>
 <p></p>
@@ -37,12 +37,6 @@ training is <strong>required</strong>
 <p></p>
 <p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
 sign up!</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
-</div>
-<p></p>
 </td>
 </tr>
 <tr>
