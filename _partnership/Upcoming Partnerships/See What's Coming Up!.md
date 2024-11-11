@@ -26,6 +26,46 @@ training is <strong>required</strong>
 <p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
 sign up!</p>
 <hr>
+<h4>Updated Assessment Session (ADI-R)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+</div>
+<p><strong>Date:</strong>
+<br>20 December 2024</p>
+<p><strong>Programme Details:</strong>
+<br>For persons with ASD</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>May require parent/ caregiver to accompany</p>
+</li>
+<li>
+<p><strong>Consent for recording</strong> of the session for professional
+training is <strong>required</strong>
+</p>
+</li>
+</ul>
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+sign up!</p>
+<hr>
+<h4>Discussion Group: What services or programmes do you think your child requires from healthcare organisations?</h4>
+<p>(insert poster)</p>
+<p><strong>Date &amp; Time:</strong>
+<br>10 January 2025, 3pm - 4.30pm</p>
+<p><strong>Programme Details:</strong>
+<br>For parents/ caregivers with children with ASD <strong>below 12 years old</strong>
+</p>
+<p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
+<hr>
+<h4>Discussion Group: What services or programmes do you think your child requires from healthcare organisations?</h4>
+<p>(insert poster)</p>
+<p><strong>Date &amp; Time:</strong>
+<br>17 January 2025, 3pm - 4.30pm</p>
+<p><strong>Programme Details:</strong>
+<br>For parents/ caregivers with children with ASD <strong>above 12 years old</strong>
+</p>
+<p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
+<hr>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
