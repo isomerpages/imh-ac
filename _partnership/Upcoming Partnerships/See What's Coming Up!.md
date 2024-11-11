@@ -5,6 +5,57 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Partnerships
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Updated Assessment Session (ADOS-2)</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date:</strong>
+<br>13 December 2024</p>
+<p></p>
+<p><strong>Programme Details:</strong>
+<br>For persons with ASD</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>May require parent/ caregiver to accompany</p>
+</li>
+<li>
+<p><strong>Consent for recording</strong> of the session for professional
+training is <strong>required</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+sign up!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
