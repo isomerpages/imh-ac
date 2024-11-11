@@ -65,7 +65,7 @@ sign up!</p>
 </p>
 <p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
-<h4>Discussion Group:  What services or programmes do you think you need?</h4>
+<h4>Discussion Group: What services or programmes do you think you need?</h4>
 <p>(insert poster)</p>
 <p><strong>Date &amp; Time:</strong>
 <br>24 January 2025, 3pm - 4.30pm</p>
