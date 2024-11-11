@@ -65,8 +65,13 @@ sign up!</p>
 </p>
 <p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
-<p></p>
-<p></p>
+<h4>Discussion Group:  What services or programmes do you think you need?</h4>
+<p>(insert poster)</p>
+<p><strong>Date &amp; Time:</strong>
+<br>24 January 2025, 3pm - 4.30pm</p>
+<p><strong>Programme Details:</strong>
+<br>For persons with ASD</p>
+<p>Sign up <a href="https://form.gov.sg/672d7f5a9baafa8a4b081c04" rel="noopener nofollow" target="_blank">here</a>!</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
