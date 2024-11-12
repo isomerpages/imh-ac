@@ -13,7 +13,7 @@ sections:
         - title: What is Autism?
           description: View to learn more about ASD
           url: /what-is-autism/
-        - title: All Upcoming Autism Collaborative programmes
+        - title: Compiled List of All Upcoming AC programmes
           description: Click to find out more
           url: /about-us/all-upcoming-ac-programmes/
       variant: floating
@@ -51,8 +51,10 @@ sections:
         - title: Research
           description: We support professionals to conduct research about autism and
             encourage the autism community to participate in research
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+        - title: Training
+          description: We deliver training workshops to professionals and bring
+            information to the autism community
+        - title: Partnership
+          description: The autism community and their caregivers can volunteer to share
+            their experience and expertise with others
 ---
