@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - All Upcoming AC Programmes.md
       - Who we are.md
+      - All Upcoming AC Programmes.md
