@@ -4,6 +4,7 @@ permalink: /research/for-professionals/
 variant: tiptap
 description: ""
 ---
+<h3>For Professionals</h3>
 <p>We endeavour to support professionals keen in conducting research about
 autism, from providing mentorship to helping to reach out to potential
 participants. We encourage professionals to adopt research ideas by engaging
@@ -12,3 +13,6 @@ the autism community in the spirit of co-creation.</p>
 more information.</p>
 <p>Click <a href="https://www.asdcollaborative.sg/register-your-interest-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our research network.</p>
+<hr>
+<h3>For the Autism Community &amp; Caregivers</h3>
+<p></p>
