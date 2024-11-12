@@ -57,4 +57,22 @@ sections:
         - title: Partnership
           description: The autism community and their caregivers can volunteer to share
             their experience and expertise with others
+  - textcards:
+      title: What do we do?
+      id: textcards
+      cards:
+        - title: Research
+          description: For professionals to conduct and the autism community to participate
+          linktext: Learn more
+          url: /research/what-is-it/
+        - title: Training
+          description: Workshops for professionals and informational talks for the autism
+            community
+          linktext: Learn more
+          url: /training/what-is-it/
+        - title: Partnership
+          description: The autism community as volunteers to share their experience and
+            expertise
+          linktext: Learn more
+          url: /partnership/what-is-it/
 ---
