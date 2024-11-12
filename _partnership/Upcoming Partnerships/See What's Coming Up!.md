@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Upcoming Partnerships
 ---
 <p>Click on the tabs below for more programme details and find out how to
-sign up for our upcoming Partnership programmes!</p>
+sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Updated Assessment Session (ADOS-2)</summary>
