@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Workshops and Talks
 ---
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
