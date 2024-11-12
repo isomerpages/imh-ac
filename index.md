@@ -25,38 +25,6 @@ sections:
       description: We look forward to having you be part of our network
       button: Join us now
       url: /register-your-interest-here/
-  - infocols:
-      title: Our Compiled Programme List
-      subtitle: Participate in our programmes
-      id: infocols
-      linktext: Discover and sign up for our upcoming programmes
-      url: /about-us/all-upcoming-ac-programmes/
-      infoboxes:
-        - title: Research
-          description: We support professionals to conduct research about autism and
-            encourage the autism community to participate in research
-        - title: Training
-          description: We deliver training workshops to professionals and bring
-            information to the autism community
-        - title: Partnership
-          description: The autism community and their caregivers can volunteer to share
-            their experience and expertise with others
-  - infocols:
-      title: Our Upcoming Programmes
-      subtitle: discover and sign up for
-      id: infocols
-      linktext: See our compiled programme list
-      url: /about-us/all-upcoming-ac-programmes/
-      infoboxes:
-        - title: Research
-          description: We support professionals to conduct research about autism and
-            encourage the autism community to participate in research
-        - title: Training
-          description: We deliver training workshops to professionals and bring
-            information to the autism community
-        - title: Partnership
-          description: The autism community and their caregivers can volunteer to share
-            their experience and expertise with others
   - textcards:
       title: What do we do?
       id: textcards
@@ -75,11 +43,15 @@ sections:
             expertise
           linktext: Learn more
           url: /partnership/what-is-it/
+      description: We want to promote the networking of professionals, individuals
+        with autism and their caregivers to work together to better the lives of
+        the autism community and further the understanding of autism.
   - infobar:
       title: Our Upcoming Programmes
       subtitle: Discover and sign up for
       id: infobar
-      description: Infobar description
-      button: Our compiled programme list
+      description: Click the link below for more details about all upcoming Autism
+        Collaborative programmes and find out how to participate!
+      button: compiled list of programmes
       url: /about-us/all-upcoming-ac-programmes/
 ---
