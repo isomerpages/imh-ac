@@ -14,7 +14,7 @@ more information.</p>
 <p>Click <a href="https://www.asdcollaborative.sg/register-your-interest-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our research network.</p>
 <hr>
-<h3>For the Autism Community &amp; Caregivers</h3>
+<h3>For The Autism Community &amp; Their Caregivers</h3>
 <p>By participating in research, members of the autism community not only
 contribute to causes they believe in but also support the acquisition of
 knowledge that can further the wellbeing and services for the autism community.
