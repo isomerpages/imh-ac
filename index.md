@@ -15,7 +15,7 @@ sections:
           url: /what-is-autism/
         - title: Compiled List of All Upcoming AC programmes
           description: Click to find out more
-          url: /about-us/all-upcoming-ac-programmes/
+          url: /all-upcoming-ac-programmes/
       variant: floating
       size: sm
       alignment: left
@@ -52,5 +52,5 @@ sections:
       id: infobar
       description: Click the link below for more details and sign up to participate!
       button: compiled list of programmes
-      url: /about-us/all-upcoming-ac-programmes/
+      url: /all-upcoming-ac-programmes/
 ---
