@@ -41,4 +41,18 @@ sections:
         - title: Partnership
           description: The autism community and their caregivers can volunteer to share
             their experience and expertise with others
+  - infocols:
+      title: Our Upcoming Programmes
+      subtitle: discover and sign up for
+      id: infocols
+      linktext: See our compiled programme list
+      url: /about-us/all-upcoming-ac-programmes/
+      infoboxes:
+        - title: Research
+          description: We support professionals to conduct research about autism and
+            encourage the autism community to participate in research
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
