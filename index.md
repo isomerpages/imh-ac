@@ -13,9 +13,9 @@ sections:
         - title: What is Autism?
           description: View to learn more about ASD
           url: /what-is-autism/
-        - title: Upcoming workshops/talks
+        - title: All Upcoming Autism Collaborative programmes
           description: Click to find out more
-          url: /training/upcoming-workshops-and-talks/see-whats-coming-up/
+          url: /about-us/all-upcoming-ac-programmes/
       variant: floating
       size: sm
       alignment: left
