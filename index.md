@@ -39,7 +39,7 @@ sections:
           linktext: Learn more
           url: /training/what-is-it/
         - title: Partnership
-          description: The autism community as volunteers to share their experience and
+          description: The autism community can volunteer to share their experience and
             expertise
           linktext: Learn more
           url: /partnership/what-is-it/
