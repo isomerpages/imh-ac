@@ -50,8 +50,7 @@ sections:
       title: Our Upcoming Programmes
       subtitle: Discover and sign up for
       id: infobar
-      description: Click the link below for more details about all upcoming Autism
-        Collaborative programmes and find out how to participate!
+      description: Click the link below for more details and sign up to participate!
       button: compiled list of programmes
       url: /about-us/all-upcoming-ac-programmes/
 ---
