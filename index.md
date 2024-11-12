@@ -75,4 +75,11 @@ sections:
             expertise
           linktext: Learn more
           url: /partnership/what-is-it/
+  - infobar:
+      title: Our Upcoming Programmes
+      subtitle: Discover and sign up for
+      id: infobar
+      description: Infobar description
+      button: Our compiled programme list
+      url: /about-us/all-upcoming-ac-programmes/
 ---
