@@ -5,6 +5,115 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Partnerships
 ---
+<p>Click on the tabs below for more programme details and find out how to
+sign up for our upcoming Partnership programmes!</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Updated Assessment Session (ADOS-2)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Updated Assessment Session (ADI-R)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p>Testing out:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Updated Assessment Session (ADOS-2)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+</div>
+<p>For persons with ASD</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>May require parent/ caregiver to accompany</p>
+</li>
+<li>
+<p><strong>Consent for recording</strong> of the session for professional
+training is <strong>required</strong>
+</p>
+</li>
+</ul>
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+sign up!</p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Updated Assessment Session (ADI-R)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+</div>
+<p>For persons with ASD</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>May require parent/ caregiver to accompany</p>
+</li>
+<li>
+<p><strong>Consent for recording</strong> of the session for professional
+training is <strong>required</strong>
+</p>
+</li>
+</ul>
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+sign up!</p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Updated Assessment Session (ADOS-2)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
