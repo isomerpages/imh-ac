@@ -7,7 +7,7 @@ third_nav_title: Upcoming Partnerships
 ---
 <h4>Updated Assessment Session (ADOS-2)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
 </div>
 <p><strong>Date:</strong>
 <br>13 December 2024</p>
@@ -28,7 +28,7 @@ sign up!</p>
 <hr>
 <h4>Updated Assessment Session (ADI-R)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
 </div>
 <p><strong>Date:</strong>
 <br>20 December 2024</p>
