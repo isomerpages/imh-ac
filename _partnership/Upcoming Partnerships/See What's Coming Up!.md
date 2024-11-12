@@ -36,7 +36,7 @@ sign up for our upcoming Partnership programmes!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date</strong>
+<p><strong>Date &amp; Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,10 +106,21 @@ sign up!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10 Jan 2025, 3pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Discussion Group: What services or programmes do you think your child
+requires from healthcare organisations?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>(insert poster)</p>
+<p>For parents/ caregivers with children with ASD <strong>below 12 years old</strong>
+</p>
+<p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
