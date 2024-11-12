@@ -94,4 +94,5 @@ requires from healthcare organisations? (above 12)</summary>
 </div>
 </details>
 </div>
-<p></p>
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
+more information.</p>
