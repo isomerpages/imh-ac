@@ -7,6 +7,8 @@ third_nav_title: Upcoming Partnerships
 ---
 <p>Click on the tabs below for more details about our upcoming Partnership
 programmes and find out how to sign up!</p>
+<p><em>Testing 1:</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Updated Assessment Session (ADOS-2)</summary>
@@ -94,6 +96,8 @@ requires from healthcare organisations? (above 12)</summary>
 </div>
 </details>
 </div>
+<p><em>Testing 2:</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -227,6 +231,8 @@ requires from healthcare organisations?</summary>
 </tr>
 </tbody>
 </table>
+<p><em>Testing 3:</em>
+</p>
 <h4>Updated Assessment Session (ADOS-2)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
@@ -295,6 +301,8 @@ sign up!</p>
 <br>For persons with ASD</p>
 <p>Sign up <a href="https://form.gov.sg/672d7f5a9baafa8a4b081c04" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
+<p><em>Old Stuff (to delete):</em>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
