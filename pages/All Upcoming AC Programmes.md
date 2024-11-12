@@ -31,6 +31,8 @@ training is <strong>required</strong>
 sign up!</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Updated Assessment Session (ADI-R)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -55,6 +57,8 @@ training is <strong>required</strong>
 sign up!</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Discussion Group: What services or programmes do you think your child
 requires from healthcare organisations? (below 12)</summary>
@@ -68,6 +72,8 @@ requires from healthcare organisations? (below 12)</summary>
 <p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Discussion Group: What services or programmes do you think your child
 requires from healthcare organisations? (above 12)</summary>
@@ -81,6 +87,16 @@ requires from healthcare organisations? (above 12)</summary>
 <p>Sign up <a href="https://form.gov.sg/672db0da9baafa8a4b159d0e" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>NS Talk by Dr. Adrian Loh</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Discussion Group: What services or programmes do you think you need?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -93,5 +109,7 @@ requires from healthcare organisations? (above 12)</summary>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
 more information.</p>
