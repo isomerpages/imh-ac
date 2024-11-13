@@ -9,7 +9,7 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>NS Talk by Dr. Adrian Loh</summary>
+<summary>National Service Talk by Dr. Adrian Loh</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>(insert poster)</p>
 <p></p>
@@ -17,7 +17,7 @@ and find out how to sign up!</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals and parents/ caregivers of person(s) with ASD.
-<br>Cost: Free of charge</p>
+<br>Cost: Free of charge (limited seats available)</p>
 <p></p>
 <p><em>Location: Room 1, 3 Second Hospital Ave, Health Promotion Board Building #03-01, Singapore 168937</em>
 </p>
