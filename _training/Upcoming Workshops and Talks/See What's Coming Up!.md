@@ -13,7 +13,7 @@ and find out how to sign up!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>(insert poster)</p>
 <p></p>
-<p><strong>Date &amp; Time: </strong>17 January 2025, 5pm - 6pm</p>
+<p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals and parents/ caregivers of person(s) with ASD.
