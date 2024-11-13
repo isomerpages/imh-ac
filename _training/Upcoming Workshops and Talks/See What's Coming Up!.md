@@ -19,7 +19,7 @@ and find out how to sign up!</p>
 <br>For professionals and parents/ caregivers of person(s) with ASD.
 <br>Cost: Free of charge</p>
 <p></p>
-<p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
+<p><em>Location: Room 1, 3 Second Hospital Ave, Health Promotion Board Building #03-01, Singapore 168937</em>
 </p>
 <p></p>
 <p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
