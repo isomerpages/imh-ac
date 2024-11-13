@@ -16,7 +16,7 @@ and find out how to sign up!</p>
 <p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
 <p></p>
 <p><strong>Programme Details:</strong>
-<br>For professionals and parents/ caregivers of person(s) with ASD.
+<br>For professionals and parents/caregivers of person(s) with ASD.
 <br>Cost: Free of charge (limited seats available)</p>
 <p></p>
 <p><em>Location: Room 1, 3 Second Hospital Ave, Health Promotion Board Building #03-01, Singapore 168937</em>
