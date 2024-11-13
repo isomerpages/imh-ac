@@ -24,7 +24,7 @@ sections:
       title: Passionate About Autism?
       description: We look forward to having you be part of our network
       button: Join us now
-      url: /register-your-interest-here/
+      url: /join-our-network-here/
   - textcards:
       title: What do we do?
       id: textcards
