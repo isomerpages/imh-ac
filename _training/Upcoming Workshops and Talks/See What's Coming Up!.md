@@ -25,6 +25,8 @@ and find out how to sign up!</p>
 <p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Dealing with Feelings - a CBT based program for emotional regulation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -35,6 +37,8 @@ and find out how to sign up!</p>
 <br>For professionals</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>ADOS-2 Introductory Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -48,6 +52,8 @@ and find out how to sign up!</p>
 </p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>ADOS-2 Advanced Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -61,6 +67,8 @@ and find out how to sign up!</p>
 </p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>ADI-R Training Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
