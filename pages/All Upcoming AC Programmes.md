@@ -90,25 +90,6 @@ requires from healthcare organisations? (above 12)</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>NS Talk by Dr. Adrian Loh</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>(insert poster)</p>
-<p></p>
-<p><strong>Date &amp; Time: </strong>17 January 2025, 5pm - 6pm</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals and parents/ caregivers of person(s) with ASD.
-<br>Cost: Free of charge</p>
-<p></p>
-<p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
-</p>
-<p></p>
-<p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary>Discussion Group: What services or programmes do you think you need?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>(insert poster)</p>
@@ -117,6 +98,25 @@ requires from healthcare organisations? (above 12)</summary>
 <p><strong>Programme Details:</strong>
 <br>For persons with ASD</p>
 <p>Sign up <a href="https://form.gov.sg/672d7f5a9baafa8a4b081c04" rel="noopener nofollow" target="_blank">here</a>!</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>National Service Talk by Dr. Adrian Loh</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>(insert poster)</p>
+<p></p>
+<p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
+<p></p>
+<p><strong>Programme Details:</strong>
+<br>For professionals and parents/ caregivers of person(s) with ASD.
+<br>Cost: Free of charge (limited seats available)</p>
+<p></p>
+<p><em>Location: 3 Second Hospital Ave, Health Promotion Board Building #03-01, Room 1, Singapore 168937</em>
+</p>
+<p></p>
+<p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 </div>
