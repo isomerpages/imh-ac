@@ -20,6 +20,8 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
+      button: Join Our Network
+      url: /join-our-network-here/
   - infobar:
       title: Passionate About Autism?
       description: We look forward to having you be part of our network
