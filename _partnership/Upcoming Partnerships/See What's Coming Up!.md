@@ -132,7 +132,7 @@ requires from healthcare organisations?</summary>
 </tbody>
 </table>
 <p></p>
-<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, S168937</em>
+<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, Singapore 168937</em>
 </p>
 </div>
 </details>
