@@ -131,7 +131,7 @@ requires from healthcare organisations?</summary>
 </tbody>
 </table>
 <p></p>
-<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, S168937</em>
+<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, Singapore 168937</em>
 </p>
 </div>
 </details>
@@ -147,7 +147,7 @@ requires from healthcare organisations?</summary>
 <br>For professionals and parents/caregivers of person(s) with ASD.
 <br>Cost: Free of charge (limited seats available)</p>
 <p></p>
-<p><em>Location: Room 1, 3 Second Hospital Ave, Health Promotion Board Building #03-01, Singapore 168937</em>
+<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, Singapore 168937</em>
 </p>
 <p></p>
 <p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
