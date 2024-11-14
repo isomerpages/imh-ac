@@ -61,44 +61,79 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Discussion Group: What services or programmes do you think your child
-requires from healthcare organisations? (below 12)</summary>
+<summary>Discussion Group: What services or programmes do you think you/your child
+requires from healthcare organisations?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>(insert poster)</p>
-<p><strong>Date &amp; Time:</strong>
-<br>10 January 2025, 3pm - 4.30pm</p>
-<p><strong>Programme Details:</strong>
-<br>For parents/ caregivers with children with ASD <strong>below 12 years old</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discussion_Group_Poster__Jan_2025_.png">
+</div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date &amp; Time</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Eligibility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sign-up Form</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 January 2025
+<br>3pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For <strong>parents and caregivers</strong> with children with autism <strong>below 12 years old</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Sign up <a href="https://form.gov.sg/672c72bceebcfa3e97dbb4b4" rel="noopener nofollow" target="_blank">here</a>!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Discussion Group: What services or programmes do you think your child
-requires from healthcare organisations? (above 12)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>(insert poster)</p>
-<p><strong>Date &amp; Time:</strong>
-<br>17 January 2025, 3pm - 4.30pm</p>
-<p><strong>Programme Details:</strong>
-<br>For parents/ caregivers with children with ASD <strong>above 12 years old</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 January 2025
+<br>3pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For <strong>parents and caregivers</strong> with children with autism <strong>above 12 years old</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Sign up <a href="https://form.gov.sg/672db0da9baafa8a4b159d0e" rel="noopener nofollow" target="_blank">here</a>!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Discussion Group: What services or programmes do you think you need?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>(insert poster)</p>
-<p><strong>Date &amp; Time:</strong>
-<br>24 January 2025, 3pm - 4.30pm</p>
-<p><strong>Programme Details:</strong>
-<br>For persons with ASD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 January 2025
+<br>3pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For <strong>individual(s) with autism</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Sign up <a href="https://form.gov.sg/672d7f5a9baafa8a4b081c04" rel="noopener nofollow" target="_blank">here</a>!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, S168937</em>
+</p>
 </div>
 </details>
 </div>
