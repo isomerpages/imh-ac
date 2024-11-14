@@ -2,5 +2,4 @@ collections:
   research:
     output: true
     order:
-      - For Professionals.md
-      - For the Autism Community.md
+      - What Is It?.md

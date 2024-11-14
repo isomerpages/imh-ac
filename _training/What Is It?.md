@@ -1,6 +1,6 @@
 ---
-title: For Professionals
-permalink: /training/for-professionals/
+title: What Is It?
+permalink: /training/what-is-it/
 variant: tiptap
 description: ""
 ---

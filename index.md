@@ -13,16 +13,46 @@ sections:
         - title: What is Autism?
           description: View to learn more about ASD
           url: /what-is-autism/
-        - title: Upcoming workshops/talks
+        - title: Compiled List of Upcoming Programmes
           description: Click to find out more
-          url: /training/upcoming-workshops-and-talks/see-whats-coming-up/
+          url: /all-upcoming-ac-programmes/
       variant: floating
       size: sm
       alignment: left
       backgroundColor: gray
+      button: Join Our Network
+      url: /join-our-network-here/
   - infobar:
       title: Passionate About Autism?
       description: We look forward to having you be part of our network
       button: Join us now
-      url: /register-your-interest-here/
+      url: /join-our-network-here/
+  - textcards:
+      title: What do we do?
+      id: textcards
+      cards:
+        - title: Research
+          description: For professionals to conduct and the autism community to participate
+          linktext: Learn more
+          url: /research/what-is-it/
+        - title: Training
+          description: Workshops for professionals and informational talks for the autism
+            community
+          linktext: Learn more
+          url: /training/what-is-it/
+        - title: Partnership
+          description: The autism community can volunteer to share their experience and
+            expertise
+          linktext: Learn more
+          url: /partnership/what-is-it/
+      description: We want to promote the networking of professionals, individuals
+        with autism and their caregivers to work together to better the lives of
+        the autism community and further the understanding of autism.
+  - infobar:
+      title: Our Upcoming Programmes
+      subtitle: Discover and sign up for
+      id: infobar
+      description: Click the link below for more details and sign up to participate!
+      button: compiled list of programmes
+      url: /all-upcoming-ac-programmes/
 ---
