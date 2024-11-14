@@ -11,7 +11,6 @@ and find out how to sign up!</p>
 <details class="isomer-details">
 <summary>National Service Talk by Dr. Adrian Loh</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>(insert poster)</p>
 <p></p>
 <p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
 <p></p>
