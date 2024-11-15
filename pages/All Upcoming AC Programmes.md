@@ -8,7 +8,7 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>13 Dec 2024 <strong>Updated Assessment Session (ADOS-2)</strong>
+<summary><strong>Updated Assessment Session (ADOS-2)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
@@ -35,7 +35,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>20 Dec 2024 <strong>Updated Assessment Session (ADI-R)</strong>
+<summary><strong>Updated Assessment Session (ADI-R)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
@@ -62,7 +62,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Jan 2025 <strong>Discussion Group: What services or programmes do you think you/your child requires from healthcare organisations?</strong>
+<summary><strong>Discussion Group: What services or programmes do you think you/your child requires from healthcare organisations?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -140,7 +140,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>21 Feb 2025 <strong>National Service Talk by Dr. Adrian Loh</strong>
+<summary><strong>National Service Talk by Dr. Adrian Loh</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -159,7 +159,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>20-21 Mar 2025 <strong>Dealing with Feelings - a CBT based program for emotional regulation</strong>
+<summary><strong>Dealing with Feelings - a CBT based program for emotional regulation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>20-21 March 2025 (Amended)</p>
@@ -171,7 +171,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2-3 Jun 2025 <strong>ADOS-2 Introductory Workshop</strong>
+<summary><strong>ADOS-2 Introductory Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>2-3 June 2025 (Tentative dates)</p>
@@ -186,7 +186,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>4-6 Jun 2025 <strong>ADOS-2 Advanced Workshop</strong>
+<summary><strong>ADOS-2 Advanced Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>4-6 June 2025 (Tentative dates)</p>
@@ -201,7 +201,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>7-9 Jul 2025 <strong>ADI-R Training Workshop</strong>
+<summary><strong>ADI-R Training Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>7-9 July 2025 (Tentative dates)</p>
