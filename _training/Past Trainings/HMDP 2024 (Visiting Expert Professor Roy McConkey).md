@@ -7,6 +7,11 @@ third_nav_title: Past Trainings
 ---
 <h2>2024 HMDP Visiting Expert in Improving Care for Children Living with Autism and Intellectual Disability</h2>
 <h3>Introducing Visiting Expert Professor Roy McConkey</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Professor Roy McConkey" src="/images/profroy.png">
+</div>
+<p></p>
 <p><strong>Professor Roy McConkey</strong> is Emeritus Professor of Developmental
 Disabilities at Ulster University, Northern Ireland. A psychologist by
 training and a native of Belfast, he has previously held posts in England,
