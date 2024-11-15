@@ -37,7 +37,7 @@ Disabilities.</p>
 <h3>HMDP Programme &amp; Videos</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
+<summary><strong>1. Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -54,7 +54,7 @@ be translated to the local landscape.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What every parent or educator can do to support children with intellectual disability and autism from Prof Roy</strong>
+<summary><strong>2. What every parent or educator can do to support children with intellectual disability and autism from Prof Roy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -69,7 +69,7 @@ ways to support their children with intellectual disability and autism.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Perspectives and best practices in autism service implementation</strong>
+<summary><strong>3. Perspectives and best practices in autism service implementation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -84,7 +84,7 @@ child and adult patients with autism and intellectual disability.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Building a smooth continuum of care from childhood to adulthood for those living with autism and intellectual disability</strong>
+<summary><strong>4. Building a smooth continuum of care from childhood to adulthood for those living with autism and intellectual disability</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -99,7 +99,7 @@ service in Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Improving early diagnoses and intervention for autism in primary care and in the community</strong>
+<summary><strong>5. Improving early diagnoses and intervention for autism in primary care and in the community</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -114,7 +114,7 @@ in primary care settings.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Promoting social inclusion for people with intellectual disabilities and autism</strong>
+<summary><strong>6. Promoting social inclusion for people with intellectual disabilities and autism</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
