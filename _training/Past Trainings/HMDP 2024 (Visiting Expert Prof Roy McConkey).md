@@ -28,11 +28,62 @@ Psychological Society of Ireland.</p>
 and developmental disabilities.&nbsp;He was also the recipient of the International
 Award from the American Association for Intellectual and Developmental
 Disabilities.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Day 1 vid</summary>
+<summary>22 Oct Opening Lecture <strong>Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Professor Roy McConkey shares about global trends, updates in services,
+policies and best management practices, so that we can consider what can
+be translated to the local landscape.</p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>22 Oct Evening Lecture <strong>What every parent or educator can do to support children with intellectual disability and autism from Prof Roy</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Professor Roy McConkey educates members of the public on evidence-based
+ways to support their children with intellectual disability and autism.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>23 Oct Presentation #1 <strong>Perspectives and best practices in autism service implementation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Professor Roy McConkey talks about best practice principles for care in
+child and adult patients with autism and intellectual disability.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>23 Oct Presentation #2 <strong>Building a smooth continuum of care from childhood to adulthood for those living with autism and intellectual disability</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Professor Roy McConkey helps us understand the landscape for adult neurodevelopmental
+service in Singapore.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>24 Oct 2024 Presentation #1<strong> Improving early diagnoses and intervention for autism in primary care and in the community</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Professor Roy McConkey provides insight into early diagnosis and intervention
+in primary care settings.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>24 Oct 2024 Presentation #2<strong> Promoting social inclusion for people with intellectual disabilities and autism</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Professor Roy helps to enhance our knowledge and strategies of building
+an inclusive society for the people with special needs.</p>
 </div>
 </details>
 </div>
