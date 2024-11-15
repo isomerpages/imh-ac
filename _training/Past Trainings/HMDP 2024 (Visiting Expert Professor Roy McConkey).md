@@ -38,14 +38,19 @@ Disabilities.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>22 Oct Opening Lecture <strong>Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
+<summary><strong>Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>22 Oct 2024 Opening Lecture</p>
 <p></p>
 <p>Professor Roy McConkey shares about global trends, updates in services,
 policies and best management practices, so that we can consider what can
 be translated to the local landscape.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ANc3TwfUnHo?si=p7McPnMSzp9yzQnt"></iframe>
+</div>
 <p></p>
 </div>
 </details>
