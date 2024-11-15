@@ -30,6 +30,7 @@ Award from the American Association for Intellectual and Developmental
 Disabilities.</p>
 <p></p>
 <h3>HMDP Programme &amp; Videos</h3>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>22 Oct Opening Lecture <strong>Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
