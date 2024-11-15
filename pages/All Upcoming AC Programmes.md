@@ -62,7 +62,7 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>10, 17, 24 Jan 2025 <strong>Discussion Group: What services or programmes do you think you/your child requires from healthcare organisations?</strong>
+<summary>Jan 2025 <strong>Discussion Group: What services or programmes do you think you/your child requires from healthcare organisations?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
