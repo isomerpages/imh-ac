@@ -41,7 +41,7 @@ Disabilities.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>22 Oct 2024 Opening Lecture</p>
+<p>22 October 2024 Opening Lecture</p>
 <p></p>
 <p>Professor Roy McConkey shares about global trends, updates in services,
 policies and best management practices, so that we can consider what can
@@ -54,48 +54,78 @@ be translated to the local landscape.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>22 Oct Evening Lecture <strong>What every parent or educator can do to support children with intellectual disability and autism from Prof Roy</strong>
+<summary><strong>What every parent or educator can do to support children with intellectual disability and autism from Prof Roy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>22 October 2024 Evening Lecture</p>
 <p></p>
 <p>Professor Roy McConkey educates members of the public on evidence-based
 ways to support their children with intellectual disability and autism.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3QdA8vkp7LM?si=_Yo4oFAx6Ek6mTVO"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>23 Oct Presentation #1 <strong>Perspectives and best practices in autism service implementation</strong>
+<summary><strong>Perspectives and best practices in autism service implementation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>23 October 2024 Presentation #1</p>
 <p></p>
 <p>Professor Roy McConkey talks about best practice principles for care in
 child and adult patients with autism and intellectual disability.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TGxvvS6Z31k?si=jRDkFEb2tt0gtV2O"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>23 Oct Presentation #2 <strong>Building a smooth continuum of care from childhood to adulthood for those living with autism and intellectual disability</strong>
+<summary><strong>Building a smooth continuum of care from childhood to adulthood for those living with autism and intellectual disability</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>23 October 2024 Presentation #2</p>
 <p></p>
 <p>Professor Roy McConkey helps us understand the landscape for adult neurodevelopmental
 service in Singapore.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UHpsd1yloa8?si=ggo6m2_9gP7PBLqv"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>24 Oct 2024 Presentation #1<strong> Improving early diagnoses and intervention for autism in primary care and in the community</strong>
+<summary><strong>Improving early diagnoses and intervention for autism in primary care and in the community</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>24 October 2024 Presentation #1</p>
 <p></p>
 <p>Professor Roy McConkey provides insight into early diagnosis and intervention
 in primary care settings.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rRjokSpdHpQ?si=pJ6eGd38J7ZdqZ7_"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>24 Oct 2024 Presentation #2<strong> Promoting social inclusion for people with intellectual disabilities and autism</strong>
+<summary><strong>Promoting social inclusion for people with intellectual disabilities and autism</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>24 October 2024 Presentation #2</p>
+<p></p>
 <p>Professor Roy helps to enhance our knowledge and strategies of building
 an inclusive society for the people with special needs.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hCcEIs0TH1E?si=ercGO7Fkf_i0t_u5"></iframe>
+</div>
 </div>
 </details>
 </div>
