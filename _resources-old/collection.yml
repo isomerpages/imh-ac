@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Online Resources/.keep
-      - Online Resources/Caregiver Resources.md
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
       - Recommended Books/For Children and Youths with Autism.md
