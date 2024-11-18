@@ -2,16 +2,16 @@ collections:
   resources:
     output: true
     order:
-      - Recommended Books/Books by Authors with Autism.md
-      - Recommended Books/Experiences of Siblings of Persons with Autism.md
+      - Recommended Books/.keep
+      - Recommended Books/Understanding Autism.md
+      - Recommended Books/For Children and Youths with Autism.md
+      - Recommended Books/Behavioural Management and Social Skills.md
       - Recommended Books/Caregiver Experiences and Support.md
       - Recommended Books/Executive Functioning and Learning Skills.md
+      - Recommended Books/Experiences of Siblings of Persons with Autism.md
       - Recommended Books/Sleep.md
       - Recommended Books/Puberty and Sexuality.md
-      - Recommended Books/Behavioural Management and Social Skills.md
-      - Recommended Books/For Children and Youths with Autism.md
-      - Recommended Books/Understanding Autism.md
-      - Recommended Books/.keep
+      - Recommended Books/Books by Authors with Autism.md
       - Online Resources/Caregiver Resources.md
       - Online Resources/International Resources.md
       - Online Resources/Local Resources.md
