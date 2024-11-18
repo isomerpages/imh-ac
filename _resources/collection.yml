@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Recommended Books/Caregiver Experiences and Support.md
       - Recommended Books/Executive Functioning and Learning Skills.md
       - Recommended Books/Sleep.md
       - Recommended Books/Puberty and Sexuality.md
