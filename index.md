@@ -20,7 +20,7 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
-      button: Join Our Network
+      button: all Upcoming Programmes
       url: /join-our-network-here/
   - infobar:
       title: Passionate About Autism?
