@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Recommended Books/For Children and Youths with Autism.md
       - Recommended Books/Understanding Autism.md
       - Recommended Books/.keep
       - Online Resources/Caregiver Resources.md
