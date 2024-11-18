@@ -8,7 +8,8 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Updated Assessment Session (ADOS-2)</summary>
+<summary><strong>Updated Assessment Session (ADOS-2)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
@@ -34,7 +35,8 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Updated Assessment Session (ADI-R)</summary>
+<summary><strong>Updated Assessment Session (ADI-R)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
@@ -60,8 +62,8 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Discussion Group: What services or programmes do you think you/your child
-requires from healthcare organisations?</summary>
+<summary><strong>Discussion Group: What services or programmes do you think you/your child requires from healthcare organisations?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -138,7 +140,8 @@ requires from healthcare organisations?</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>National Service Talk by Dr. Adrian Loh</summary>
+<summary><strong>National Service Talk by Dr. Adrian Loh</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
@@ -156,7 +159,8 @@ requires from healthcare organisations?</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dealing with Feelings - a CBT based program for emotional regulation</summary>
+<summary><strong>Dealing with Feelings - a CBT based program for emotional regulation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>20-21 March 2025 (Amended)</p>
 <p></p>
@@ -167,7 +171,8 @@ requires from healthcare organisations?</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ADOS-2 Introductory Workshop</summary>
+<summary><strong>ADOS-2 Introductory Workshop</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>2-3 June 2025 (Tentative dates)</p>
 <p></p>
@@ -181,7 +186,8 @@ requires from healthcare organisations?</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ADOS-2 Advanced Workshop</summary>
+<summary><strong>ADOS-2 Advanced Workshop</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>4-6 June 2025 (Tentative dates)</p>
 <p></p>
@@ -195,7 +201,8 @@ requires from healthcare organisations?</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ADI-R Training Workshop</summary>
+<summary><strong>ADI-R Training Workshop</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>7-9 July 2025 (Tentative dates)</p>
 <p></p>
