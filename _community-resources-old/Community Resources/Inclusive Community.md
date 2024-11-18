@@ -1,6 +1,6 @@
 ---
-title: Inclusive Community Spaces
-permalink: /community-resources/inclusive-community-spaces/
+title: Inclusive Community
+permalink: /community-resources/inclusive-community/
 variant: tiptap
 description: ""
 third_nav_title: Community Resources
@@ -57,21 +57,6 @@ School and Bettr Barista.</p>
 <p>Tues - Sun: 10:00am - 10:00pm</p>
 <p></p>
 <p><em>Location: Catholic Centre, 55 Waterloo Street, S187954</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.facebook.com/changchengfoodtastic/" rel="noopener nofollow" target="_blank">FoodTastic (Keat Hong)</a></strong>
-</p>
-<p></p>
-<p>Tel: 6501 5285</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coffeeshop that has a self-ordering and paymentsystem, cashless payment
-terminals.</p>
-<p></p>
-<p><em>Location: 818 Choa Chu Kang Avenue 1 #01-01, S680818</em>
 </p>
 </td>
 </tr>
@@ -184,236 +169,107 @@ the disadvantaged in society.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Gym</summary>
+<summary>Social</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Organisation
+<br>&amp; Contact Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>More Information</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>ActiveSG (Jurong West)</p>
-</li>
-<li>
-<p>ActiveSG @ Ang Mo Kio CC</p>
-</li>
-<li>
-<p>ActiveSG Gym @ Toa Payoh</p>
-</li>
-<li>
-<p>Enabling Village Gym</p>
-</li>
-<li>
-<p>Heartbeat @Bedok</p>
-</li>
-<li>
-<p>Jurong Lake Gardens Gym</p>
-</li>
-<li>
-<p>Kallang Stadium</p>
-</li>
-<li>
-<p>Parkour Gym Singapore</p>
-</li>
-<li>
-<p>Toa Payoh Sports Centre</p>
-</li>
-<li>
-<p>Woodlands Stadium</p>
-</li>
-</ol>
+<p><strong>Good life Befrienders Programme</strong>
+</p>
+<p></p>
+<p>Tel: 8797 6304
+<br>Email:
+<br><a href="mailto:glbf@rainbowcentre.org.sg" rel="noopener noreferrer nofollow" target="_blank">glbf@rainbowcentre.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A one-year befriending programme, to provide young adults with disabilities
+participation in comminity and develop friendships.</p>
 </td>
 </tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Malls</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<p><strong><a href="minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">Me Too! Club Minds</a></strong>
+</p>
+<p></p>
+<p>Tel: 9365 8253
+<br>Email:
+<br><a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social club that aims to promote:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Changi Airport</p>
+<p>The quality of life of adults with ID</p>
 </li>
 <li>
-<p>Changi CIty Point</p>
+<p>Engagement through leisure and recreational programmes</p>
 </li>
-<li>
-<p>City Square mall (Farrer Park MRT)</p>
-</li>
-<li>
-<p>Junction 10</p>
-</li>
-<li>
-<p>Junction 9</p>
-</li>
-<li>
-<p>Our Tampines Hub (Tampines MRT)</p>
-</li>
-<li>
-<p>Tiong Bahru Plaza (Tiong Bahru MRT)</p>
-</li>
-<li>
-<p>Wisteria Mall</p>
-</li>
-</ol>
+</ul>
+<p></p>
+<p>Weekly 10-week modular activities: Sports and Art Monthly outings.</p>
 </td>
 </tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Parks</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Admiralty Park</p>
-</li>
-<li>
-<p>Bedok Reservoir</p>
-</li>
-<li>
-<p>Bishan-Ang Mo Kio Park</p>
-</li>
-<li>
-<p>Botanic Gardens</p>
-</li>
-<li>
-<p>Bukit Batok Nature Park</p>
-</li>
-<li>
-<p>Bukit Timah Hill</p>
-</li>
-<li>
-<p>Canberra Park (Sembawang)</p>
-</li>
-<li>
-<p>Chinese/Japanese Garden</p>
-</li>
-<li>
-<p>Coney Island</p>
-</li>
-<li>
-<p>Gardens By the Bay</p>
-</li>
-<li>
-<p>Jacob Ballas Children’s Garden</p>
-</li>
-<li>
-<p>Keat Hong park</p>
-</li>
-<li>
-<p>Labrador Park</p>
-</li>
-<li>
-<p>Macritchie Reservoir</p>
-</li>
-<li>
-<p>Marine Cove, East Coast Park</p>
-</li>
-<li>
-<p>Pasir Ris Park</p>
-</li>
-<li>
-<p>Serangoon Park</p>
-</li>
-<li>
-<p>Tiong Bahru Park</p>
-</li>
-<li>
-<p>West Coast Park</p>
-</li>
-</ol>
+<p><strong><a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
+</p>
+<p></p>
+<p>Tel: 8272 6930
+<br>Email:
+<br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
+</p>
+<p></p>
+<p>Click <a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">here</a> for
+the registration link.</p>
 </td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Neighbourhoods</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<p>A club for special needs youth to hang out!</p>
+<p></p>
+<p>Activities include:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>256 Bangkit Road</p>
+<p>Baking</p>
 </li>
 <li>
-<p>7A Ghim Moh Road</p>
+<p>Photography</p>
 </li>
 <li>
-<p>1 Tampines Avenue</p>
+<p>outdoor activities</p>
+</li>
+</ul>
+<p></p>
+<p>Perks include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Welcome gift</p>
 </li>
 <li>
-<p>727 Tampines St 71</p>
+<p>Exclusive activities/workshops/events</p>
 </li>
 <li>
-<p>110 Pasir Ris Road</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Pools</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Heartbeat@Bedok ActiveSG Swimming Complex</p>
+<p>Discounted rates on programmes</p>
 </li>
 <li>
-<p>Jurong Lake Gardens Swimming Complex</p>
+<p>YMCA membership privileges</p>
 </li>
-<li>
-<p>Jurong West Swimming Complex</p>
-</li>
-<li>
-<p>Sengkang Swimming Complex</p>
-</li>
-<li>
-<p>Our Tampines Hub</p>
-</li>
-<li>
-<p>Pasir Ris Swimming Complex</p>
-</li>
-<li>
-<p>Causeway Point Water Playground</p>
-</li>
-</ol>
+</ul>
 </td>
 </tr>
 </tbody>

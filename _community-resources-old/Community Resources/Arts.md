@@ -60,15 +60,20 @@ wellness programmes in an incusive, positive, and non-competitve environment</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.musiquespace.com/" rel="noopener nofollow" target="_blank">Musique Learning</a>
+<p><a href="https://www.musiquespace.com/" rel="noopener nofollow" target="_blank">Musique Space</a>
 </p>
 <p></p>
-<p>Tel: 62657288/ 81802626</p>
+<p>Tel: 62657288/ 81802626
+<br>Email:
+<br><a href="mailto:findus@musiquespace.com" rel="noopener noreferrer nofollow" target="_blank">findus@musiquespace.com</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Differentiated music programme for children will special needs. Children
-will learn to play the percussion instruments, digital drum set or the
-keyboard, depending on their interests and abilities.</p>
+<p>Musique Space delivers a one-to-one individualised music programme for
+children will special needs.</p>
+<p></p>
+<p>Children will learn to play the percussion instruments, digital drum set
+or the keyboard, depending on their interests and abilities.</p>
 </td>
 </tr>
 <tr>

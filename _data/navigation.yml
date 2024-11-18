@@ -2,12 +2,16 @@ logo: /images/Autism_Collaborative_Logo_Complete_blue_1_nobackground.png
 links:
   - title: About Us
     url: /about-us/who-we-are/
+  - title: Join Our Network
+    url: /join-our-network-here/
   - title: Research
     collection: research
   - title: Training
     collection: training
   - title: Partnership
     collection: partnership
+  - title: Resources
+    collection: resources
   - title: FAQ
     collection: frequently-asked-questions
   - title: Contact Us

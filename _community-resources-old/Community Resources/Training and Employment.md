@@ -1,13 +1,13 @@
 ---
-title: Post 18 Services
-permalink: /community-resources/post-18-services/
+title: Training and Employment
+permalink: /community-resources/training-and-employment/
 variant: tiptap
 description: ""
 third_nav_title: Community Resources
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Training &amp; Employment</summary>
+<summary>Training &amp; Employment (to specify themes)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -254,8 +254,10 @@ that the company has.</p>
 <p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Social &amp; Leisure</summary>
+<summary>Culinary Arts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -274,87 +276,75 @@ that the company has.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Good life Befrienders Programme</strong>
+<p><a href="https://www.facebook.com/CrunchyTeeth/" rel="noopener nofollow" target="_blank">Crunchy Teeth</a>
 </p>
 <p></p>
-<p>Tel: 8797 6304
+<p>Tel: 9648 0067/
+<br>8949 4943
 <br>Email:
-<br><a href="mailto:glbf@rainbowcentre.org.sg" rel="noopener noreferrer nofollow" target="_blank">glbf@rainbowcentre.org.sg</a>
+<br><a href="mailto:sales@woh.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@woh.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A one-year befriending programme, to provide young adults with disabilities
-participation in comminity and develop friendships.</p>
+<p>Provides internship for people with autism who are interested in baking</p>
+<p></p>
+<p>Interns are partnered from SPED schools</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">Me Too! Club Minds</a></strong>
+<p><a href="https://www.projectdignity.sg/" rel="noopener nofollow" target="_blank">Project Dignity</a>
 </p>
 <p></p>
-<p>Tel: 9365 8253
+<p>Tel: 9853 9032
 <br>Email:
-<br><a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a>
+<br><a href="mailto:learn@projectdignity.sg" rel="noopener noreferrer nofollow" target="_blank">learn@projectdignity.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A social club that aims to promote:</p>
+<p>A social enterprise employing differently-abled individuals in their kitchen,
+and run programmes to train individuals with an interest in cooking</p>
+<p></p>
+<p>Programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The quality of life of adults with ID</p>
+<p>Food Safety Course Level 1 Bridging Programme</p>
 </li>
 <li>
-<p>Engagement through leisure and recreational programmes</p>
+<p>F&amp;B Train-and-Place Programme</p>
+<p>(Total days of training: 22)</p>
 </li>
 </ul>
-<p></p>
-<p>Weekly 10-week modular activities: Sports and Art Monthly outings.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
+<p><a href="https://samsui.com.sg/sch-2/" rel="noopener nofollow" target="_blank">Samsui Centre of Hospitality</a>
 </p>
 <p></p>
-<p>Tel: 8272 6930
-<br>Email:
-<br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
-</p>
-<p></p>
-<p>Click <a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">here</a> for
-the registration link.</p>
+<p>Tel: 9723 1828</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A club for special needs youth to hang out!</p>
+<p>Offers Train-and-place and employment programmes in the F&amp;B sector
+for people with special needs. Ad-hoc life skills training during the school
+holidays to engage people with special needs online.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/ashrafscafe.mij/" rel="noopener nofollow" target="_blank">Ashraf's Cafe</a>
+</p>
 <p></p>
-<p>Activities include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Baking</p>
-</li>
-<li>
-<p>Photography</p>
-</li>
-<li>
-<p>outdoor activities</p>
-</li>
-</ul>
-<p></p>
-<p>Perks include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Welcome gift</p>
-</li>
-<li>
-<p>Exclusive activities/workshops/events</p>
-</li>
-<li>
-<p>Discounted rates on programmes</p>
-</li>
-<li>
-<p>YMCA membership privileges</p>
-</li>
-</ul>
+<p>Tel: 6443 6601/
+<br>9088 8901
+<br>Email:
+<br><a href="mailto:admin@mijhub.com" rel="noopener noreferrer nofollow" target="_blank">admin@mijhub.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An online food business under a non-profit organisation, My Inspiring
+Journey (MIJ), that aims to support individuals with special needs by helping
+them attain long-term employment.</p>
 </td>
 </tr>
 </tbody>

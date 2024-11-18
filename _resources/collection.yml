@@ -2,28 +2,17 @@ collections:
   resources:
     output: true
     order:
-      - Online Resources/.keep
-      - Online Resources/Local Resources.md
-      - Online Resources/International Resources.md
-      - Online Resources/Caregiver Resources.md
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
       - Recommended Books/For Children and Youths with Autism.md
       - Recommended Books/Behavioural Management and Social Skills.md
-      - Recommended Books/Puberty and Sexuality.md
-      - Recommended Books/Sleep.md
-      - Recommended Books/Executive Functioning and Learning Skills.md
       - Recommended Books/Caregiver Experiences and Support.md
+      - Recommended Books/Executive Functioning and Learning Skills.md
       - Recommended Books/Experiences of Siblings of Persons with Autism.md
+      - Recommended Books/Sleep.md
+      - Recommended Books/Puberty and Sexuality.md
       - Recommended Books/Books by Authors with Autism.md
-      - Community Resources/.keep
-      - Community Resources/Sports.md
-      - Community Resources/Arts.md
-      - Community Resources/Horticulture.md
-      - Community Resources/Culinary Arts.md
-      - Community Resources/Healthcare Services.md
-      - Community Resources/Inclusive Community Spaces.md
-      - Community Resources/Support Groups for Caregivers & Families.md
-      - Community Resources/Volunteering Opportunities.md
-      - Community Resources/Post 18 Services.md
-      - Community Resources/Other Helpful Services.md
+      - Online Resources/.keep
+      - Online Resources/Caregiver Resources.md
+      - Online Resources/International Resources.md
+      - Online Resources/Local Resources.md
