@@ -228,6 +228,24 @@ child and adult patients with autism and intellectual disability.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>23 October 2024 Presentation #2</p>
+<p></p>
+<p>Professor Roy McConkey helps us understand the landscape for adult neurodevelopmental
+service in Singapore.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UHpsd1yloa8?si=M5rKJpWFIDbgwPAT"></iframe>
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Improving early diagnoses and intervention for autism in primary care and in the community</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
