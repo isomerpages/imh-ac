@@ -143,7 +143,7 @@ an inclusive society for the people with special needs.</p>
 <p>21 October 2024 Health Promotion Board Presentation #1</p>
 <p></p>
 <p>Professor Roy McConkey shares about implementing of strategies to work
-with children with ID and ASD.</p>
+with children with intellectual disability and autism.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iSmIjr2I8no?si=_qAxXDxgPqMuiRw1"></iframe>
@@ -160,7 +160,8 @@ with children with ID and ASD.</p>
 <p>21 October 2024 Health Promotion Board Presentation #2</p>
 <p></p>
 <p>Professor Roy McConkey engages professionals from the community in co-designing
-intervention for children with ID and ASD and their caregiver.</p>
+intervention for children with intellectual disability and autism and their
+caregiver.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aXiOjtYeuPM?si=iMxgcM9h1Ey8vyw7"></iframe>
@@ -188,9 +189,14 @@ be translated to the local landscape.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>What every parent or educator can do to support children with intellectual disability and autism from Prof Roy</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>22 October 2024 Evening Lecture</p>
+<p></p>
+<p>Professor Roy McConkey educates members of the public on evidence-based
+ways to support their children with intellectual disability and autism.</p>
 </div>
 </details>
 </div>
