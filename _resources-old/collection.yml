@@ -2,7 +2,6 @@ collections:
   resources-old:
     output: true
     order:
-      - Recommended Books/.keep
       - Community Resources/.keep
       - Community Resources/Sports.md
       - Community Resources/Arts.md
