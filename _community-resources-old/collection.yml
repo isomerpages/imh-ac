@@ -1,5 +1,5 @@
 collections:
-  resources-old:
+  community-resources-old:
     output: true
     order:
       - Community Resources/.keep
