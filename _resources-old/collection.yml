@@ -1,5 +1,5 @@
 collections:
-  resources:
+  resources-old:
     output: true
     order:
       - Online Resources/.keep
