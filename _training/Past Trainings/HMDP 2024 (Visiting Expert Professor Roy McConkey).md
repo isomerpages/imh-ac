@@ -129,10 +129,49 @@ an inclusive society for the people with special needs.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Global landscape of policy and practice for children and adults with autism
-and ID population, and research updates</summary>
+<summary><strong>Rethinking interventions for children with intellectual disabilities and autism</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>21 October 2024 Health Promotion Board Presentation #1</p>
+<p></p>
+<p>Professor Roy McConkey shares about implementing of strategies to work
+with children with ID and ASD.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iSmIjr2I8no?si=_qAxXDxgPqMuiRw1"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Co-designing community interventions to support children with intellectual disabilities and autism and their caregivers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>21 October 2024 Health Promotion Board Presentation #2</p>
+<p></p>
+<p>Professor Roy McConkey engages professionals from the community in co-designing
+intervention for children with ID and ASD and their caregiver.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aXiOjtYeuPM?si=iMxgcM9h1Ey8vyw7"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Global landscape of policy and practice for children and adults with autism and ID population, and research updates</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>22 October 2024 Opening Lecture</p>
@@ -144,6 +183,14 @@ be translated to the local landscape.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ANc3TwfUnHo?si=kuNTUgFjaRlMO1V1"></iframe>
 </div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
