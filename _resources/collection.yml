@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Recommended Books/Sleep.md
       - Recommended Books/Puberty and Sexuality.md
       - Recommended Books/Behavioural Management and Social Skills.md
       - Recommended Books/For Children and Youths with Autism.md
