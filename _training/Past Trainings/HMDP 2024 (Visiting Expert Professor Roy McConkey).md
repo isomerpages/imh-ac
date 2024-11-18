@@ -197,6 +197,38 @@ be translated to the local landscape.</p>
 <p></p>
 <p>Professor Roy McConkey educates members of the public on evidence-based
 ways to support their children with intellectual disability and autism.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3QdA8vkp7LM?si=KFJsbxaY_i75VQdS"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Perspectives and best practices in autism service implementation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>23 October 2024 Presentation #1</p>
+<p></p>
+<p>Professor Roy McConkey talks about best practice principles for care in
+child and adult patients with autism and intellectual disability.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TGxvvS6Z31k?si=Cg_nmdFrX_834CEI"></iframe>
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Building a smooth continuum of care from childhood to adulthood for those living with autism and intellectual disability</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
