@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Recommended Books/.keep
-      - Recommended Books/Experiences of Siblings of Persons with Autism.md
       - Recommended Books/Books by Authors with Autism.md
       - Community Resources/.keep
       - Community Resources/Sports.md
