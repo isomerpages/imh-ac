@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Recommended Books/Understanding Autism.md
       - Recommended Books/.keep
       - Online Resources/Caregiver Resources.md
       - Online Resources/International Resources.md
