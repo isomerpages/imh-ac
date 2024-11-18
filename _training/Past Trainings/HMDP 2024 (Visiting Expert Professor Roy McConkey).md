@@ -247,6 +247,28 @@ service in Singapore.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>24 October 2024 Presentation #1</p>
+<p></p>
+<p>Professor Roy McConkey provides insight into early diagnosis and intervention
+in primary care settings.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rRjokSpdHpQ?si=hbw-E88YFIF-RtpQ"></iframe>
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Promoting social inclusion for people with intellectual disabilities and autism</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>24 October 2024 Presentation #2</p>
+<p></p>
+<p>Professor Roy helps to enhance our knowledge and strategies of building
+an inclusive society for the people with special needs.</p>
 </div>
 </details>
 </div>
