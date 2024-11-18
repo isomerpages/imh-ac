@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Recommended Books/.keep
-      - Recommended Books/Sleep.md
       - Recommended Books/Executive Functioning and Learning Skills.md
       - Recommended Books/Caregiver Experiences and Support.md
       - Recommended Books/Experiences of Siblings of Persons with Autism.md
