@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Recommended Books/.keep
-      - Recommended Books/Understanding Autism.md
       - Recommended Books/For Children and Youths with Autism.md
       - Recommended Books/Behavioural Management and Social Skills.md
       - Recommended Books/Puberty and Sexuality.md
