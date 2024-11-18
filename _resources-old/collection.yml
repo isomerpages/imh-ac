@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Online Resources/.keep
-      - Online Resources/Local Resources.md
       - Online Resources/International Resources.md
       - Online Resources/Caregiver Resources.md
       - Recommended Books/.keep
