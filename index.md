@@ -13,9 +13,6 @@ sections:
         - title: What is Autism?
           description: View to learn more about ASD
           url: /what-is-autism/
-        - title: Compiled List of Upcoming Programmes
-          description: Click to find out more
-          url: /all-upcoming-ac-programmes/
       variant: floating
       size: sm
       alignment: left
