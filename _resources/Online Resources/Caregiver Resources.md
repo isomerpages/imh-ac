@@ -667,20 +667,6 @@ such as the:</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/8under8/about" rel="noopener noreferrer nofollow" target="_blank"><u>8under8.com</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Facebook page that shares resources with parents of children with special
-needs.</p>
-<p></p>
-<p>Email Contact:
-<br><a href="mailto:lilian@8under8.com" rel="noopener noreferrer nofollow" target="_blank">lilian@8under8.com</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
