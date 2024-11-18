@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Recommended Books/.keep
-      - Recommended Books/Behavioural Management and Social Skills.md
       - Recommended Books/Puberty and Sexuality.md
       - Recommended Books/Sleep.md
       - Recommended Books/Executive Functioning and Learning Skills.md
