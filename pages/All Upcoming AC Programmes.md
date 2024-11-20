@@ -146,9 +146,6 @@ sign up!</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/National_Service_Talk_by_Dr_Adrian_Loh_Poster.png">
-</div>
 <p></p>
 <p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
 <p></p>
