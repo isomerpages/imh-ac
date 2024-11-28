@@ -110,7 +110,7 @@ Program.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.professorbrawn.com/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
+<p><strong><a href="https://www.profbrawn.com.sg/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
 </p>
 <p></p>
 <p>Tel: 8321 2204 | 8129 4029</p>
