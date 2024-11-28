@@ -113,7 +113,7 @@ Program.</p>
 <p><strong><a href="https://www.profbrawn.com.sg/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
 </p>
 <p></p>
-<p>Tel: 8321 2204 | 8129 4029</p>
+<p>Tel: 8129 4029</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A social enterprise by Autism Resource Centre (Singapore), which provides
