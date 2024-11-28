@@ -141,7 +141,11 @@ the disadvantaged in society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A one-year befriending programme, to provide young adults with disabilities
-participation in comminity and develop friendships.</p>
+participation in community and develop friendships.</p>
+<p></p>
+<p>This programme addresses challenges of social isolation faced by graduates
+who often experience a drop in services and support as they transition
+out of school.</p>
 </td>
 </tr>
 <tr>
