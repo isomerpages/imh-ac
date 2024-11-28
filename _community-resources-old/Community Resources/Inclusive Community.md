@@ -26,25 +26,7 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sodcafe.com.sg/" rel="noopener nofollow" target="_blank">SOD Café</a>
-</p>
-<p></p>
-<p>Tel: 6385 4026 | 8128 3506</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Through word of mouth, SOD Café at the Ci Yuan Community Centre is spacious
-for families to gather.</p>
-<p></p>
-<p>Mon - Fri: 11:30am - 9:30pm
-<br>Sat - Sun: 11:00am - 9:30pm</p>
-<p></p>
-<p><em>Location: 51 Hougang Ave 9, #01-03 Ci Yuan Community Centre, S538776</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://crossingscafe.com.sg/about-us" rel="noopener nofollow" target="_blank">Crossings Cafe</a></strong>
+<p><strong><a href="https://crossingscafe.com.sg/" rel="noopener nofollow" target="_blank">Crossings Café</a></strong>
 <br>
 <br>Tel: 6338 2669
 <br>Email:
@@ -76,27 +58,6 @@ with disabilities, special needs, and mental health conditions.</p>
 <p>Mon - Fri: 8am - 5pm</p>
 <p></p>
 <p><em>Location: NUS | Mediacorp Campus | Temasek Shophouse | Esplanade Mall</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.joanbowen.com/" rel="noopener nofollow" target="_blank">Joan Bowen Cafe</a></strong>
-</p>
-<p></p>
-<p>Tel: 6530 3628
-<br>Email:
-<br><a href="mailto:cafe@joanbowen.com" rel="noopener noreferrer nofollow" target="_blank">cafe@joanbowen.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A cafe that was started by a parent who has a child with special needs.
-The dishes are also hand cooked and prepared by persons with special needs.</p>
-<p></p>
-<p>Tues - Fri: 11:30am - 2:30pm
-<br>Closed on Mon, Sat, and Sun</p>
-<p></p>
-<p><em>Location: 9 Jalan Wangi, S349354</em>
 </p>
 </td>
 </tr>
