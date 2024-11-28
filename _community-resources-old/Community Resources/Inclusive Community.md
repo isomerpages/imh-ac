@@ -26,10 +26,10 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SOD Café</strong>
+<p><a href="https://www.sodcafe.com.sg/" rel="noopener nofollow" target="_blank">SOD Café</a>
 </p>
 <p></p>
-<p>Tel: 8128 3506</p>
+<p>Tel: 6385 4026 | 8128 3506</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Through word of mouth, SOD Café at the Ci Yuan Community Centre is spacious
