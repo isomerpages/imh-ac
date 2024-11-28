@@ -120,10 +120,10 @@ Program.</p>
 job and social integration opportunities to people with special needs and
 the disadvantaged in society.</p>
 <p></p>
-<p>(Redhill) Mon - Sat: 11am - 9pm
-<br>(AMK) Mon - Sat: 9am - 9pm</p>
+<p>Mon - Sat &amp; Public Holidays: 9am - 9pm
+<br>Sun: Closed</p>
 <p></p>
-<p><em>Location: Enabling Village @Redhill | Pathlight School @Ang Mo Kio</em>
+<p><em>Location: 5, Ang Mo Kio Ave 10, S569739</em>
 </p>
 </td>
 </tr>
