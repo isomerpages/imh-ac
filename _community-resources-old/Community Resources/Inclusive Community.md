@@ -26,15 +26,17 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ci Yuan Community Centre</strong>
+<p><strong>SOD Café</strong>
 </p>
 <p></p>
-<p>Tel: 6385 4026 | 8128 3506</p>
+<p>Tel: 8128 3506</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Through word of mouth, SOD Café is spacious for families to gather.</p>
+<p>Through word of mouth, SOD Café at the Ci Yuan Community Centre is spacious
+for families to gather.</p>
 <p></p>
-<p>Mon - Sun: 10am - 6pm</p>
+<p>Mon - Fri: 11:30am - 9:30pm
+<br>Sat - Sun: 11:00am - 9:30pm</p>
 <p></p>
 <p><em>Location: 51 Hougang Ave 9, #01-03 Ci Yuan Community Centre, S538776</em>
 </p>
