@@ -132,7 +132,7 @@ on their area of interest in art. Conducts in group teaching.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.laca.sg/products/fine-arts-programme-specialneeds-children" rel="noopener nofollow" target="_blank">Laca</a>
+<p><a href="https://www.laca.sg/products/fine-arts-programme-special-needs-children" rel="noopener nofollow" target="_blank">Laca</a>
 </p>
 <p></p>
 <p>Tel: 9010 2279
@@ -202,12 +202,11 @@ hone fine motor skills and build self-confidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.samhealth.org.sg/our-services/creativeservices/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a>
+<p><a href="https://www.samhealth.org.sg/our-services/creative-services/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a>
 </p>
 <p></p>
 <p>Tel:</p>
-<p>6320 0722/
-<br>9863 0603
+<p>6320 0722
 <br>Email:
 <br><a href="mailto:creativehub@samhealth.org.sg" rel="noopener noreferrer nofollow" target="_blank">creativehub@samhealth.org.sg</a>
 </p>
