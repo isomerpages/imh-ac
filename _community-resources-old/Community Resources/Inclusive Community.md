@@ -89,27 +89,6 @@ donate a meal/cake.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.mynonnas.com/" rel="noopener nofollow" target="_blank">My NoNNa’s</a></strong>
-</p>
-<p></p>
-<p>Tel: 8188 8368
-<br>Email:
-<br><a href="mailto:geri@mynonnas.com" rel="noopener noreferrer nofollow" target="_blank">geri@mynonnas.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A social enterprise that provides employment for persons with disabilities
-and the elderly.</p>
-<p></p>
-<p>Currently, they also provide employment via My NoNNa's Match-and-Train
-Program.</p>
-<p></p>
-<p><em>Locations: Upper Thomson | Canteens @ Catholic Junior College and Nanyang Girls High School</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://www.profbrawn.com.sg/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
 </p>
 <p></p>
