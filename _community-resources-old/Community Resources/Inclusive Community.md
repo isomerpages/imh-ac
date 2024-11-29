@@ -177,7 +177,7 @@ out of school.</p>
 <p><strong><a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
 </p>
 <p></p>
-<p>Tel: 8272 6930
+<p>Tel: 8727 6930
 <br>Email:
 <br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
 </p>
