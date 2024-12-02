@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources Consented/Horticulture.md
       - Community Resources Consented/Arts.md
       - Community Resources Consented/Sports.md
       - Community Resources Consented/.keep
