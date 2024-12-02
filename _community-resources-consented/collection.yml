@@ -1,5 +1,0 @@
-collections:
-  community-resources-consented:
-    output: true
-    order:
-      - Sports/.keep
