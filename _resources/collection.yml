@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources Consented/Healthcare Services.md
       - Community Resources Consented/Training & Employment.md
       - Community Resources Consented/Horticulture.md
       - Community Resources Consented/Arts.md
