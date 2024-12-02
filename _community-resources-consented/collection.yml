@@ -1,0 +1,4 @@
+collections:
+  community-resources-consented:
+    output: true
+    order: []
