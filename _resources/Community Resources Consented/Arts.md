@@ -9,5 +9,7 @@ third_nav_title: Community Resources Consented
 Our organization does not endorse or guarantee the effectiveness of the
 programs listed.</p>
 <p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>
+us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg. </a>
 </p>
+<p>Our organization reserves the right to remove any services listed without
+any prior notice.</p>
