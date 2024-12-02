@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources Consented/Sports.md
       - Community Resources Consented/.keep
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
