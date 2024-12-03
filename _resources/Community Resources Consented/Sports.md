@@ -9,7 +9,7 @@ third_nav_title: Community Resources Consented
 Our organization does not endorse or guarantee the effectiveness of the
 programs listed.</p>
 <p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg. </a>
+us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
@@ -26,32 +26,50 @@ any prior notice.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Program Details</p>
+<p>Program Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Contact</p>
+<p>Contact Details</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Olympics Singapore</p>
+<p><a href="https://www.specialolympics.org.sg/" rel="noopener nofollow" target="_blank">Special Olympics Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC - in charge will get back with info</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tel: 6293 3182</p>
+<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Innervate</p>
+<p><a href="https://www.innervatefit.com/adaptives" rel="noopener nofollow" target="_blank">Innervate</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adaptive CrossFit Program</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Specially designed for individuals with disabilities</p>
+</li>
+<li>
+<p>Ran programmes for various groups, such as AWWA, MINDS, APSN and SPD</p>
+</li>
+</ul>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tel: 8886 3099</p>
+<p>Email: <a href="mailto:info@innervatefit.com" rel="noopener noreferrer nofollow" target="_blank">info@innervatefit.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,10 +77,17 @@ any prior notice.</p>
 <p>Exhale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1-1 movement &amp; mindfulness sessions</p>
+</li>
+<li>
+<p>Customized group classes</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KIV - check consent</p>
 </td>
 </tr>
 </tbody>
