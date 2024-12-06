@@ -33,7 +33,8 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Crunchy Teeth</p>
+<p><a href="https://crunchyteeth.com.sg/" rel="noopener nofollow" target="_blank">Crunchy Teeth</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,7 +49,8 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Me2 Sg</p>
+<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -61,13 +63,16 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://trampolene.org/" rel="noopener nofollow" target="_blank">Trampolene</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tel: 8044 0260
+<br>Email:
+<br>contact@trampolene.org</p>
 </td>
 </tr>
 <tr>
