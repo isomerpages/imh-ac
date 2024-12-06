@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Recommended Guides/Test.md
       - Recommended Guides/.keep
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
