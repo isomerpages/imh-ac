@@ -297,7 +297,7 @@ educational needs.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Skills Training Workshops for Individuals with Autism</summary>
+<summary>Skills Training Workshop Guide</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -593,28 +593,6 @@ which aims to empower caregivers during the COVID-19 pandemic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/assisted-deputyship-application-programme-(adap)" rel="noopener nofollow" target="_blank"><u>Information on Assisted Deputyship Application Programmes (ADAP)</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Enabling Guide provides information on the application for deputyship.</p>
-<p></p>
-<p>Eligibility Criteria:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Child's age: 18-21 years-old</p>
-</li>
-<li>
-<p>In the graduating cohort in a Special Education School</p>
-</li>
-<li>
-<p>Enrolled in an MSF-Funded Day Activity Centre or Sheltered Workshops</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources?profile=profile0&amp;topic=all&amp;type=all&amp;page=1" rel="noopener nofollow" target="_blank">Media Literacy Council (Singapore)</a>
 </p>
 </td>
@@ -623,16 +601,6 @@ which aims to empower caregivers during the COVID-19 pandemic.</p>
 citizens of all ages and walks of life embrace digital as a shared platform
 and equal opportunity enabler. It also provides a variety of resources
 designed to enhance digital literacy and responsible media consumption.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.spd.org.sg/take-a-break-tab-programme/" rel="noopener nofollow" target="_blank"><u>Take-A-Break (TAB)</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAB is a short-term/temporary home-based respite programme that provides
-caregivers temporary relief from their caregiving duties.</p>
 </td>
 </tr>
 <tr>
@@ -676,14 +644,6 @@ such as the:</p>
 <td rowspan="1" colspan="1">
 <p>A handbook for parents with young children that includes the definition
 of rare diseases.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
