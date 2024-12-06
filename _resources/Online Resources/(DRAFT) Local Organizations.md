@@ -15,7 +15,7 @@ autism landscape in Singapore!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>rganization</p>
+<p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Content</p>
