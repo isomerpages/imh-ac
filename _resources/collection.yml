@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Recommended Guides/.keep
+      - (Draft) Recommended Guides/.keep
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
       - Recommended Books/For Children and Youths with Autism.md
