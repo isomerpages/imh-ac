@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - (Draft) Recommended Guidelines/United States.md
+      - (Draft) Recommended Guidelines/Australia.md
       - (Draft) Recommended Guidelines/Singapore.md
       - (Draft) Recommended Guidelines/.keep
       - Recommended Books/.keep
