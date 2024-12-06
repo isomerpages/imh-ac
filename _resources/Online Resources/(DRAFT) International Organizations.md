@@ -25,18 +25,34 @@ third_nav_title: Online Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://raisingchildren.net.au/autism" rel="noopener nofollow" target="_blank">Raising Children Network (Australia) Limited, Autism resources</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>An Australian resource that provides practical guides and advice for parents
+of children with autism, including diagnosis, treatment, and everyday tips.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.amaze.org.au/training/social-scripts/" rel="noopener nofollow" target="_blank">Amaze (Australia)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Amaze provides support and information to autistic people, families, professionals
+and the wider community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://autismsociety.org/resources-by-topic/" rel="noopener nofollow" target="_blank">Autism Society (USA)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One of the oldest autism organizations in the U.S., the Autism Society
+offers resources, support, and advocacy tools. Their website provides a
+variety of guides, including toolkits for various life stages and information
+on autism acceptance and awareness.</p>
 </td>
 </tr>
 </tbody>
@@ -62,35 +78,6 @@ third_nav_title: Online Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.autism.org.uk/" rel="noopener nofollow" target="_blank">The National Autistic Society (UK)</a>
 </p>
 </td>
@@ -99,38 +86,6 @@ third_nav_title: Online Resources
 with autism and their families, including guides, webinars, and support
 services. They focus on providing updated information and advocating for
 the rights and well-being of autistic individuals.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://autismsociety.org/resources-by-topic/" rel="noopener nofollow" target="_blank">Autism Society (USA)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>One of the oldest autism organizations in the U.S., the Autism Society
-offers resources, support, and advocacy tools. Their website provides a
-variety of guides, including toolkits for various life stages and information
-on autism acceptance and awareness.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://raisingchildren.net.au/autism" rel="noopener nofollow" target="_blank">Raising Children Network (Australia) Limited, Autism resources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>An Australian resource that provides practical guides and advice for parents
-of children with autism, including diagnosis, treatment, and everyday tips.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.amaze.org.au/training/social-scripts/" rel="noopener nofollow" target="_blank">Amaze (Australia)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Amaze provides support and information to autistic people, families, professionals
-and the wider community.</p>
 </td>
 </tr>
 <tr>
@@ -155,4 +110,8 @@ toolkits for understanding and managing autism.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
