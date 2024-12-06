@@ -32,6 +32,16 @@ resources useful!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.healthhub.sg/live-healthy/autism" rel="noopener nofollow" target="_blank">HealthHub (Autism Spectrum Disorder)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The HealthHub webpage on Autism Spectrum Disorder offers an overview of
+autism, including its symptoms, diagnosis, and available support resources.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.enablingguide.sg/caregiver-learning-roadmap" rel="noopener nofollow" target="_blank"><u>Enabling Guide</u></a>
 </p>
 </td>
