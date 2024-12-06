@@ -60,7 +60,9 @@ services for empowering caregivers of individuals with disabilities.</p>
 <p>(Service Directory)
 <br>Designed to empower and guide users, the directory simplifies access to
 vital services and promotes informed decision-making for better quality
-of life. It offers detailed information about available programs, organizations,
+of life.</p>
+<p></p>
+<p>It offers detailed information about available programs, organizations,
 and resources tailored to various needs, including education, healthcare,
 therapy, employment, and social inclusion.</p>
 </td>
