@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - (Draft) Recommended Guidelines/Singapore.md
       - (Draft) Recommended Guidelines/.keep
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
