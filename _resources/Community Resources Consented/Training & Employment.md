@@ -37,7 +37,14 @@ any prior notice.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provides internship for people with autism who are interested in baking</p>
+</li>
+<li>
+<p>Interns are partnered from SPED schools</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 9648 0067/</p>
@@ -53,7 +60,13 @@ any prior notice.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide training &amp; placement into a job role where indidividuals with
+ASD feel happy, understood &amp; recognized as a person.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 9239 2023
@@ -67,7 +80,12 @@ any prior notice.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adapted development for employability.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 8044 0260
