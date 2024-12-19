@@ -2,6 +2,7 @@ collections:
   resources-editing:
     output: true
     order:
+      - Community Resources (Editing)/Healthcare Services.md
       - Community Resources (Editing)/Training & Employment.md
       - Community Resources (Editing)/Sports.md
       - Community Resources (Editing)/Arts.md
