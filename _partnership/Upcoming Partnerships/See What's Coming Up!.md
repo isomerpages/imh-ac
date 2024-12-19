@@ -62,13 +62,12 @@ sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Discussion Group: What services or programmes do you think you/your child
-requires from healthcare organisations? (UPDATED TIMING &amp; FORMAT)</summary>
+requires from healthcare organisations?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discussion_Group_Poster__Jan_2025_.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discussion_Group_Posters__Jan_2025_.png">
 </div>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
