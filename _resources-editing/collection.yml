@@ -1,5 +1,5 @@
 collections:
-  community-resources-editing:
+  resources-editing:
     output: true
     order:
       - Horticulture.md
