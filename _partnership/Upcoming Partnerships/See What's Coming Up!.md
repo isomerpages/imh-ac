@@ -62,7 +62,7 @@ sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Discussion Group: What services or programmes do you think you/your child
-requires from healthcare organisations?</summary>
+requires from healthcare organisations? (UPDATED TIMING &amp; FORMAT)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -93,7 +93,7 @@ requires from healthcare organisations?</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p>10 January 2025
-<br>3pm - 4.30pm</p>
+<br>6pm - 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For <strong>parents and caregivers</strong> with children with autism <strong>below 12 years old</strong>
@@ -106,7 +106,7 @@ requires from healthcare organisations?</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p>17 January 2025
-<br>3pm - 4.30pm</p>
+<br>6pm - 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For <strong>parents and caregivers</strong> with children with autism <strong>above 12 years old</strong>
@@ -119,7 +119,7 @@ requires from healthcare organisations?</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p>24 January 2025
-<br>3pm - 4.30pm</p>
+<br>6pm - 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For <strong>individual(s) with autism</strong>
