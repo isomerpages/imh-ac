@@ -66,9 +66,8 @@ requires from healthcare organisations?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discussion_Group_Poster__Jan_2025_.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discussion_Group_Posters__Jan_2025_.png">
 </div>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -93,7 +92,7 @@ requires from healthcare organisations?</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p>10 January 2025
-<br>3pm - 4.30pm</p>
+<br>6pm - 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For <strong>parents and caregivers</strong> with children with autism <strong>below 12 years old</strong>
@@ -106,7 +105,7 @@ requires from healthcare organisations?</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p>17 January 2025
-<br>3pm - 4.30pm</p>
+<br>6pm - 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For <strong>parents and caregivers</strong> with children with autism <strong>above 12 years old</strong>
@@ -119,7 +118,7 @@ requires from healthcare organisations?</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p>24 January 2025
-<br>3pm - 4.30pm</p>
+<br>6pm - 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For <strong>individual(s) with autism</strong>
@@ -132,7 +131,7 @@ requires from healthcare organisations?</summary>
 </tbody>
 </table>
 <p></p>
-<p><em>Location: Child Guidance Clinic, 3 Second Hospital Ave, Health Promotion Board, #03-01, Singapore 168937</em>
+<p><em>Location: Online (link to be provided closer to the date)</em>
 </p>
 </div>
 </details>

@@ -26,23 +26,7 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ci Yuan Community Centre</strong>
-</p>
-<p></p>
-<p>Tel: 6385 4026 | 8128 3506</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Through word of mouth, SOD Café is spacious for families to gather.</p>
-<p></p>
-<p>Mon - Sun: 10am - 6pm</p>
-<p></p>
-<p><em>Location: 51 Hougang Ave 9, #01-03 Ci Yuan Community Centre, S538776</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://crossingscafe.com.sg/about-us" rel="noopener nofollow" target="_blank">Crossings Cafe</a></strong>
+<p><strong><a href="https://crossingscafe.com.sg/" rel="noopener nofollow" target="_blank">Crossings Café</a></strong>
 <br>
 <br>Tel: 6338 2669
 <br>Email:
@@ -79,27 +63,6 @@ with disabilities, special needs, and mental health conditions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.joanbowen.com/" rel="noopener nofollow" target="_blank">Joan Bowen Cafe</a></strong>
-</p>
-<p></p>
-<p>Tel: 6530 3628
-<br>Email:
-<br><a href="mailto:cafe@joanbowen.com" rel="noopener noreferrer nofollow" target="_blank">cafe@joanbowen.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A cafe that was started by a parent who has a child with special needs.
-The dishes are also hand cooked and prepared by persons with special needs.</p>
-<p></p>
-<p>Tues - Fri: 11:30am - 2:30pm
-<br>Closed on Mon, Sat, and Sun</p>
-<p></p>
-<p><em>Location: 9 Jalan Wangi, S349354</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://www.facebook.com/cafemetta/" rel="noopener nofollow" target="_blank">Metta Cafe</a></strong>
 </p>
 <p></p>
@@ -126,41 +89,20 @@ donate a meal/cake.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.mynonnas.com/" rel="noopener nofollow" target="_blank">My NoNNa’s</a></strong>
+<p><strong><a href="https://www.profbrawn.com.sg/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
 </p>
 <p></p>
-<p>Tel: 8188 8368
-<br>Email:
-<br><a href="mailto:geri@mynonnas.com" rel="noopener noreferrer nofollow" target="_blank">geri@mynonnas.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A social enterprise that provides employment for persons with disabilities
-and the elderly.</p>
-<p></p>
-<p>Currently, they also provide employment via My NoNNa's Match-and-Train
-Program.</p>
-<p></p>
-<p><em>Locations: Upper Thomson | Canteens @ Catholic Junior College and Nanyang Girls High School</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.professorbrawn.com/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
-</p>
-<p></p>
-<p>Tel: 8321 2204 | 8129 4029</p>
+<p>Tel: 8129 4029</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A social enterprise by Autism Resource Centre (Singapore), which provides
 job and social integration opportunities to people with special needs and
 the disadvantaged in society.</p>
 <p></p>
-<p>(Redhill) Mon - Sat: 11am - 9pm
-<br>(AMK) Mon - Sat: 9am - 9pm</p>
+<p>Mon - Sat &amp; Public Holidays: 9am - 9pm
+<br>Sun: Closed</p>
 <p></p>
-<p><em>Location: Enabling Village @Redhill | Pathlight School @Ang Mo Kio</em>
+<p><em>Location: 5, Ang Mo Kio Ave 10, S569739</em>
 </p>
 </td>
 </tr>
@@ -199,7 +141,11 @@ the disadvantaged in society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A one-year befriending programme, to provide young adults with disabilities
-participation in comminity and develop friendships.</p>
+participation in community and develop friendships.</p>
+<p></p>
+<p>This programme addresses challenges of social isolation faced by graduates
+who often experience a drop in services and support as they transition
+out of school.</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +177,7 @@ participation in comminity and develop friendships.</p>
 <p><strong><a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
 </p>
 <p></p>
-<p>Tel: 8272 6930
+<p>Tel: 8727 6930
 <br>Email:
 <br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
 </p>

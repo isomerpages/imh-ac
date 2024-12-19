@@ -26,19 +26,24 @@ third_nav_title: Community Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/thepurplesymphony/" rel="noopener nofollow" target="_blank">The Purple Symphony</a>
+<p><strong><a href="https://centralsingapore.cdc.gov.sg/programmes/socio-emotional-wellness/the-purple-symphony/" rel="noopener nofollow" target="_blank">The Purple Symphony</a></strong>
 </p>
 <p></p>
 <p>Email:
-<br><a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
+<br><a href="mailto:yogeswari_masilamani@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yogeswari_masilamani@pa.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An inclusive orchestra comprising musicians with and without special needs.
-Members play a range of Asian and Western instruments from five key musical
-sections: Strings (Plucked), Strings (Bow), Wind, Percussion and Choir.</p>
+<p>The Purple Symphony, facilitated by the Central Singapore Community Development,
+debuted in 2015. It is Singapore’s largest inclusive orchestra comprising
+over 100 musicians with and without disabilities. The orchestra comprises
+members from five key musical sections: Bowed &amp; Plucked Strings, Winds,
+Percussion, and a special Choir.</p>
 <p></p>
-<p>Commitment: 1 year period/ able to join for both trainings and performances</p>
+<p>Beyond being a platform for the inclusion of persons with disabilities,
+The Purple Symphony is also an avenue for musicians to learn and share
+music with one another, support inclusion, celebrate their abilities, and
+serve the community as one.</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +137,7 @@ on their area of interest in art. Conducts in group teaching.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.laca.sg/products/fine-arts-programme-specialneeds-children" rel="noopener nofollow" target="_blank">Laca</a>
+<p><a href="https://www.laca.sg/products/fine-arts-programme-special-needs-children" rel="noopener nofollow" target="_blank">Laca</a>
 </p>
 <p></p>
 <p>Tel: 9010 2279
@@ -202,12 +207,11 @@ hone fine motor skills and build self-confidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.samhealth.org.sg/our-services/creativeservices/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a>
+<p><a href="https://www.samhealth.org.sg/our-services/creative-services/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a>
 </p>
 <p></p>
 <p>Tel:</p>
-<p>6320 0722/
-<br>9863 0603
+<p>6320 0722
 <br>Email:
 <br><a href="mailto:creativehub@samhealth.org.sg" rel="noopener noreferrer nofollow" target="_blank">creativehub@samhealth.org.sg</a>
 </p>
