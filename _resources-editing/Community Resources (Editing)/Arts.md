@@ -118,6 +118,23 @@ The instructor, who has 13 years of experience teaching children Art, will
 incorporate art elements such as storytelling and animated illustrations.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.mustardtree.com.sg/" rel="noopener nofollow" target="_blank">Mustard Tree</a></strong>
+</p>
+<p></p>
+<p>Tel: 9631 5069</p>
+<p>Email:
+<br><a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mustard Tree delivers several programmes to engage special needs individuals
+in meaningful craft work, to hone fine motor skills and build self-confidence.</p>
+<p></p>
+<p>Students enrolled are exposed to floristry, sewing, patchwork, decoupage.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
