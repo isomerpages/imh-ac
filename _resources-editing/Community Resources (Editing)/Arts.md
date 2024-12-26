@@ -196,6 +196,7 @@ through the arts.</p>
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -230,12 +231,48 @@ for the development of your creative potential as an independent performer
 and theatre-maker.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.singaporefashionrunway.com/pages/fashion-for-a-social-cause" rel="noopener nofollow" target="_blank">Singapore Fashion Runway</a></strong>
+</p>
+<p></p>
+<p>Tel: 9766 2490
+<br>Email:
+<br><a href="mailto:welovesfr@gmail.com" rel="noopener noreferrer nofollow" target="_blank">welovesfr@gmail.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Fashion Runway is a social enterprise that nurtures People
+with Special Needs and Disadvantaged Groups through their Fashion for a
+Social Cause movement.</p>
+<p></p>
+<p>Through their yearly training and development programme, participants
+learn various skills such as designing, sewing, modelling, photography,
+styling, writing and/or events organising.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.hatch.sg/impact" rel="noopener nofollow" target="_blank">Hatch</a></strong>
+</p>
+<p></p>
+<p>Tel: 8040 4697</p>
+<p>Email:
+<br><a href="mailto:hello@hatch.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hatch.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hatch runs a specialised program in Social Media Marketing for persons
+with disabilities. Participants will go through a 240-hour training which
+includes technical skills, soft skills and career preparation classes,
+before proceeding on to a work attachment.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
 </details>
 </div>
-<p></p>
 <p>The list provided above is for information purposes only and is not exhaustive.
 Our organization does not endorse or guarantee the effectiveness of the
 programs listed.</p>
