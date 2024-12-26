@@ -258,7 +258,7 @@ styling, writing and/or events organising.</p>
 <p></p>
 <p>Tel: 8040 4697</p>
 <p>Email:
-<br><a href="mailto:hello@hatch.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hatch.sg</a> 
+<br><a href="mailto:hello@hatch.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hatch.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
