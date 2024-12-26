@@ -196,7 +196,42 @@ through the arts.</p>
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation &amp; Contact Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.srt.com.sg/inclusive-young-company" rel="noopener nofollow" target="_blank">Inclusive Young Company</a></strong>
+</p>
 <p></p>
+<p>Tel: 6221 5585</p>
+<p>Email:
+<br><a href="mailto:office@srt.com.sg" rel="noopener noreferrer nofollow" target="_blank">office@srt.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Repertory Theatre's Inclusive Young Company (IYC) is a holistic
+theatre-making programme for young persons and adults between the ages
+of 16 – 35, who identify as deaf, disabled, or neurodivergent. IYC features
+professional masterclasses and mentorship led by international artist Grace
+Lee-Khoo and various guest facilitators, which will provide a platform
+for the development of your creative potential as an independent performer
+and theatre-maker.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
