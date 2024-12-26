@@ -86,7 +86,40 @@ or the keyboard, depending on their interests and abilities.</p>
 <details class="isomer-details">
 <summary>Art &amp; Craft</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation &amp; Contact Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.laca.sg/products/fine-arts-programme-special-needs-children" rel="noopener nofollow" target="_blank">LACA</a></strong>
+</p>
 <p></p>
+<p>Tel: 9010 2279
+<br>Email:
+<br><a href="mailto:info@laca.sg" rel="noopener noreferrer nofollow" target="_blank">info@laca.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LACA delivers a Fine Arts Programme curated for children with special
+needs. Children will be exposed to various arts mediums such as colour
+pencils, soft &amp; oil pastels, watercolour, acrylic/oil paint and more.
+The instructor, who has 13 years of experience teaching children Art, will
+incorporate art elements such as storytelling and animated illustrations.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
