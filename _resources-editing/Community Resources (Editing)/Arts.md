@@ -33,16 +33,11 @@ third_nav_title: Community Resources (Editing)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Purple Symphony, facilitated by the Central Singapore Community Development,
-debuted in 2015. It is Singapore’s largest inclusive orchestra comprising
-over 100 musicians with and without disabilities. The orchestra comprises
-members from five key musical sections: Bowed &amp; Plucked Strings, Winds,
-Percussion, and a special Choir.</p>
-<p></p>
-<p>Beyond being a platform for the inclusion of persons with disabilities,
-The Purple Symphony is also an avenue for musicians to learn and share
-music with one another, support inclusion, celebrate their abilities, and
-serve the community as one.</p>
+<p>The Purple Symphony, debuted in 2015 by Central Singapore Community Development,
+is Singapore's largest inclusive orchestra, featuring over 100 musicians
+with and without disabilities. Comprising five musical sections, it promotes
+inclusion, celebrates abilities, and provides a platform for musicians
+to learn, share, and serve the community together.</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +120,7 @@ incorporate art elements such as storytelling and animated illustrations.</p>
 <p></p>
 <p>Tel: 9631 5069</p>
 <p>Email:
-<br><a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a> 
+<br><a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +137,60 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 <details class="isomer-details">
 <summary>Mixed Arts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation &amp; Contact Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.samhealth.org.sg/our-services/creative-services/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a></strong>
+</p>
 <p></p>
+<p>Tel: 6320 0722
+<br>Email:
+<br><a href="mailto:creativehub@samhealth.org.sg" rel="noopener noreferrer nofollow" target="_blank">creativehub@samhealth.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAMH Creative Hub's activities include creative therapeutic interventions,
+individual art therapy and counselling with creative approaches. They use
+art, music and dance as therapy for participants to explore and express
+their feelings.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.artdis.org.sg/" rel="noopener nofollow" target="_blank">ART:DIS</a></strong>
+</p>
+<p></p>
+<p>Tel: 6448 6275
+<br>Email:
+<br><a href="mailto:general@artdis.org.sg" rel="noopener noreferrer nofollow" target="_blank">general@artdis.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Formerly known as Very Special Arts Singapore, ART:DIS is a non-profit
+organisation established in 1993. It empowers persons with intellectual,
+sensorial, and physical disabilities aged 8 and above through visual and
+performing arts. Operating at Bedok, Bukit Merah, and Changi City Point,
+ART:DIS fosters self-confidence, independence, and community engagement.
+It provides opportunities for artistic growth and professional development,
+celebrating the unique strengths of individuals and promoting inclusion
+through the arts.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
