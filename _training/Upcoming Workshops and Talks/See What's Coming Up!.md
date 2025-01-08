@@ -33,7 +33,7 @@ and find out how to sign up!</p>
 <summary>Dealing with Feelings - a CBT based program for emotional regulation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date: </strong>20-21 March 2025 (Amended)</p>
+<p><strong>Date: </strong>13-14 March 2025 (Amended)</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
