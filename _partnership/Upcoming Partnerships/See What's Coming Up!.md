@@ -14,8 +14,6 @@ programmes and find out how to sign up!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
 </div>
-<p><strong>Date:</strong>
-<br>13 December 2024</p>
 <p><strong>Programme Details:</strong>
 <br>For persons with ASD</p>
 <ul data-tight="true" class="tight">
@@ -40,8 +38,6 @@ sign up!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
 </div>
-<p><strong>Date:</strong>
-<br>20 December 2024</p>
 <p><strong>Programme Details:</strong>
 <br>For persons with ASD</p>
 <ul data-tight="true" class="tight">
