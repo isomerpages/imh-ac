@@ -33,7 +33,8 @@ and find out how to sign up!</p>
 <summary>Dealing with Feelings - a CBT based program for emotional regulation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date: </strong>13-14 March 2025 (Amended)</p>
+<p><strong>Date: </strong>13-14 March 2025 (Amended)
+<br><strong>Time:</strong> 9am - 4pm</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
@@ -45,7 +46,7 @@ and find out how to sign up!</p>
 <summary>ADOS-2 Introductory Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date: </strong>2-3 June 2025 (Tentative dates)</p>
+<p><strong>Date: </strong>2-3 June 2025</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
@@ -60,7 +61,7 @@ and find out how to sign up!</p>
 <summary>ADOS-2 Advanced Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date: </strong>4-6 June 2025 (Tentative dates)</p>
+<p><strong>Date: </strong>4-6 June 2025</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
@@ -75,7 +76,7 @@ and find out how to sign up!</p>
 <summary>ADI-R Training Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Date: </strong>7-9 July 2025 (Tentative dates)</p>
+<p><strong>Date: </strong>2-4 July 2025 (Amended)</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
