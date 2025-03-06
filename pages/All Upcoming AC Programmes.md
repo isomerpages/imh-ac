@@ -58,25 +58,6 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>National Service Talk by Dr. Adrian Loh</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/National_Service_Talk_by_Dr__Adrian_Loh_Poster.png">
-</div>
-<p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals and parents/caregivers of person(s) with ASD.
-<br>Cost: Free of charge (limited seats available)</p>
-<p>Online session (Amended)</p>
-<p></p>
-<p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Dealing with Feelings - a CBT based program for emotional regulation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -87,6 +68,21 @@ sign up!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Dealing_with_Feelings_CBT_Program_Poster.png">
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Behaviours of Concern in Adults with Autism: The Biopsychosocial Approach</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date</strong>: 4 April 2025</p>
+<p><strong>Time:</strong> 5-6pm</p>
+<p><strong>Programme Details:</strong> For All</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Behaviours_of_Concern_in_Adults_with_Autism_Poster_4_April_2025.png">
 </div>
 </div>
 </details>
@@ -136,5 +132,4 @@ sign up!</p>
 </div>
 </details>
 </div>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
-more information.</p>
+<p></p>
