@@ -76,8 +76,13 @@ sign up!</p>
 <details class="isomer-details">
 <summary>Behaviours of Concern in Adults with Autism: The Biopsychosocial Approach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
-more information.</p>
+<p><strong>Date</strong>: 4 April 2025</p>
+<p><strong>Time:</strong> 5-6pm</p>
+<p><strong>Programme Details:</strong> For All</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Behaviours_of_Concern_in_Adults_with_Autism_Poster_4_April_2025.png">
+</div>
 </div>
 </details>
 </div>
