@@ -74,6 +74,15 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Behaviours of Concern in Adults with Autism: The Biopsychosocial Approach</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
+more information.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>ADOS-2 Introductory Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -117,5 +126,4 @@ sign up!</p>
 </div>
 </details>
 </div>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
-more information.</p>
+<p></p>
