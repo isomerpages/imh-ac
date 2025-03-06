@@ -74,7 +74,8 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Behaviours of Concern in Adults with Autism: The Biopsychosocial Approach</summary>
+<summary><strong>Behaviours of Concern in Adults with Autism: The Biopsychosocial Approach</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date</strong>: 4 April 2025</p>
 <p><strong>Time:</strong> 5-6pm</p>
