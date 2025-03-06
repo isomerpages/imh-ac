@@ -58,25 +58,6 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>National Service Talk by Dr. Adrian Loh</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/National_Service_Talk_by_Dr__Adrian_Loh_Poster.png">
-</div>
-<p><strong>Date &amp; Time: </strong>21 February 2025, 5pm - 6pm</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals and parents/caregivers of person(s) with ASD.
-<br>Cost: Free of charge (limited seats available)</p>
-<p>Online session (Amended)</p>
-<p></p>
-<p>Sign up <a href="https://form.gov.sg/672db9b5edb5f06628bca753" rel="noopener nofollow" target="_blank">here</a>!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Dealing with Feelings - a CBT based program for emotional regulation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
