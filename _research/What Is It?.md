@@ -11,7 +11,7 @@ participants. We encourage professionals to adopt research ideas by engaging
 the autism community in the spirit of co-creation.</p>
 <p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a></em> for
 more information.</p>
-<p>Click <a href="https://www.asdcollaborative.sg/register-your-interest-here/" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.asdcollaborative.sg/join-our-network-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our research network.</p>
 <hr>
 <h3>For The Autism Community &amp; Their Caregivers</h3>
@@ -28,5 +28,5 @@ for participation, and also receive updates or reports about outcomes of
 studies.</p>
 <p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a></em> for
 more information.</p>
-<p>Click <a href="https://www.asdcollaborative.sg/register-your-interest-here/" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.asdcollaborative.sg/join-our-network-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our research network.</p>
