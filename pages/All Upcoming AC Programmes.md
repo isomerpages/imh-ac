@@ -58,37 +58,6 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Dealing with Feelings - a CBT based program for emotional regulation</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Date: </strong>13-14 March 2025
-<br><strong>Time: </strong>9am - 4pm
-<br><strong>Programme Details: </strong>For professionals</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Dealing_with_Feelings_CBT_Program_Poster.png">
-</div>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Behaviours of Concern in Adults with Autism: The Biopsychosocial Approach</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date</strong>: 4 April 2025</p>
-<p><strong>Time:</strong> 5-6pm</p>
-<p><strong>Programme Details:</strong> For All</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Behaviours_of_Concern_in_Adults_with_Autism_Poster_4_April_2025.png">
-</div>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>ADOS-2 Introductory Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -127,7 +96,7 @@ sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Seats are limited and on a first come first serve basis</em>
+<p><em>Registration closed as seats are full.</em>
 </p>
 </div>
 </details>
