@@ -103,10 +103,10 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Changing Bodies, Changing Needs</strong>
+<summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 25 July 2025</p>
+<p>Date: 25 July 202</p>
 <p>Time: 5-6pm</p>
 </div>
 </details>
