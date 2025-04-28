@@ -106,8 +106,11 @@ sign up!</p>
 <summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 25 July 202</p>
+<p>Date: 25 July 2025</p>
 <p>Time: 5-6pm</p>
+<p>Location: Online (Zoom link will be sent out closer to event date)</p>
+<p>Cost: Free but registration required</p>
+<p></p>
 </div>
 </details>
 </div>
