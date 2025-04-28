@@ -110,7 +110,8 @@ sign up!</p>
 <p>Time: 5-6pm</p>
 <p>Location: Online (Zoom link will be sent out closer to event date)</p>
 <p>Cost: Free but registration required</p>
-<p>Programme Details:</p>
+<p>Programme Details: For professionals and parents/caregivers of individuals
+with autism</p>
 </div>
 </details>
 </div>
