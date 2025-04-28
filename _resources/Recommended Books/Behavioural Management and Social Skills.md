@@ -13,7 +13,7 @@ skills!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_social_skills_picture_book_teaching_play__emotion_and_communication_to_children_with_autism.png">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_social_skills_picture_book_teaching_play__emotion_and_communication_to_children_with_autism.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -26,7 +26,7 @@ social skills, emotions, and appropriate play behaviours.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/No_more_meltdowns_Positive_strategies_for_managing_and_preventing_out_of_control_behaviour.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/No_more_meltdowns_Positive_strategies_for_managing_and_preventing_out_of_control_behaviour.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -40,7 +40,7 @@ and step-by-step approaches.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_social_skills_picture_book_for_high_school_and_beyond.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_social_skills_picture_book_for_high_school_and_beyond.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ complex social environment.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Socially_Curious_and_Curiously_Social_A_social_thinking_guidebook_for_bright_teens_and_young_adults.png">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Socially_Curious_and_Curiously_Social_A_social_thinking_guidebook_for_bright_teens_and_young_adults.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -69,7 +69,7 @@ develop better social thinking skills.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_new_social_story_book__15th_anniversary_edition_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_new_social_story_book__15th_anniversary_edition_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -79,11 +79,11 @@ Future Horizons.</div>
 book includes over 150 social stories that address a wide range of social
 situations and skills.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://theautismhelper.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Autism Helper logo" src="/images/The_Autism_Helper.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Autism Helper (USA). (2023). Social stories for social skills. The Autism Helper.</div><div class="isomer-card-description">Offers a range of downloadable social stories, including those focused on social skills like making friends, sharing, and handling conflicts.</div><div class="isomer-card-link">Click here!</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://theautismhelper.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Autism Helper logo" src="/images/Recommended Books/The_Autism_Helper.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Autism Helper (USA). (2023). Social stories for social skills. The Autism Helper.</div><div class="isomer-card-description">Offers a range of downloadable social stories, including those focused on social skills like making friends, sharing, and handling conflicts.</div><div class="isomer-card-link">Click here!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.twinkl.co.uk/resources/send-autism-social-skills" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Twinkl logo" src="/images/twinkl.png">
+<img style="width: 100%" height="auto" width="100%" alt="Twinkl logo" src="/images/Recommended Books/twinkl.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -92,11 +92,11 @@ situations and skills.</div>
 topics, suitable for different age groups.</div>
 <div class="isomer-card-link">Click here!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.pacer.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pacer Center logo" src="/images/Pacer_Center.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pacer Center (USA). (2022). Social stories for social skills development. Pacer Center.</div><div class="isomer-card-description">A resource hub that includes guides and social stories focusing on social skills for children with autism and other developmental disabilities.</div><div class="isomer-card-link">Click here!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.pacer.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pacer Center logo" src="/images/Recommended Books/Pacer_Center.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pacer Center (USA). (2022). Social stories for social skills development. Pacer Center.</div><div class="isomer-card-description">A resource hub that includes guides and social stories focusing on social skills for children with autism and other developmental disabilities.</div><div class="isomer-card-link">Click here!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.socialstories4kids.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Stories 4 Kids logo" src="/images/Social_stories_4_kids.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Social Stories 4 Kids logo" src="/images/Recommended Books/Social_stories_4_kids.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
