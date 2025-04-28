@@ -8,11 +8,11 @@ third_nav_title: Recommended Books
 <p>Here are some recommended books for understanding autism!</p>
 <p><sub>Note: Books may be found at National Library (NLB) Singapore, selected local bookstores and online bookstores.</sub>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.imh.com.sg/Publications/Books/Pages/Living-with-Autism.aspx" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Living_with_Autism.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sung, M., Heng, L., Foo, M. &amp; Kheng., J.L. (2016). Living with Autism. Marshall Cavendish International.</div><div class="isomer-card-description">A Singaporean perspective offering personal stories and practical advice on living with autism.</div><div class="isomer-card-link">Click here!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.imh.com.sg/Publications/Books/Pages/Living-with-Autism.aspx" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Living_with_Autism.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sung, M., Heng, L., Foo, M. &amp; Kheng., J.L. (2016). Living with Autism. Marshall Cavendish International.</div><div class="isomer-card-description">A Singaporean perspective offering personal stories and practical advice on living with autism.</div><div class="isomer-card-link">Click here!</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_Complete_Guide_to_Asperger_s_Syndrome.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_Complete_Guide_to_Asperger_s_Syndrome.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -25,7 +25,7 @@ autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Talking_with_your_child_about_their_Autism_Diagnosis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Talking_with_your_child_about_their_Autism_Diagnosis.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -38,7 +38,7 @@ and age-appropriate way.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/autism_what_does_it_mean_to_me.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/autism_what_does_it_mean_to_me.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -52,7 +52,7 @@ their diagnosis.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_ASD_and_Me_Picture_Book.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_ASD_and_Me_Picture_Book.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -66,7 +66,7 @@ strengths to young children.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Far_From_The_Tree.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Far_From_The_Tree.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -78,7 +78,7 @@ children with diverse challenges, including autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Can_I_tell_you_about_Autism_A_guide_for_friends__family_and_professionals.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Can_I_tell_you_about_Autism_A_guide_for_friends__family_and_professionals.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -91,7 +91,7 @@ new to understanding ASD.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/A_practical_guide_to_autism_What_every_parent__family_member__and_teacher_needs_to_know.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/A_practical_guide_to_autism_What_every_parent__family_member__and_teacher_needs_to_know.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -105,7 +105,7 @@ educators.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Uniquely_Human_A_Different_Way_of_Seeing_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Uniquely_Human_A_Different_Way_of_Seeing_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -118,7 +118,7 @@ of living with autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism_A_new_introduction_to_psychological_theory_and_current_debate.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Autism_A_new_introduction_to_psychological_theory_and_current_debate.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -131,7 +131,7 @@ insights for parents and caregivers.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Supporting_autistic_children_at_home_A_practical_guide_for_parents_and_caregivers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Supporting_autistic_children_at_home_A_practical_guide_for_parents_and_caregivers.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -146,7 +146,7 @@ supportive home environments.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Ten_things_every_child_with_autism_wishes_you_knew.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Ten_things_every_child_with_autism_wishes_you_knew_2005.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -161,7 +161,7 @@ autism understanding.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Uniquely_Human_Updated_and_Expanded_A_Different_Way_of_Seeing_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Uniquely_Human_Updated_and_Expanded_A_Different_Way_of_Seeing_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
