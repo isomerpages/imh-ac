@@ -12,7 +12,7 @@ third_nav_title: Recommended Books
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/When_my_worries_get_too_big.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/When_my_worries_get_too_big.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
