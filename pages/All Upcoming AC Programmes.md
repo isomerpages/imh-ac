@@ -106,6 +106,10 @@ sign up!</p>
 <summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changing_Bodies__Changing_Needs__Poster_.png">
+</div>
 <p><strong>Date:</strong> 25 July 2025</p>
 <p><strong>Time:</strong> 5-6pm</p>
 <p><strong>Location:</strong> Online (Zoom link will be sent out closer to
