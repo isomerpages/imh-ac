@@ -106,7 +106,8 @@ sign up!</p>
 <summary><strong>Changing Bodies, Changing Needs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Date: 25 July 2025</p>
+<p>Time</p>
 </div>
 </details>
 </div>
