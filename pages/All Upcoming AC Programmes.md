@@ -107,7 +107,7 @@ sign up!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Date: 25 July 2025</p>
-<p>Time</p>
+<p>Time: 5-6pm</p>
 </div>
 </details>
 </div>
