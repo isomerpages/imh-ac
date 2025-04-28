@@ -13,7 +13,7 @@ skills!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_social_skills_picture_book_teaching_play__emotion_and_communication_to_children_with_autism.png">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_social_skills_picture_book_teaching_play__emotion_and_communication_to_children_with_autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -40,7 +40,7 @@ and step-by-step approaches.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_social_skills_picture_book_teaching_play__emotion_and_communication_to_children_with_autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_social_skills_picture_book_for_high_school_and_beyond.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
