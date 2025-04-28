@@ -55,7 +55,7 @@ and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Changing Bodies, Changing Needs</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://for.sg/changingbodies"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changing_Bodies__Changing_Needs__Poster_.png"></a>
 <p><strong>Date: </strong>25 July 2025</p>
 <p><strong>Time: </strong>5-6pm</p>
 <p></p>
@@ -67,9 +67,6 @@ event date)</p>
 <br>For professionals and parent/caregivers of individuals with autism</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changing_Bodies__Changing_Needs__Poster_.png">
-</div>
 <p></p>
 </div>
 </details>
