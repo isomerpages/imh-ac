@@ -25,7 +25,7 @@ and engaging visuals to teach relaxation techniques.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Different_like_me_My_book_of_autism_heroes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Different_like_me_My_book_of_autism_heroes.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -38,7 +38,7 @@ those on the autism spectrum, highlighting their strengths and contributions.</d
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/All_cats_are_on_the_autism_spectrum.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/All_cats_are_on_the_autism_spectrum.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -52,7 +52,7 @@ and helps children understand autism in a relatable way.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_reason_i_jump_The_inner_voice_of_a_thirteen_year_old_boy_with_autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_reason_i_jump_The_inner_voice_of_a_thirteen_year_old_boy_with_autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
