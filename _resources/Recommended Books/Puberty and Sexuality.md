@@ -13,7 +13,7 @@ persons with autism!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Making_sense_of_sex_A_forthright_guide_to_puberty__sex_and_relationships_for_people_with_Aspergers_Syndrome.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Making_sense_of_sex_A_forthright_guide_to_puberty__sex_and_relationships_for_people_with_Aspergers_Syndrome.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -28,7 +28,7 @@ and managing social situations.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Sexuality_and_relationship_education_for_children_and_adolescents_with_autism_spectrum_disorders.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Sexuality_and_relationship_education_for_children_and_adolescents_with_autism_spectrum_disorders.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -43,7 +43,7 @@ specifically for children and adolescents with autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Girls_Growing_Up_on_the_Autism_Spectrum_What_Parents_and_Professionals_Should_Know_about_the_Pre_teen_and_Teenage_Years.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Girls_Growing_Up_on_the_Autism_Spectrum_What_Parents_and_Professionals_Should_Know_about_the_Pre_teen_and_Teenage_Years.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -58,7 +58,7 @@ and self-advocacy.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Talking_with_your_child_about_their_Autism_Diagnosis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Talking_with_your_child_about_their_Autism_Diagnosis.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -72,7 +72,7 @@ a sensitive and age-appropriate manner.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Aspergers_syndrome_and_sexuality_from_adolescence_through_adulthood.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Aspergers_syndrome_and_sexuality_from_adolescence_through_adulthood.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ parents and professionals.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_new_social_story_book__15th_anniversary_edition_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_new_social_story_book__15th_anniversary_edition_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -99,7 +99,7 @@ about puberty and growing up.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BOok cover page" src="/images/Taking_care_of_myself_A_hygiene__puberty__and_personal_curriculum_for_youg_people_with_autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BOok cover page" src="/images/Recommended Books/Taking_care_of_myself_A_hygiene__puberty__and_personal_curriculum_for_youg_people_with_autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -112,7 +112,7 @@ ASD about personal care, puberty, and appropriate sexual behaviour.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_autism_friendly_guide_to_periods.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_autism_friendly_guide_to_periods.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
