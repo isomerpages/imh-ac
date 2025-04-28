@@ -64,7 +64,7 @@ event date)</p>
 <p><strong>Cost:</strong> Free but registration required</p>
 <p></p>
 <p><strong>Programme Details:</strong>
-<br>For professionals and parent/caregivers of individuals with autis</p>
+<br>For professionals and parents/caregivers of individuals with autism</p>
 </div>
 </details>
 </div>
