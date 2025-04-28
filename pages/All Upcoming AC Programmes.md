@@ -110,7 +110,7 @@ sign up!</p>
 <p>Time: 5-6pm</p>
 <p>Location: Online (Zoom link will be sent out closer to event date)</p>
 <p>Cost: Free but registration required</p>
-<p></p>
+<p>Programme Details:</p>
 </div>
 </details>
 </div>
