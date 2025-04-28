@@ -106,12 +106,13 @@ sign up!</p>
 <summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Date: 25 July 2025</p>
-<p>Time: 5-6pm</p>
-<p>Location: Online (Zoom link will be sent out closer to event date)</p>
-<p>Cost: Free but registration required</p>
-<p>Programme Details: For professionals and parents/caregivers of individuals
-with autism</p>
+<p><strong>Date:</strong> 25 July 2025</p>
+<p><strong>Time:</strong> 5-6pm</p>
+<p><strong>Location:</strong> Online (Zoom link will be sent out closer to
+event date)</p>
+<p><strong>Cost:</strong> Free but registration required</p>
+<p><strong>Programme Details:</strong> For professionals and parents/caregivers
+of individuals with autism</p>
 </div>
 </details>
 </div>
