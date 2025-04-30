@@ -13,7 +13,7 @@ skills for persons with autism!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Executive_skills_in_children_and_adolescents_A_practical_guide_to_assessment_and_intervention__3rd_ed__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Executive_skills_in_children_and_adolescents_A_practical_guide_to_assessment_and_intervention__3rd_ed__.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,7 +27,7 @@ with ASD.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Late__lost__and_unprepared_A_parent_s_guide_to_helping_children_with_executive_functioning.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Late__lost__and_unprepared_A_parent_s_guide_to_helping_children_with_executive_functioning.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

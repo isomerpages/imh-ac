@@ -12,7 +12,7 @@ third_nav_title: Recommended Books
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/My_brother_is_different.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/My_brother_is_different.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -26,7 +26,7 @@ accept differences.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism_through_a_sister_s_eyes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Autism_through_a_sister_s_eyes.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -40,7 +40,7 @@ autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Everybody_is_Different_A_book_for_young_people_who_have_brothers_or_sisters_with_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Everybody_is_Different_A_book_for_young_people_who_have_brothers_or_sisters_with_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ have about autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Siblings_The_autism_spectrum_through_our_eyes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Siblings_The_autism_spectrum_through_our_eyes.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,7 +68,7 @@ similar challenges.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Brotherly_Feelings_Me__My_Emotions__and_My_Brother_with_Asperger_s_Syndrome.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Brotherly_Feelings_Me__My_Emotions__and_My_Brother_with_Asperger_s_Syndrome.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,7 +83,7 @@ young readers who may have similar experiences.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism__the_invisible_cord_A_sibling_s_diary.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Autism__the_invisible_cord_A_sibling_s_diary.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

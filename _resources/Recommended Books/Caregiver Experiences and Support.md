@@ -13,7 +13,7 @@ usage for persons with autism!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/My_Way_31_Stories_of_Independent_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/My_Way_31_Stories_of_Independent_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -26,7 +26,7 @@ they face.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover image" src="/images/Come_into_my_world_31_stories_of_autism_in_Singapore.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover image" src="/images/Recommended Books/Come_into_my_world_31_stories_of_autism_in_Singapore.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -39,7 +39,7 @@ loved ones with autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Ten_things_every_child_with_autism_wishes_you_knew_2005.png">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Ten_things_every_child_with_autism_wishes_you_knew.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +53,7 @@ emotional journey of caregiving.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_Autism_Mom_s_Survival_Guide__for_Dads__Too___Creating_a_Balanced_and_Happy_Life_While_Raising_a_Child_with_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_Autism_Mom_s_Survival_Guide__for_Dads__Too___Creating_a_Balanced_and_Happy_Life_While_Raising_a_Child_with_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,7 +68,7 @@ autism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism_Spectrum_Disorder__Revised__The_Complete_Guide_to_Understanding_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Autism_Spectrum_Disorder__Revised__The_Complete_Guide_to_Understanding_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -81,7 +81,7 @@ focusing on caregiving experiences and support strategies.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Carlys_voice_Breaking_through_autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Carlys_voice_Breaking_through_autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -95,7 +95,7 @@ they experienced.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Uniquely_Human_A_Different_Way_of_Seeing_Autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Uniquely_Human_A_Different_Way_of_Seeing_Autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -109,7 +109,7 @@ approaches.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Parenting_ASD_teens_A_guide_to_making_it_up_as_you_go.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Parenting_ASD_teens_A_guide_to_making_it_up_as_you_go.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

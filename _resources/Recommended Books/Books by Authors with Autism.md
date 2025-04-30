@@ -12,7 +12,7 @@ third_nav_title: Recommended Books
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Asperger_s_from_the_Inside_Out_A_Supportive_and_Practical_Guide_for_Anyone_with_Asperger_s_Syndrome.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Asperger_s_from_the_Inside_Out_A_Supportive_and_Practical_Guide_for_Anyone_with_Asperger_s_Syndrome.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,7 +27,7 @@ self-advocacy and growth.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/The_Journal_of_Best_Practices_A_Memoir_of_Marriage__Asperger_Syndrome__and_One_Man_s_Quest_to_Be_a_Better_Husband.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/The_Journal_of_Best_Practices_A_Memoir_of_Marriage__Asperger_Syndrome__and_One_Man_s_Quest_to_Be_a_Better_Husband.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -43,7 +43,7 @@ and humor.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Thinking_in_pictures_My_life_with_autism.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Thinking_in_pictures_My_life_with_autism.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,11 +53,11 @@ her life, describing how she thinks primarily in visual images. The book
 discusses her experiences and achievements, offering a deep understanding
 of the autistic perspective.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Funny__You_Don_t_Look_Autistic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">McCreary, M. (2019). Funny, You Don’t Look Autistic: A comedian's guide to life on the spectrum. Annick Press Ptd.</div><div class="isomer-card-description">Michael McCreary, a stand-up comedian, recounts his life experiences with humour and candor. The book is both a memoir and a guide that tackles common misconceptions about autism while sharing his journey in the comedy world.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Funny__You_Don_t_Look_Autistic.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">McCreary, M. (2019). Funny, You Don’t Look Autistic: A comedian's guide to life on the spectrum. Annick Press Ptd.</div><div class="isomer-card-description">Michael McCreary, a stand-up comedian, recounts his life experiences with humour and candor. The book is both a memoir and a guide that tackles common misconceptions about autism while sharing his journey in the comedy world.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Look_me_in_the_eye_my_life_with_Asperger_s.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Look_me_in_the_eye_my_life_with_Asperger_s.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -71,7 +71,7 @@ and relationships after discovering he had Asperger’s.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/No_One_is_Too_Small_to_Make_a_Difference.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/No_One_is_Too_Small_to_Make_a_Difference.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ how her autism shapes her worldview and activism.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Autism_in_Heels_The_Untold_Story_of_a_Female_Life_on_the_Spectrum.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book cover page" src="/images/Recommended Books/Autism_in_Heels_The_Untold_Story_of_a_Female_Life_on_the_Spectrum.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
