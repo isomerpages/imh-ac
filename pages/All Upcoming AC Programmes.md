@@ -66,7 +66,7 @@ sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Registration is now closed due to full capacity.</em>
+<p><em>Registration has closed for this workshop.</em>
 </p>
 </div>
 </details>
@@ -81,7 +81,7 @@ sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Registration is now closed due to full capacity.</em>
+<p><em>Registration has closed for this workshop.</em>
 </p>
 </div>
 </details>
@@ -96,7 +96,7 @@ sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Registration is now closed due to full capacity.</em>
+<p><em>Registration has closed for this workshop. </em>
 </p>
 </div>
 </details>
