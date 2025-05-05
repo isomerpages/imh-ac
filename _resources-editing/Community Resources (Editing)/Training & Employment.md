@@ -123,7 +123,7 @@ any prior notice.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Provide training &amp; placement into a job role where indidividuals with
+<p>Provide training &amp; placement into a job role where individuals with
 ASD feel happy, understood &amp; recognized as a person.</p>
 <p>&nbsp;</p>
 </li>
