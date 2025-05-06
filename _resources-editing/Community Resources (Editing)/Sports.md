@@ -14,9 +14,8 @@ us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofol
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -28,13 +27,15 @@ any prior notice.</p>
 <th rowspan="1" colspan="1">
 <p>Program Information</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Contact Details</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.specialolympics.org.sg/" rel="noopener nofollow" target="_blank">Special Olympics Singapore</a>
+</p>
+<p></p>
+<p>Tel: 6293 3182</p>
+<p></p>
+<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,10 +45,12 @@ serves athletes with intellectual disability.</p>
 <li>
 <p>Available sports: Athletics, Badminton, Basketball, Bocce, Bowling, Dance
 Sport, Floorball, Football and Swimming.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Athletes will be able to represent SOSG in National, Regional and International
 games.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Other programs: Play Inclusive, Young Athletes, Healthy Athletes, Motor
@@ -58,15 +61,15 @@ Activities Training Program and Athlete Leadership.</p>
 <p><em>To confirm their eligibility, a clinical report indicating an IQ score below 75 is required for individuals diagnosed with autism.</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tel: 6293 3182</p>
-<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.innervatefit.com/adaptives" rel="noopener nofollow" target="_blank">Innervate</a>
+</p>
+<p></p>
+<p>Tel: 8886 3099</p>
+<p></p>
+<p>Email: <a href="mailto:info@innervatefit.com" rel="noopener noreferrer nofollow" target="_blank">info@innervatefit.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,16 +87,15 @@ Activities Training Program and Athlete Leadership.</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tel: 8886 3099</p>
-<p>Email: <a href="mailto:info@innervatefit.com" rel="noopener noreferrer nofollow" target="_blank">info@innervatefit.com</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://exhale.com.sg/yoga-meditation/" rel="noopener nofollow" target="_blank">Exhale</a>
 </p>
+<p></p>
+<p>Email: <a href="mailto:connect@exhale.com" rel="noopener noreferrer nofollow" target="_blank">connect@exhale.com</a>,sg</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -107,12 +109,6 @@ Activities Training Program and Athlete Leadership.</p>
 <p>Customized group classes</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:connect@exhale.com.sg" rel="noopener noreferrer nofollow" target="_blank">connect@exhale.com.sg</a>
-</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
