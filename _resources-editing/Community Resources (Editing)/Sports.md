@@ -34,7 +34,6 @@ any prior notice.</p>
 </p>
 <p></p>
 <p>Tel: 6293 3182</p>
-<p></p>
 <p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
 </p>
 </td>
@@ -68,7 +67,6 @@ Activities Training Program and Athlete Leadership.</p>
 </p>
 <p></p>
 <p>Tel: 8886 3099</p>
-<p></p>
 <p>Email: <a href="mailto:info@innervatefit.com" rel="noopener noreferrer nofollow" target="_blank">info@innervatefit.com</a>
 </p>
 </td>
@@ -93,7 +91,9 @@ Activities Training Program and Athlete Leadership.</p>
 <p><a href="https://exhale.com.sg/yoga-meditation/" rel="noopener nofollow" target="_blank">Exhale</a>
 </p>
 <p></p>
-<p>Email: <a href="mailto:connect@exhale.com" rel="noopener noreferrer nofollow" target="_blank">connect@exhale.com</a>,sg</p>
+<p>Email: <a href="mailto:connect@exhale.com" rel="noopener noreferrer nofollow" target="_blank">connect@exhale.com.sg</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 </td>
