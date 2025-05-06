@@ -38,7 +38,25 @@ any prior notice.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC - in charge will get back with info</p>
+<p>Special Olympics Singapore (SOSG) is part of a global organisation that
+serves athletes with intellectual disability.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Available sports: Athletics, Badminton, Basketball, Bocce, Bowling, Dance
+Sport, Floorball, Football and Swimming.</p>
+</li>
+<li>
+<p>Athletes will be able to represent SOSG in National, Regional and International
+games.</p>
+</li>
+<li>
+<p>Other programs: Play Inclusive, Young Athletes, Healthy Athletes, Motor
+Activities Training Program and Athlete Leadership.</p>
+</li>
+</ul>
+<p></p>
+<p><em>To confirm their eligibility, a clinical report indicating an IQ score below 75 is required for individuals diagnosed with autism.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 6293 3182</p>
@@ -74,12 +92,16 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Exhale</p>
+<p><a href="https://exhale.com.sg/yoga-meditation/" rel="noopener nofollow" target="_blank">Exhale</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1-1 movement &amp; mindfulness sessions</p>
+<p>Private 1-1 yoga, breath and mindfulness sessions</p>
+</li>
+<li>
+<p>Classes are customised and adapted to fit each individual's needs</p>
 </li>
 <li>
 <p>Customized group classes</p>
@@ -87,7 +109,10 @@ any prior notice.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>KIV - check consent</p>
+<p>Email: <a href="mailto:connect@exhale.com.sg" rel="noopener noreferrer nofollow" target="_blank">connect@exhale.com.sg</a>
+</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>

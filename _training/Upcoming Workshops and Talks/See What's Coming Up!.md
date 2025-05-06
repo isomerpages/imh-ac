@@ -17,7 +17,7 @@ and find out how to sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Seats are limited and on a first come first serve basis</em>
+<p><em>Registration has closed for this workshop. </em>
 </p>
 </div>
 </details>
@@ -32,7 +32,7 @@ and find out how to sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Seats are limited and on a first come first serve basis</em>
+<p><em>Registration has closed for this workshop. </em>
 </p>
 </div>
 </details>
@@ -47,7 +47,7 @@ and find out how to sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Registration closed as seats are full.</em>
+<p><em>Registration has closed for this workshop.</em>
 </p>
 </div>
 </details>
