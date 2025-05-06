@@ -119,8 +119,7 @@ incorporate art elements such as storytelling and animated illustrations.</p>
 </p>
 <p></p>
 <p>Tel: 9631 5069</p>
-<p>Email:
-<br><a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a>
+<p>Email: <a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
