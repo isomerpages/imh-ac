@@ -21,15 +21,16 @@ any prior notice.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Organisation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Program Information</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://citysprouts.com.sg/" rel="noopener nofollow" target="_blank">City Sprouts</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
