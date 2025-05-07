@@ -74,9 +74,8 @@ us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofol
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -88,14 +87,16 @@ any prior notice.</p>
 <th rowspan="1" colspan="1">
 <p>Program Information</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Contact Details</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://crunchyteeth.com.sg/" rel="noopener nofollow" target="_blank">Crunchy Teeth</a>
 </p>
+<p></p>
+<p>Tel: 9648 0067/8949 4943</p>
+<p>Email: <a href="mailto:sales@woh.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@woh.com.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -107,18 +108,16 @@ any prior notice.</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tel: 9648 0067/</p>
-<p>8949 4943</p>
-<p>Email:</p>
-<p><a href="mailto:sales@woh.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@woh.com.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Sg</a>
 </p>
+<p></p>
+<p>Tel: 9239 2023</p>
+<p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -129,15 +128,15 @@ ASD feel happy, understood &amp; recognized as a person.</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tel: 9239 2023
-<br>Email:
-<br>askme@me2.com.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://trampolene.org/" rel="noopener nofollow" target="_blank">Trampolene</a>
+</p>
+<p></p>
+<p>Tel: 8044 0260
+<br>Email:
+<br><a href="mailto:contact@trampolene.org" rel="noopener noreferrer nofollow" target="_blank">contact@trampolene.org</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,16 +147,8 @@ ASD feel happy, understood &amp; recognized as a person.</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Tel: 8044 0260
-<br>Email:
-<br>contact@trampolene.org</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
