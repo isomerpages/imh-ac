@@ -113,13 +113,24 @@ Activities Training Program and Athlete Leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bazgym
+<p><a href="https://www.bazgym.com" rel="noopener nofollow" target="_blank">BazGym</a> 
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PhysioGym Program: specially designed for individuals with special needs,
+suitable for both children and adults with autism.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Program also conducted at various schools including Pathlight School,
+Eden School, Grace Orchard School, Rainbow Centre and AWWA.</p>
+</li>
+</ul>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
