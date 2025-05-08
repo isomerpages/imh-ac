@@ -43,12 +43,17 @@ any prior notice.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Crunchy Teeth is a ground-up inclusive project aimed at transforming the
+employment prospects for youths and adults with autism.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Provides internship for people with autism who are interested in baking</p>
-</li>
+<p>Special Training Program: an internship program teaching basic baking
+and work skills, empowering them with relevant abilities to seek employment.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Interns are partnered from SPED schools</p>
+<p>Interns are partnered from SPED schools.</p>
+</li>
+</ul>
 </li>
 </ul>
 </td>
