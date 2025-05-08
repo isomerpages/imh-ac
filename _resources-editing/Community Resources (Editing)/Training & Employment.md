@@ -13,7 +13,7 @@ us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofol
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Training &amp; Employment</strong>
 </summary>
@@ -111,8 +111,6 @@ chosen fields.</p>
 <p></p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Skills Training Workshop Guide</strong>
 </summary>
