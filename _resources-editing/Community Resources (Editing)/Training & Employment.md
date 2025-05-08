@@ -15,7 +15,7 @@ us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofol
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Training &amp; Employment </strong>
+<summary><strong>Training &amp; Employment</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -55,7 +55,7 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Sg</a>
+<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
 </p>
 <p></p>
 <p>Tel: 9239 2023</p>
@@ -64,11 +64,17 @@ any prior notice.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Me2 is a social enterprise in Singapore, offering a specialised repertoire
+of fun and interactive programmes. They believe in making the arts accessible
+so that everyone can experience or participate in the transformative impact
+of the arts.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Provide training &amp; placement into a job role where individuals with
-ASD feel happy, understood &amp; recognized as a person.</p>
-<p>&nbsp;</p>
+<p>Artist Development with Me2: a comprehensive 6-month training programme
+featuring various specialised tracks for Artists with Disabilities. These
+tracks are designed to cater to individual interests and strengths, providing
+their students with the skills and confidence they need to excel in their
+chosen fields.</p>
 </li>
 </ul>
 </td>
