@@ -25,7 +25,7 @@ any prior notice.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Organisation/Service</p>
+<p>Organization/Service</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Guide</p>
