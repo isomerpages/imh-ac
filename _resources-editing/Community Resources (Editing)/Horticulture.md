@@ -38,34 +38,34 @@ any prior notice.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>City Sprouts is an inclusive space that aims to bring together people
-from all walks of life to create a community that can experience a bond
-through shared discovery. Suitable programs for individuals with autism
-include:</p>
+<p>City Sprouts is an inclusive community space that connects people through
+shared discovery and meaningful, hands-on experiences. Their programs are
+thoughtfully designed to be inclusive, providing a safe and engaging environment.</p>
+<p></p>
+<p>Suitable programs for individuals with autism include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Signature Farm Tour + Kokedama Workshop: a 1.5hrs workshop involving a
-tour of their farm and a Kokedama crafting activity.</p>
+<p>Signature Farm Tour + Kokedama Workshop: a guided sensory farm tour followed
+by a calming, hands-on Kokedama (moss ball planting) activity.</p>
 </li>
 <li>
-<p>Signature Farm Tour + Farm to Table Ondeh Ondeh Workshop: a 1.5hrs workshop
-involving a tour of their farm and a culinary activity.</p>
+<p>Signature Farm Tour + Farm-to-Table Ondeh Ondeh Workshop: a guided sensory
+farm tour and a fun, interactive blue ondeh-ondeh cooking session using
+farm-fresh ingredients.</p>
 </li>
 <li>
-<p>Gardening 101: a 1.5hrs workshop teaching basic gardening skills including
-Weeding, Pruning, Seed Sowing, Harvesting and Composting among many others.</p>
+<p>Gardening 101: learn basic gardening skills such as weeding, seed sowing,
+pruning and composting in an accessible, beginner-friendly format.</p>
 </li>
 </ul>
-<p><em>Interested parties are encouraged to contact them ahead of time to facilitate any necessary arrangements for the programs. </em>
+<p></p>
+<p>Each program includes a guided tour through their sensory-rich farm where
+participants can see, touch, smell and (if they wish) taste plants while
+exploring areas like their tech farm, chicken coop, compost station, and
+sensory garden.</p>
+<p></p>
+<p><em>Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit. </em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
