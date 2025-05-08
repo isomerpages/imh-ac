@@ -90,10 +90,17 @@ chosen fields.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Trampolene empowers individuals with autism and special needs with tailored
+career pathways and development.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Adapted development for employability.</p>
-<p>&nbsp;</p>
+<p>Skills Training</p>
+</li>
+<li>
+<p>Guided Coaching &amp; Skills Enhancement</p>
+</li>
+<li>
+<p>Professional Growth &amp; Development&nbsp;</p>
 </li>
 </ul>
 </td>
