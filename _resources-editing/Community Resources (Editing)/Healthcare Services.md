@@ -9,8 +9,7 @@ third_nav_title: Community Resources (Editing)
 Our organization does not endorse or guarantee the effectiveness of the
 programs listed.</p>
 <p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
-</p>
+us at autism_research@imh.com.sg.</p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -33,15 +32,13 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="www.enablingguide.sg/services-listing" rel="noopener nofollow" target="_blank">Enabling Guide</a>
-</p>
+<p>Enabling Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To locate medical or dental services:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to <a href="http://www.enablingguide.sg/services-listing" rel="noopener noreferrer nofollow" target="_blank">www.enablingguide.sg/services-listing</a>
-</p>
+<p>Go to www.enablingguide.sg/services-listing</p>
 </li>
 <li>
 <p>Click on the 'Types of Disability' tab and select the relevant categories
