@@ -31,9 +31,33 @@ any prior notice.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://citysprouts.com.sg/" rel="noopener nofollow" target="_blank">City Sprouts</a>
 </p>
+<p></p>
+<p>Email: <a href="mailto:hello@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">hello@citysprouts.com.sg</a>
+</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>City Sprouts is an inclusive space that aims to bring together people
+from all walks of life to create a community that can experience a bond
+through shared discovery. Suitable programs for individuals with autism
+include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Signature Farm Tour + Kokedama Workshop: a 1.5hrs workshop involving a
+tour of their farm and a Kokedama crafting activity.</p>
+</li>
+<li>
+<p>Signature Farm Tour + Farm to Table Ondeh Ondeh Workshop: a 1.5hrs workshop
+involving a tour of their farm and a culinary activity.</p>
+</li>
+<li>
+<p>Gardening 101: a 1.5hrs workshop teaching basic gardening skills including
+Weeding, Pruning, Seed Sowing, Harvesting and Composting among many others.</p>
+</li>
+</ul>
+<p><em>Interested parties are encouraged to contact them ahead of time to facilitate any necessary arrangements for the programs. </em>
+</p>
 </td>
 </tr>
 <tr>
