@@ -177,6 +177,26 @@ Riding Programme.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://swishswimming.com/" rel="noopener nofollow" target="_blank">Swish Swimming</a>
+</p>
+<p></p>
+<p>Tel: 9832 2522</p>
+<p>Email: <a href="mailto:admin@swishswimming.com" rel="noopener noreferrer nofollow" target="_blank">admin@swishswimming.com</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swish Swimming provides inclusive swimming classes for children with special
+needs.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Personalised and adaptive swimming classes that cater to individual differences.</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
