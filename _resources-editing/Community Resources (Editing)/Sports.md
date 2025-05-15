@@ -133,6 +133,42 @@ Eden School, Grace Orchard School, Rainbow Centre and AWWA.</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://rdasingapore.org" rel="noopener nofollow" target="_blank">Riding for the Disabled Association (RDA)</a>
+</p>
+<p></p>
+<p>Tel: 6250 0176</p>
+<p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a>
+</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RDA provides equine-assisted therapy to the disabled beneficiaries in
+the community. They work with various types of disabilities, including
+physical, developmental, cognitive and learning disabilities in children
+and adults.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Therapeutic Riding: individuals are usually allocated a 9 to 10 week course,
+allowing riders to work on their goals and objectives set before riding
+begins. Goals are reviewed and adjusted with consultation and feedback
+from instructors, therapists and/or parents from time to time.</p>
+</li>
+<li>
+<p>Ground Programme: allows individuals to partake in activities off the
+horse such as interacting with the horse, horse care, handling and groundwork.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Also has motor and cognitive skills exercises similar to the Therapeutic
+Riding Programme.</p>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
