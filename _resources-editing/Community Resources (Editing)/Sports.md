@@ -151,13 +151,13 @@ physical, developmental, cognitive and learning disabilities in children
 and adults.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Therapeutic Riding: individuals are usually allocated a 9 to 10 week course,
+<p>Therapeutic Riding: Individuals are usually allocated a 9 to 10 week course,
 allowing riders to work on their goals and objectives set before riding
 begins. Goals are reviewed and adjusted with consultation and feedback
 from instructors, therapists and/or parents from time to time.</p>
 </li>
 </ul>
-<p><em>To be eligible for the riding programme, there is an age requirement of 5 years and older, and a weight limit of 60kg. </em>
+<p><em>To be eligible for the riding programme, there is an age requirement of 5 years and older, and a weight limit of 60kg.</em>
 </p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -173,9 +173,8 @@ Riding Programme.</p>
 </ul>
 </li>
 </ul>
-<p><em>The ground programme is currently only open to groups from SPEDS or SSAs. Individual sign-ups are not allowed at the moment. </em>
+<p><em>The ground programme is currently only open to groups from SPEDS or SSAs. Individual sign-ups are not allowed at the moment.</em>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
