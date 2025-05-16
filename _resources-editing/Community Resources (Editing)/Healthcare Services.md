@@ -155,8 +155,12 @@ Hospital Avenue, #03-01, S(168937)</p>
 </p>
 <p></p>
 <p>Tel: 6665 2530/2531</p>
+<p>Email: cdu@nuhs.edu.sg</p>
 <p></p>
+<p>Child Development Unit, Jurong Medical Centre: 60 Jurong West Central
+3, Level 2, S(648346)</p>
 <p></p>
+<p>Child Development Unit, Keat Hong: 2 Choa Chu Kang Loop, Level 3, S(689687)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To locate information on the Child Development Unit (NUH):</p>
@@ -174,7 +178,17 @@ Hospital Avenue, #03-01, S(168937)</p>
 </p>
 <p></p>
 <p>Tel: 6294 4050</p>
-<p>Email: centralappt@kkh.com.sg</p>
+<p>Email: <a href="mailto:centralappt@kkh.com.sg" rel="noopener noreferrer nofollow" target="_blank">centralappt@kkh.com.sg</a>
+</p>
+<p></p>
+<p>Department of Child Development, HPB: Health Promotion Board Building,
+3 Second Hospital Avenue, Level 1, 2 &amp; 4, S(168937)</p>
+<p></p>
+<p>Department of Child Development, One Punggol: 1 Punggol Drive, #04-07,
+S(828629)</p>
+<p></p>
+<p>Department of Child Development, Kampung Admiralty: Admiralty Medical
+Centre (ADMC), Block 676, Woodlands Drive 71, Level 3, S(730676)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To locate information on the Department of Child Development (KKH):</p>
