@@ -13,7 +13,7 @@ us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofol
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Music</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -84,10 +84,13 @@ or the keyboard, depending on their interests and abilities.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Art &amp; Craft</summary>
+<summary>Arts &amp; Crafts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -139,8 +142,11 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mixed Arts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -198,12 +204,14 @@ through the arts.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -277,6 +285,7 @@ before proceeding on to a work attachment.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 </div>
