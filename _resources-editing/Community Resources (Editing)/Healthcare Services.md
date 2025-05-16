@@ -130,17 +130,13 @@ Other types of disability services can be selected for other needs.</p>
 <p><a href="https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx" rel="noopener nofollow" target="_blank">Child Guidance Clinic (IMH)</a>
 </p>
 <p></p>
-<p>Appointment: 6389 2200</p>
+<p>Tel: 6389 2200</p>
 <p></p>
-<p>Child Guidance Clinic, IMH:</p>
-<p>Institute of Mental Health</p>
-<p>Buangkok Green Medical Park</p>
-<p>10 Buangkok View, Block 3, Basement 1, S(539747)</p>
+<p>Child Guidance Clinic, IMH: Institute of Mental Health, Buangkok Green
+Medical Park, 10 Buangkok View, Block 3, Basement 1, S(539747)</p>
 <p></p>
-<p>Child Guidance Clinic, HPB</p>
-<p>Health Promotion Board Building</p>
-<p>3 Second Hospital Avenue, #03-01</p>
-<p>S(168937)</p>
+<p>Child Guidance Clinic, HPB: Health Promotion Board Building, 3 Second
+Hospital Avenue, #03-01, S(168937)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To locate information on the Child Guidance Clinic (IMH):</p>
