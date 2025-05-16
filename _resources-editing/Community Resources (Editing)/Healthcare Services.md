@@ -112,6 +112,7 @@ Other types of disability services can be selected for other needs.</p>
 <details class="isomer-details">
 <summary>Hospital Services</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -156,10 +157,21 @@ Other types of disability services can be selected for other needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics" rel="noopener nofollow" target="_blank">Child Development Unit (NUH)</a>
+</p>
+<p></p>
+<p>Tel: 6665 2530/2531</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To locate information on the Child Development Unit (NUH):</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <a href="https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics" rel="noopener noreferrer nofollow" target="_blank">https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics</a>
+</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
