@@ -32,13 +32,15 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enabling Guide</p>
+<p><a href="https://www.enablingguide.sg/services-listing" rel="noopener nofollow" target="_blank">Enabling Guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To locate medical or dental services:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to www.enablingguide.sg/services-listing</p>
+<p>Go to <a href="http://www.enablingguide.sg/services-listing" rel="noopener noreferrer nofollow" target="_blank">www.enablingguide.sg/services-listing</a> 
+</p>
 </li>
 <li>
 <p>Click on the 'Types of Disability' tab and select the relevant categories
@@ -52,6 +54,106 @@ e.g. Autism</p>
 types of disability services can be selected for other needs.</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Intervention and Therapy</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organization/Service</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Guide</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="www.enablingguide.sg/services-listing" rel="noopener nofollow" target="_blank">Enabling Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To locate intervention or therapy services:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <a href="http://www.enablingguide.sg/services-listing" rel="noopener noreferrer nofollow" target="_blank">www.enablingguide.sg/services-listing</a>
+</p>
+</li>
+<li>
+<p>Click on the 'Types of Disability' tab and select the relevant categories
+e.g. Autism</p>
+</li>
+<li>
+<p>Click on the 'Types of Disability Services' tab and select 'Intervention
+and Therapy'</p>
+</li>
+</ol>
+<p>The list should be filtered for Intervention and Therapy services now.
+Other types of disability services can be selected for other needs.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Hospital Services</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organization/Service</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Guide</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx" rel="noopener nofollow" target="_blank">Child Guidance Clinic (IMH)</a>
+</p>
+<p></p>
+<p>Appointment Tel: 6389 2200</p>
+<p></p>
+<p>Child Guidance Clinic, IMH:</p>
+<p>Institute of Mental Health</p>
+<p>Buangkok Green Medical Park</p>
+<p>10 Buangkok View, Block 3, Basement 1, S(539747)</p>
+<p></p>
+<p>Child Guidance Clinic, HPB</p>
+<p>Health Promotion Board Building</p>
+<p>3 Second Hospital Avenue, #03-01</p>
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To locate information on the Child Guidance Clinic (IMH):</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <a href="https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx</a>
+</p>
+</li>
+</ol>
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,14 +164,6 @@ types of disability services can be selected for other needs.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
