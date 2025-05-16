@@ -285,7 +285,12 @@ before proceeding on to a work attachment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Me2</p>
+<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
+</p>
+<p></p>
+<p>Tel: 9239 2023</p>
+<p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
