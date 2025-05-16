@@ -112,6 +112,7 @@ Other types of disability services can be selected for other needs.</p>
 <details class="isomer-details">
 <summary>Hospital Services</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -168,6 +169,24 @@ Other types of disability services can be selected for other needs.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to <a href="https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics" rel="noopener noreferrer nofollow" target="_blank">https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kkh.com.sg/patient-care/areas-of-care/childrens-services/Pages/child-development.aspx" rel="noopener nofollow" target="_blank">Department of Child Development (KKH)</a>
+</p>
+<p></p>
+<p>Tel: 6294 4050</p>
+<p>Email: centralappt@kkh.com.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To locate information on the Department of Child Development (KKH):</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <a href="https://www.kkh.com.sg/patient-care/areas-of-care/childrens-services/Pages/child-development.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.kkh.com.sg/patient-care/areas-of-care/childrens-services/Pages/child-development.aspx</a>
 </p>
 </li>
 </ol>
