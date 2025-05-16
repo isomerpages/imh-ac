@@ -63,7 +63,6 @@ types of disability services can be selected for other needs.</p>
 <details class="isomer-details">
 <summary>Intervention and Therapy</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
