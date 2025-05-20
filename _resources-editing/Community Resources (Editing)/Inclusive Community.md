@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Community Resources (Editing)
 ---
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Cafes</summary>
@@ -110,10 +111,11 @@ the disadvantaged in society.</p>
 </table>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Social</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -220,6 +222,7 @@ the registration link.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 </div>
