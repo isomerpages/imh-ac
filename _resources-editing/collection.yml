@@ -2,13 +2,13 @@ collections:
   resources-editing:
     output: true
     order:
+      - Community Resources (Editing)/.keep
+      - Community Resources (Editing)/Arts.md
+      - Community Resources (Editing)/Sports.md
+      - Community Resources (Editing)/Horticulture.md
+      - Community Resources (Editing)/Training & Employment.md
       - Community Resources (Editing)/Inclusive Community.md
       - Community Resources (Editing)/Healthcare Services.md
-      - Community Resources (Editing)/Training & Employment.md
-      - Community Resources (Editing)/Sports.md
-      - Community Resources (Editing)/Arts.md
-      - Community Resources (Editing)/Horticulture.md
-      - Community Resources (Editing)/.keep
       - Online Resources (Editing)/(DRAFT) Caregiver Resources.md
       - Online Resources (Editing)/(DRAFT) Local Organizations.md
       - Online Resources (Editing)/.keep
