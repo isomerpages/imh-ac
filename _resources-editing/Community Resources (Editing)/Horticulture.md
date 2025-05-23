@@ -9,7 +9,66 @@ third_nav_title: Community Resources (Editing)
 Our organization does not endorse or guarantee the effectiveness of the
 programs listed.</p>
 <p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg. </a>
+us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Program Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://citysprouts.com.sg/" rel="noopener nofollow" target="_blank">City Sprouts</a>
+</p>
+<p></p>
+<p>Email: <a href="mailto:hello@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">hello@citysprouts.com.sg</a>
+</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>City Sprouts is an inclusive community space that connects people through
+shared discovery and meaningful, hands-on experiences. Their programs are
+thoughtfully designed to be inclusive, providing a safe and engaging environment.</p>
+<p></p>
+<p>Suitable programs for individuals with autism include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Signature Farm Tour + Kokedama Workshop (1.5hrs): a guided sensory farm
+tour followed by a calming, hands-on Kokedama (moss ball planting) activity.</p>
+</li>
+<li>
+<p>Signature Farm Tour + Farm-to-Table Ondeh Ondeh Workshop (1.5hrs): a guided
+sensory farm tour and a fun, interactive blue ondeh-ondeh cooking session
+using farm-fresh ingredients.</p>
+</li>
+<li>
+<p>Gardening 101 (1.5hrs): learn basic gardening skills such as weeding,
+seed sowing, pruning and composting in an accessible, beginner-friendly
+format.</p>
+</li>
+</ul>
+<p></p>
+<p>Each program includes a guided tour through their sensory-rich farm where
+participants can see, touch, smell and (if they wish) taste plants while
+exploring areas like their tech farm, chicken coop, compost station, and
+sensory garden.</p>
+<p></p>
+<p><em>Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

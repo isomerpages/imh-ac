@@ -5,7 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Community Resources (Editing)
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p>The list provided below is for information purposes only and is not exhaustive.
+Our organization does not endorse or guarantee the effectiveness of the
+programs listed.</p>
+<p>If your organization wishes to be included in the list, please contact
+us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
+</p>
+<p>Our organization reserves the right to remove any services listed without
+any prior notice.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Music</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -76,10 +84,13 @@ or the keyboard, depending on their interests and abilities.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Art &amp; Craft</summary>
+<summary>Arts &amp; Crafts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -119,8 +130,7 @@ incorporate art elements such as storytelling and animated illustrations.</p>
 </p>
 <p></p>
 <p>Tel: 9631 5069</p>
-<p>Email:
-<br><a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a>
+<p>Email: <a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,8 +142,11 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mixed Arts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -191,12 +204,14 @@ through the arts.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -268,16 +283,23 @@ includes technical skills, soft skills and career preparation classes,
 before proceeding on to a work attachment.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
+</p>
+<p></p>
+<p>Tel: 9239 2023</p>
+<p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 </div>
-<p>The list provided above is for information purposes only and is not exhaustive.
-Our organization does not endorse or guarantee the effectiveness of the
-programs listed.</p>
-<p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
-</p>
-<p>Our organization reserves the right to remove any services listed without
-any prior notice.</p>
+<p></p>
