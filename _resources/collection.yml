@@ -2,9 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Online Resources/Local Resources.md
-      - Online Resources/Caregiver Resources.md
-      - Online Resources/.keep
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
       - Recommended Books/For Children and Youths with Autism.md
@@ -15,3 +12,6 @@ collections:
       - Recommended Books/Sleep.md
       - Recommended Books/Puberty and Sexuality.md
       - Recommended Books/Books by Authors with Autism.md
+      - Online Resources/.keep
+      - Online Resources/Local Resources.md
+      - Online Resources/Caregiver Resources.md
