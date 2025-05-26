@@ -59,7 +59,7 @@ and work skills, empowering them with relevant abilities to seek employment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
+<p><a href="https://www.me2.com.sg/artist-development-with-me2/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
 </p>
 <p></p>
 <p>Tel: 9239 2023</p>
@@ -95,7 +95,7 @@ chosen fields.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Trampolene empowers individuals with autism and special needs with tailored
-career pathways and development.</p>
+career pathways and development, including:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Skills Training</p>
