@@ -225,6 +225,9 @@ the registration link.</p>
 <p>YMCA membership privileges</p>
 </li>
 </ul>
+<p></p>
+<p>Please note that there is an age requirement of 18 years and above to
+be eligible for YMCA Club Lite.</p>
 </td>
 </tr>
 </tbody>
