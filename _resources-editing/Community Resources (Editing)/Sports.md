@@ -92,8 +92,8 @@ and adults.</p>
 <li>
 <p>Therapeutic Riding: Individuals are usually allocated a 9 to 10 week course,
 allowing riders to work on their goals and objectives set before riding
-begins. Goals are reviewed and adjusted with consultation and feedback
-from instructors, therapists and/or parents from time to time.</p>
+begins.</p>
+<p></p>
 </li>
 </ul>
 <p><em>To be eligible for the riding programme, there is an age requirement of 5 years and older, and a weight limit of 60kg.</em>
@@ -103,12 +103,7 @@ from instructors, therapists and/or parents from time to time.</p>
 <p>Ground Programme: Off-the-horse therapy, allowing individuals to partake
 in activities off the horse such as interacting with the horse, horse care,
 handling and groundwork.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Also has motor and cognitive skills exercises similar to the Therapeutic
-Riding Programme.</p>
-</li>
-</ul>
+<p></p>
 </li>
 </ul>
 <p><em>The ground programme is currently only open to groups from SPEDS or SSAs. Individual signups are not allowed at the moment.</em>
