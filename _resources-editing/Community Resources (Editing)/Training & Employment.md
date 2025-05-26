@@ -122,7 +122,7 @@ general enquiries)</p>
 <p>Project Dignity provides skills training, placement and employment within
 the F&amp;B and retail sector.</p>
 <p></p>
-<p>Specialised programmes* available for individuals with autism.</p>
+<p>Specialised programmes available for individuals with autism.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Train-and-place programme: a 22-day, structured, vocational culinary training
@@ -130,7 +130,7 @@ programme.</p>
 </li>
 </ul>
 <p></p>
-<p><em>*Registration with SGEnable is required for subsidies.  </em>
+<p><em>*Registration with SGEnable is required for subsidies.</em>
 </p>
 </td>
 </tr>
