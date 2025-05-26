@@ -117,49 +117,6 @@ handling and groundwork.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gym</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Organization</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Program Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bazgym.com" rel="noopener nofollow" target="_blank">BazGym</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>PhysioGym Program: specially designed for individuals with special needs,
-suitable for both children and adults with autism.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Program also conducted at various schools including Pathlight School,
-Eden School, Grace Orchard School, Rainbow Centre and AWWA.</p>
-</li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -220,17 +177,12 @@ Activities Training Program and Athlete Leadership.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Innvervate aims to make fitness inclusive and accessible for people from
+all walks of life. They have conducted programmes for various groups, including
+AWWA, MINDS, APSN and SPD</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Adaptive CrossFit Program</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Specially designed for individuals with disabilities</p>
-</li>
-<li>
-<p>Ran programmes for various groups, such as AWWA, MINDS, APSN and SPD</p>
-</li>
-</ul>
+<p>Adaptive CrossFit Program: specially designed for individuals with disabilities.</p>
 </li>
 </ul>
 </td>
