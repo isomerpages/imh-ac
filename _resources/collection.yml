@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Online Resources/Caregiver Resources.md
       - Online Resources/.keep
       - Local Resources.md
       - Recommended Books/.keep
