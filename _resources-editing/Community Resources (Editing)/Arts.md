@@ -293,7 +293,22 @@ before proceeding on to a work attachment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Me2 is a social enterprise in Singapore, offering a specialised repertoire
+of fun and interactive programmes. They believe in making the arts accessible
+so that everyone can experience or participate in the transformative impact
+of the arts.</p>
 <p></p>
+<p>ArtAbilities Programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Crafted specifically for persons with disabilities, special needs, and
+at-risk individuals.</p>
+</li>
+<li>
+<p>A nurturing and inclusive environment where participants can explore their
+artistic taalents, build confidence, and connect with others.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
