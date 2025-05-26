@@ -134,6 +134,24 @@ programme.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://ymca.org.sg/ymca-youth-support-special-needs/" rel="noopener nofollow" target="_blank">YMCA Train and Place Series</a>
+</p>
+<p></p>
+<p>Email: <a href="mailto:trainandplace@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">trainandplace@ymca.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The YMCA Train and Place series provides tailored, real-life training
+to support persons with special needs in gaining employment in the service
+and hospitality sector. It promotes confidence, work readiness, and independent
+living, with over 15 employment partners currently involved.</p>
+<p></p>
+<p>Please note that there is an age requirement of 18 years and above to
+be eligible for this programme.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
