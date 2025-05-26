@@ -2,6 +2,7 @@ collections:
   resources-editing:
     output: true
     order:
+      - Local Resources.md
       - Community Resources (Editing)/.keep
       - Community Resources (Editing)/Arts.md
       - Community Resources (Editing)/Sports.md
@@ -9,6 +10,8 @@ collections:
       - Community Resources (Editing)/Training & Employment.md
       - Community Resources (Editing)/Inclusive Community.md
       - Community Resources (Editing)/Healthcare Services.md
+      - Online Resources (Editing)/International Resources (Not needed).md
+      - Online Resources (Editing)/Caregiver Resources.md
       - Online Resources (Editing)/(DRAFT) Caregiver Resources.md
       - Online Resources (Editing)/(DRAFT) Local Organizations.md
       - Online Resources (Editing)/.keep

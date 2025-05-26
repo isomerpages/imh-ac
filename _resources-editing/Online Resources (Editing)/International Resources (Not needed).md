@@ -1,9 +1,9 @@
 ---
-title: International Resources
+title: International Resources (Not needed)
 permalink: /online-resources/international-resources/
 variant: tiptap
 description: ""
-third_nav_title: Online Resources
+third_nav_title: Online Resources (Editing)
 ---
 <p>View the following online resources for more information on autism!</p>
 <table style="minWidth: 50px">

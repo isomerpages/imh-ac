@@ -3,7 +3,6 @@ title: Local Resources
 permalink: /online-resources/local-resources/
 variant: tiptap
 description: ""
-third_nav_title: Online Resources
 ---
 <p>View the following online resources for a better understanding of the
 autism landscape in Singapore!</p>
