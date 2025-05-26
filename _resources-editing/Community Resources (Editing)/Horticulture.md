@@ -60,11 +60,6 @@ format.</p>
 </li>
 </ul>
 <p></p>
-<p>Each program includes a guided tour through their sensory-rich farm where
-participants can see, touch, smell and (if they wish) taste plants while
-exploring areas like their tech farm, chicken coop, compost station, and
-sensory garden.</p>
-<p></p>
 <p><em>Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
 </p>
 </td>
