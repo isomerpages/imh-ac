@@ -179,11 +179,9 @@ Activities Training Program and Athlete Leadership.</p>
 <p>Innvervate aims to make fitness inclusive and accessible for people from
 all walks of life. They have conducted programmes for various groups, including
 AWWA, MINDS, APSN and SPD.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adaptive CrossFit Program: specially designed for individuals with disabilities.</p>
-</li>
-</ul>
+<p></p>
+<p>Their Adaptive CrossFit Program is specially designed for individuals
+with disabilities.</p>
 </td>
 </tr>
 </tbody>
