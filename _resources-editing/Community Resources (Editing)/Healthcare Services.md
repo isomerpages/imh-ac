@@ -139,7 +139,10 @@ Medical Park, 10 Buangkok View, Block 3, Basement 1, S(539747)</p>
 Hospital Avenue, #03-01, S(168937)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To locate information on the Child Guidance Clinic (IMH):</p>
+<p>The Child Guidance Clinic provides autism services for children between
+6 - 18 years old. Children are referred from other hospitals, polyclinics,
+general practitioners and schools, or they may be self-referred. To locate
+information on the Child Guidance Clinic (IMH):</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to <a href="https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx</a>
