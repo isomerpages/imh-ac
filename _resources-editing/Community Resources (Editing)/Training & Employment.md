@@ -124,7 +124,7 @@ the F&amp;B and retail sector. Specialised programmes are available for
 individuals with autism, including their Train-and-Place programme.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Train-and-place is a 19-day, structured, vocational culinary training
+<p>Train-and-Place is a 19-day, structured, vocational culinary training
 programme.</p>
 </li>
 </ul>
