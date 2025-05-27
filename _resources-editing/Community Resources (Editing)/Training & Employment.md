@@ -129,7 +129,7 @@ programme.</p>
 </li>
 </ul>
 <p></p>
-<p><em>*Registration with SGEnable is required for subsidies.</em>
+<p><em>*Please note that registration with SGEnable is required for Project Dignity for subsidy purposes.</em>
 </p>
 </td>
 </tr>
@@ -183,13 +183,13 @@ living, with over 15 employment partners currently involved.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Enabling Guide's DAC Guide provides</p>
+<p>This resource by the Enabling Guide provides:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>An overview of the referral process</p>
 </li>
 <li>
-<p>General information of DACs for applicants with ASD/ID/PD/MD*</p>
+<p>General information on DACs for applicants with ASD/ID/PD/MD*</p>
 </li>
 </ul>
 </td>
@@ -203,10 +203,10 @@ living, with over 15 employment partners currently involved.</p>
 <p>This resource by the Enabling Guide provides:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>An overview of the referral process</p>
+<p>An overview of the referral process for SWs</p>
 </li>
 <li>
-<p>General information of Sheltered Workshops for applicants with ASD/ID/PD/MD*</p>
+<p>General information on SWs for applicants with ASD/ID/PD/MD*</p>
 </li>
 <li>
 <p>Additional information by various agencies</p>
