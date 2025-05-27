@@ -166,7 +166,10 @@ information on the Child Guidance Clinic (IMH):</p>
 <p>Child Development Unit, Keat Hong: 2 Choa Chu Kang Loop, Level 3, S(689687)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To locate information on the Child Development Unit (NUH):</p>
+<p>The Child Development Unit serves children from birth to Kindergarten
+2 (before the age of seven), with a range of learning, behavioural and
+developmental needs. To locate information on the Child Development Unit
+(NUH):</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to <a href="https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics" rel="noopener noreferrer nofollow" target="_blank">https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics</a>
