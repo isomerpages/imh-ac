@@ -121,7 +121,7 @@ donate a meal/cake.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Good life Befrienders Programme</strong>
+<p><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a>
 </p>
 <p></p>
 <p>Tel: 8797 6304
