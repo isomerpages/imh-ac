@@ -147,7 +147,7 @@ to support persons with special needs in gaining employment in the service
 and hospitality sector. It promotes confidence, work readiness, and independent
 living, with over 15 employment partners currently involved.</p>
 <p></p>
-<p><em>Please note that there is an age requirement of 18 years and above to be eligible for this programme.</em>
+<p><em>*Please note that there is an age requirement of 18 years and above to be eligible for this programme.</em>
 </p>
 </td>
 </tr>
