@@ -41,13 +41,12 @@ any prior notice.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swish Swimming provides inclusive swimming classes for children with special
-needs.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Personalised and adaptive swimming classes that cater to individual differences.</p>
-</li>
-</ul>
+<p>Swish Swimming offers personalised, adaptive lessons led by trained instructors
+to support children with special needs, ensuring a positive and enriching
+experience for every child.</p>
+<p></p>
+<p>Their classes are designed to provide individualised attention, customised
+learning plans and therapeutic benefits.</p>
 </td>
 </tr>
 </tbody>
