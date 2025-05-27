@@ -164,7 +164,7 @@ out of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
+<p><strong><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
 </p>
 <p></p>
 <p>Tel: 8727 6930
@@ -172,7 +172,7 @@ out of school.</p>
 <br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
 </p>
 <p></p>
-<p>Click <a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="tinyurl.com/Y-CLUBLITE" rel="noopener nofollow" target="_blank">here</a> for
 the registration link.</p>
 </td>
 <td rowspan="1" colspan="1">
