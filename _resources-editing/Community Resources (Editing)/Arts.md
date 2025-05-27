@@ -195,11 +195,11 @@ their feelings.</p>
 <p>Formerly known as Very Special Arts Singapore, ART:DIS is a non-profit
 organisation established in 1993. It empowers persons with intellectual,
 sensorial, and physical disabilities aged 8 and above through visual and
-performing arts. Operating at Bedok, Bukit Merah, and Changi City Point,
-ART:DIS fosters self-confidence, independence, and community engagement.
-It provides opportunities for artistic growth and professional development,
-celebrating the unique strengths of individuals and promoting inclusion
-through the arts.</p>
+performing arts.</p>
+<p>Operating at Bedok, Bukit Merah, and Changi City Point, ART:DIS fosters
+self-confidence, independence, and community engagement. It provides opportunities
+for artistic growth and professional development, celebrating the unique
+strengths of individuals and promoting inclusion through the arts.</p>
 </td>
 </tr>
 </tbody>
