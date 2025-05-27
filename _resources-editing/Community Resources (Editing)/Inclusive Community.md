@@ -34,26 +34,6 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://crossingscafe.com.sg/" rel="noopener nofollow" target="_blank">Crossings Café</a></strong>
-<br>
-<br>Tel: 6338 2669
-<br>Email:
-<br><a href="mailto:manager@crossingscafe.com.sg" rel="noopener noreferrer nofollow" target="_blank">manager@crossingscafe.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A social-enterprise that serves quality food at great prices.</p>
-<p>Currently, interns of the cafe consist of students from Assumption Pathway
-School and Bettr Barista.</p>
-<p></p>
-<p>Tues - Sun: 10:00am - 10:00pm</p>
-<p></p>
-<p><em>Location: Catholic Centre, 55 Waterloo Street, S187954</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a></strong>
 </p>
 <p></p>
