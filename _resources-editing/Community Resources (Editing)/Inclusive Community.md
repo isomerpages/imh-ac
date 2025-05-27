@@ -6,10 +6,11 @@ description: ""
 third_nav_title: Community Resources (Editing)
 ---
 <p>The list provided below is for information purposes only and is not exhaustive.
-Our organization does not endorse or guarantee the effectiveness of the
-programs listed.</p>
-<p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
+Please contact the respective organizations for more information about
+their programs.</p>
+<p>The Autism Collaborative does not endorse or guarantee the effectiveness
+of the programs listed. If your organization wishes to be included in the
+list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
@@ -31,26 +32,6 @@ any prior notice.</p>
 <th rowspan="1" colspan="1">
 <p>More Information</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://crossingscafe.com.sg/" rel="noopener nofollow" target="_blank">Crossings Café</a></strong>
-<br>
-<br>Tel: 6338 2669
-<br>Email:
-<br><a href="mailto:manager@crossingscafe.com.sg" rel="noopener noreferrer nofollow" target="_blank">manager@crossingscafe.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A social-enterprise that serves quality food at great prices.</p>
-<p>Currently, interns of the cafe consist of students from Assumption Pathway
-School and Bettr Barista.</p>
-<p></p>
-<p>Tues - Sun: 10:00am - 10:00pm</p>
-<p></p>
-<p><em>Location: Catholic Centre, 55 Waterloo Street, S187954</em>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,25 +76,6 @@ donate a meal/cake.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.profbrawn.com.sg/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
-</p>
-<p></p>
-<p>Tel: 8129 4029</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A social enterprise by Autism Resource Centre (Singapore), which provides
-job and social integration opportunities to people with special needs and
-the disadvantaged in society.</p>
-<p></p>
-<p>Mon - Sat &amp; Public Holidays: 9am - 9pm
-<br>Sun: Closed</p>
-<p></p>
-<p><em>Location: 5, Ang Mo Kio Ave 10, S569739</em>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -140,7 +102,7 @@ the disadvantaged in society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Good life Befrienders Programme</strong>
+<p><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a>
 </p>
 <p></p>
 <p>Tel: 8797 6304
@@ -159,10 +121,10 @@ out of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">Me Too! Club Minds</a></strong>
+<p><strong><a href="minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a></strong>
 </p>
 <p></p>
-<p>Tel: 9365 8253
+<p>Tel: 8905 0965
 <br>Email:
 <br><a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a>
 </p>
@@ -183,7 +145,7 @@ out of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
+<p><strong><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club Lite</a></strong>
 </p>
 <p></p>
 <p>Tel: 8727 6930
@@ -191,7 +153,7 @@ out of school.</p>
 <br><a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
 </p>
 <p></p>
-<p>Click <a href="tinyurl.com/ymca-club-lite" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="tinyurl.com/Y-CLUBLITE" rel="noopener nofollow" target="_blank">here</a> for
 the registration link.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +168,7 @@ the registration link.</p>
 <p>Photography</p>
 </li>
 <li>
-<p>outdoor activities</p>
+<p>Outdoor activities</p>
 </li>
 </ul>
 <p></p>
@@ -225,6 +187,9 @@ the registration link.</p>
 <p>YMCA membership privileges</p>
 </li>
 </ul>
+<p></p>
+<p><em>*Please note that there is an age requirement of 18 years and above to be eligible for YMCA Club Lite.</em>
+</p>
 </td>
 </tr>
 </tbody>

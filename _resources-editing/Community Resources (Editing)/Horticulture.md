@@ -6,10 +6,11 @@ description: ""
 third_nav_title: Community Resources (Editing)
 ---
 <p>The list provided below is for information purposes only and is not exhaustive.
-Our organization does not endorse or guarantee the effectiveness of the
-programs listed.</p>
-<p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
+Please contact the respective organizations for more information about
+their programs.</p>
+<p>The Autism Collaborative does not endorse or guarantee the effectiveness
+of the programs listed. If your organization wishes to be included in the
+list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
@@ -60,12 +61,7 @@ format.</p>
 </li>
 </ul>
 <p></p>
-<p>Each program includes a guided tour through their sensory-rich farm where
-participants can see, touch, smell and (if they wish) taste plants while
-exploring areas like their tech farm, chicken coop, compost station, and
-sensory garden.</p>
-<p></p>
-<p><em>Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
+<p><em>*Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
 </p>
 </td>
 </tr>

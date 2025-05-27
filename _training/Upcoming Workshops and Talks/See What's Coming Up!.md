@@ -17,7 +17,7 @@ and find out how to sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Registration has closed for this workshop. </em>
+<p><em>Registration has closed for this workshop.</em>
 </p>
 </div>
 </details>
@@ -32,7 +32,7 @@ and find out how to sign up!</p>
 <p><strong>Programme Details:</strong>
 <br>For professionals</p>
 <p></p>
-<p><em>Registration has closed for this workshop. </em>
+<p><em>Registration has closed for this workshop.</em>
 </p>
 </div>
 </details>
@@ -61,7 +61,7 @@ and find out how to sign up!</p>
 <p></p>
 <p><strong>Location: </strong>Online (Zoom link will be sent out closer to
 event date)</p>
-<p><strong>Cost:</strong> Free but registration required</p>
+<p><strong>Cost:</strong> Free but <a href="https://for.sg/changingbodies" rel="noopener nofollow" target="_blank">registration</a> required</p>
 <p></p>
 <p><strong>Programme Details:</strong>
 <br>For professionals and parents/caregivers of individuals with autism</p>

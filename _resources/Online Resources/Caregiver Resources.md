@@ -3,10 +3,10 @@ title: Caregiver Resources
 permalink: /online-resources/caregiver-resources/
 variant: tiptap
 description: ""
-third_nav_title: Online Resources (Editing)
+third_nav_title: Online Resources
 ---
 <p>Families and caregivers of persons with autism may find the following
-resources useful!</p>
+resources useful.</p>
 <p><sub>*ASD (Autism Spectrum Disorder); ID (Intellectual Disability); PD (Physical Disability); MD (Multiple Disabilities)</sub>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">

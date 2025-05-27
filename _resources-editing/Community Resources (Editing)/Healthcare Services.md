@@ -6,10 +6,12 @@ description: ""
 third_nav_title: Community Resources (Editing)
 ---
 <p>The list provided below is for information purposes only and is not exhaustive.
-Our organization does not endorse or guarantee the effectiveness of the
-programs listed.</p>
-<p>If your organization wishes to be included in the list, please contact
-us at autism_research@imh.com.sg.</p>
+Please contact the respective organizations for more information about
+their programs.</p>
+<p>The Autism Collaborative does not endorse or guarantee the effectiveness
+of the programs listed. If your organization wishes to be included in the
+list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
+</p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -139,7 +141,10 @@ Medical Park, 10 Buangkok View, Block 3, Basement 1, S(539747)</p>
 Hospital Avenue, #03-01, S(168937)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To locate information on the Child Guidance Clinic (IMH):</p>
+<p>The Child Guidance Clinic provides autism services for children between
+6 - 18 years old. Children are referred from other hospitals, polyclinics,
+general practitioners and schools, or they may be self-referred. To locate
+information on the Child Guidance Clinic (IMH):</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to <a href="https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx</a>
@@ -163,7 +168,10 @@ Hospital Avenue, #03-01, S(168937)</p>
 <p>Child Development Unit, Keat Hong: 2 Choa Chu Kang Loop, Level 3, S(689687)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To locate information on the Child Development Unit (NUH):</p>
+<p>The Child Development Unit serves children from birth to Kindergarten
+2 (before the age of seven), with a range of learning, behavioural and
+developmental needs. To locate information on the Child Development Unit
+(NUH):</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to <a href="https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics" rel="noopener noreferrer nofollow" target="_blank">https://www.nuh.com.sg/care-at-nuh/specialties/paediatrics/developmental-and-behavioural-paediatrics</a>

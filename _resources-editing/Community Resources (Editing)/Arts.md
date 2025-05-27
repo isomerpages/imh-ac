@@ -6,10 +6,11 @@ description: ""
 third_nav_title: Community Resources (Editing)
 ---
 <p>The list provided below is for information purposes only and is not exhaustive.
-Our organization does not endorse or guarantee the effectiveness of the
-programs listed.</p>
-<p>If your organization wishes to be included in the list, please contact
-us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
+Please contact the respective organizations for more information about
+their programs.</p>
+<p>The Autism Collaborative does not endorse or guarantee the effectiveness
+of the programs listed. If your organization wishes to be included in the
+list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
@@ -195,11 +196,11 @@ their feelings.</p>
 <p>Formerly known as Very Special Arts Singapore, ART:DIS is a non-profit
 organisation established in 1993. It empowers persons with intellectual,
 sensorial, and physical disabilities aged 8 and above through visual and
-performing arts. Operating at Bedok, Bukit Merah, and Changi City Point,
-ART:DIS fosters self-confidence, independence, and community engagement.
-It provides opportunities for artistic growth and professional development,
-celebrating the unique strengths of individuals and promoting inclusion
-through the arts.</p>
+performing arts.</p>
+<p>Operating at Bedok, Bukit Merah, and Changi City Point, ART:DIS fosters
+self-confidence, independence, and community engagement. It provides opportunities
+for artistic growth and professional development, celebrating the unique
+strengths of individuals and promoting inclusion through the arts.</p>
 </td>
 </tr>
 </tbody>
@@ -293,7 +294,22 @@ before proceeding on to a work attachment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Me2 is a social enterprise in Singapore, offering a specialised repertoire
+of fun and interactive programmes. They believe in making the arts accessible
+so that everyone can experience or participate in the transformative impact
+of the arts.</p>
 <p></p>
+<p>ArtAbilities Programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Crafted specifically for persons with disabilities, special needs, and
+at-risk individuals.</p>
+</li>
+<li>
+<p>A nurturing and inclusive environment where participants can explore their
+artistic taalents, build confidence, and connect with others.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
