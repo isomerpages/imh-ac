@@ -163,7 +163,7 @@ games.</p>
 Activities Training Program and Athlete Leadership.</p>
 </li>
 </ul>
-<p><em>To confirm their eligibility, a clinical report indicating an IQ score below 75 is required for individuals diagnosed with autism.</em>
+<p><em>*To confirm their eligibility, a clinical report indicating an IQ score below 75 is required for individuals diagnosed with autism.</em>
 </p>
 </td>
 </tr>
