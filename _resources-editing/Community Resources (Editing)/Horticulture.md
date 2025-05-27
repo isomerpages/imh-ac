@@ -60,7 +60,7 @@ format.</p>
 </li>
 </ul>
 <p></p>
-<p><em>Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
+<p><em>*Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
 </p>
 </td>
 </tr>
