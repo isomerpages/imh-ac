@@ -140,10 +140,10 @@ out of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">Me Too! Club Minds</a></strong>
+<p><strong><a href="minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a></strong>
 </p>
 <p></p>
-<p>Tel: 9365 8253
+<p>Tel: 8905 0965
 <br>Email:
 <br><a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a>
 </p>
@@ -187,7 +187,7 @@ the registration link.</p>
 <p>Photography</p>
 </li>
 <li>
-<p>outdoor activities</p>
+<p>Outdoor activities</p>
 </li>
 </ul>
 <p></p>
@@ -207,8 +207,8 @@ the registration link.</p>
 </li>
 </ul>
 <p></p>
-<p>Please note that there is an age requirement of 18 years and above to
-be eligible for YMCA Club Lite.</p>
+<p><em>*Please note that there is an age requirement of 18 years and above to be eligible for YMCA Club Lite.</em>
+</p>
 </td>
 </tr>
 </tbody>
