@@ -120,12 +120,11 @@ general enquiries)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Project Dignity provides skills training, placement and employment within
-the F&amp;B and retail sector.</p>
-<p></p>
-<p>Specialised programmes available for individuals with autism.</p>
+the F&amp;B and retail sector. Specialised programmes are available for
+individuals with autism, including their Train-and-Place programme.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Train-and-place programme: a 22-day, structured, vocational culinary training
+<p>Train-and-place is a 19-day, structured, vocational culinary training
 programme.</p>
 </li>
 </ul>
