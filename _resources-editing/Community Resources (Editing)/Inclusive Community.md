@@ -95,25 +95,6 @@ donate a meal/cake.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.profbrawn.com.sg/about-us" rel="noopener nofollow" target="_blank">Professor Brawn Cafe</a></strong>
-</p>
-<p></p>
-<p>Tel: 8129 4029</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A social enterprise by Autism Resource Centre (Singapore), which provides
-job and social integration opportunities to people with special needs and
-the disadvantaged in society.</p>
-<p></p>
-<p>Mon - Sat &amp; Public Holidays: 9am - 9pm
-<br>Sun: Closed</p>
-<p></p>
-<p><em>Location: 5, Ang Mo Kio Ave 10, S569739</em>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
