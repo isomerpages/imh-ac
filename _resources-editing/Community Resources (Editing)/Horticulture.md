@@ -67,9 +67,11 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hortherapeutics</p>
+<p><a href="https://www.hortherapeutics.sg/" rel="noopener nofollow" target="_blank">Hortherapeutics</a>
+</p>
 <p></p>
-<p>Email: hello@hortherapeutics.sg</p>
+<p>Email: <a href="mailto:hello@hortherapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hortherapeutics.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hortherapeutics offers customised nature-based programmes for children
