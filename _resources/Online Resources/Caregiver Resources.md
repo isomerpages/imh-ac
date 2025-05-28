@@ -296,66 +296,6 @@ educational needs.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Skills Training Workshops</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Resource</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Content</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/dac-service-matrix.pdf" rel="noopener nofollow" target="_blank"><u>Day Activity Centre (DAC) Guide</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Enabling Guide's DAC Guide provides</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>An overview of the referral process</p>
-</li>
-<li>
-<p>General information of DACs for applicants with ASD/ID/PD/MD*</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank"><u>Sheltered Workshop (SW) Guide</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This resource by the Enabling Guide provides:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>An overview of the referral process</p>
-</li>
-<li>
-<p>General information of Sheltered Workshops for applicants with ASD/ID/PD/MD*</p>
-</li>
-<li>
-<p>Additional information by various agencies</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
 <summary>Caregivers Training</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
