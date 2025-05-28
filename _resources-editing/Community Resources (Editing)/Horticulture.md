@@ -14,6 +14,10 @@ list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noop
 </p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Gardening</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,7 +74,7 @@ format.</p>
 <p><a href="https://www.hortherapeutics.sg/" rel="noopener nofollow" target="_blank">Hortherapeutics</a>
 </p>
 <p></p>
-<p>Email: <a href="mailto:hello@hortherapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hortherapeutics.sg</a> 
+<p>Email: <a href="mailto:hello@hortherapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hortherapeutics.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,4 +88,8 @@ specific needs of each participant group.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
