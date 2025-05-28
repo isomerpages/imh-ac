@@ -65,6 +65,21 @@ format.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hortherapeutics</p>
+<p></p>
+<p>Email: hello@hortherapeutics.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hortherapeutics offers customised nature-based programmes for children
+and youth with autism, grounded in Social and Therapeutic Horticulture.</p>
+<p>Their programmes support emotional regulation, sensory integration, and
+routine-building through structured nature-based activities.</p>
+<p>Programmes are co-developed with schools and care centres to meet the
+specific needs of each participant group.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
