@@ -499,7 +499,8 @@ by Tan Tock Seng Hospital (TTSH).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day Activity Centre (DAC) Guide</p>
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/dac-service-matrix.pdf" rel="noopener nofollow" target="_blank">Day Activity Centre (DAC)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This resource by the Enabling Guide provides:</p>
@@ -515,7 +516,8 @@ by Tan Tock Seng Hospital (TTSH).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sheltered Workshop (SW) Guide</p>
+<p><a href="https://www.enablingguide.sg/docs/default-source/default-document-library/sw-service-matrix.pdf" rel="noopener nofollow" target="_blank">Sheltered Workshop (SW) Guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This resource by the Enabling Guide provides:</p>
