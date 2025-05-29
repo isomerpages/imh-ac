@@ -17,7 +17,6 @@ any prior notice.</p>
 <details class="isomer-details">
 <summary>Training and Employment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -38,7 +37,7 @@ any prior notice.</p>
 </p>
 <p></p>
 <p>Contact: 9176 2115 (Whatsapp)</p>
-<p>Email: <a href="mailto:trainer01@projectdignity.sg" rel="noopener noreferrer nofollow" target="_blank">trainer01@projectdignity.sg</a> 
+<p>Email: <a href="mailto:trainer01@projectdignity.sg" rel="noopener noreferrer nofollow" target="_blank">trainer01@projectdignity.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +45,7 @@ any prior notice.</p>
 the F&amp;B and retail sector. Specialised programmes are available for
 individuals with autism, including the Train-and-Place programme, and the
 Food Safety Level 1 Programme.</p>
-<p>*<em>Please note that registration with SGEnable is required for Project Dignity for subsidy purposes. </em>
+<p>*<em>Please note that registration with SGEnable is required for Project Dignity for subsidy purposes.</em>
 </p>
 </td>
 </tr>
