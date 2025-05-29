@@ -37,7 +37,7 @@ any prior notice.</p>
 </p>
 <p></p>
 <p>Contact: 6580 4624</p>
-<p>Email: <a href="mailto:mettacafe@metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">mettacafe@metta.org.sg</a> 
+<p>Email: <a href="mailto:mettacafe@metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">mettacafe@metta.org.sg</a>
 </p>
 <p></p>
 <p>Monday - Sunday: 7am - 5pm</p>
@@ -50,14 +50,6 @@ any prior notice.</p>
 training for Metta School graduates aged 18 and above, with mild intellectual
 disability and/or ASD.</p>
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
