@@ -33,9 +33,23 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://shop.metta.org.sg/collections/metta-cafe" rel="noopener nofollow" target="_blank">Metta Cafe</a>
+</p>
 <p></p>
+<p>Contact: 6580 4624</p>
+<p>Email: <a href="mailto:mettacafe@metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">mettacafe@metta.org.sg</a> 
+</p>
+<p></p>
+<p>Monday - Sunday: 7am - 5pm</p>
+<p>(Last order: 3:45pm)</p>
+<p></p>
+<p>Location: Metta Building Level 1, Metta Cafe, 32 Simei Street 1, S529950</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Initiated by Metta Welfare Association, Metta Cafe provides F&amp;B vocational
+training for Metta School graduates aged 18 and above, with mild intellectual
+disability and/or ASD.</p>
+<p></p>
 <p></p>
 </td>
 </tr>
