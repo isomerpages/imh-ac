@@ -487,6 +487,12 @@ by Tan Tock Seng Hospital (TTSH).</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Healthcare Services</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
