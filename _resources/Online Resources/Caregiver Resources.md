@@ -499,10 +499,18 @@ by Tan Tock Seng Hospital (TTSH).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Day Activity Centre (DAC) Guide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This resource by the Enabling Guide provides:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An overview of the referral process</p>
+</li>
+<li>
+<p>General information on DACs for applicants with ASD/ID/PD/MD*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
