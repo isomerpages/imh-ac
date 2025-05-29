@@ -128,8 +128,8 @@ connections and shared experiences with peers from diverse backgrounds.</p>
 the registration link.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A club for youths with special needs to hang out and have fun!</p>
-<p>Activities include baking, photography and outdoor activities.</p>
+<p>A club for youths with special needs to hang out and have fun! Activities
+include baking, photography and outdoor activities.</p>
 <p>Perks include:</p>
 <ul data-tight="true" class="tight">
 <li>
