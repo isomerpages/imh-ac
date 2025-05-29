@@ -115,6 +115,40 @@ connections and shared experiences with peers from diverse backgrounds.</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club LITE</a>
+</p>
+<p></p>
+<p>Contact: 8727 6930</p>
+<p>Email: <a href="mailto:csp@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">csp@ymca.org.sg</a>
+</p>
+<p></p>
+<p>Click <a href="tinyurl.com/Y-CLUBLITE" rel="noopener nofollow" target="_blank">here</a> for
+the registration link.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A club for youths with special needs to hang out and have fun!</p>
+<p>Activities include baking, photography and outdoor activities.</p>
+<p>Perks include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Welcome gift</p>
+</li>
+<li>
+<p>Exclusive activities/workshops/events</p>
+</li>
+<li>
+<p>Discounted rates on programmes</p>
+</li>
+<li>
+<p>YMCA membership privileges</p>
+</li>
+</ul>
+<p><em>*Please note that there is an age requirement of 18 years and above to be eligible for YMCA Club LITE.</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
