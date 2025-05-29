@@ -16,7 +16,7 @@ list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noop
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>General/Fitness</summary>
+<summary>General</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -34,18 +34,27 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Olympics Singapore (SOSG)</p>
 <p></p>
+<p>Contact: 6293 3182</p>
+<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Special Olympics Singapore (SOSG) is part of a global organization that
+serves athletes with intellectual disability.</p>
+<p>Available sports include: athletics, badminton, basketball, bocce, bowling,
+dance sport, floorball, football and swimming.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Athletes will be able to represent SOSG in National, Regional and International
+games.</p>
+</li>
+</ul>
+<p>Other programs available: Play Inclusive, Young Athletes, Healthy Athletes,
+Motor Activities Training Program and Athlete Leadership.</p>
+<p><em>*To confirm their eligibility, a clinical report indicating an IQ score below 75 is required for individuals diagnosed with autism.</em>
+</p>
 </td>
 </tr>
 </tbody>
