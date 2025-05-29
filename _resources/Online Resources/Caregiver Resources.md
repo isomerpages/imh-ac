@@ -542,6 +542,48 @@ by Tan Tock Seng Hospital (TTSH).</p>
 <summary>Healthcare Services</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Resource</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Content</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://enablingguide.sg/services-listing" rel="noopener nofollow" target="_blank">Enabling Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This resource by Enabling Guide allows you to locate medical or dental
+services.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <a href="http://www.enablingguide.sg/services-listing" rel="noopener noreferrer nofollow" target="_blank">www.enablingguide.sg/services-listing</a>
+</p>
+</li>
+<li>
+<p>Click on the 'Types of Disability' tab and select the relevant categories
+e.g. Autism</p>
+</li>
+<li>
+<p>Click on the 'Types of Disability Services' and select 'Medical and Dental'</p>
+</li>
+</ol>
+<p>The list should be filtered for Medical and Dental services now. Other
+types of disability services can be selected for other needs e.g. Intervention
+and Therapy.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
