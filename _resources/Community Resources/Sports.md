@@ -10,8 +10,7 @@ Please contact the respective organizations for more information about
 their programmes.</p>
 <p>The Autism Collaborative does not endorse or guarantee the effectiveness
 of the programs listed. If your organization wishes to be included in the
-list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg.</a>
-</p>
+list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -37,7 +36,7 @@ any prior notice.</p>
 <p>Special Olympics Singapore (SOSG)</p>
 <p></p>
 <p>Contact: 6293 3182</p>
-<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a> 
+<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
