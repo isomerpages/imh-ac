@@ -100,13 +100,13 @@ out of school.</p>
 </p>
 <p></p>
 <p>Contact: 8905 0965</p>
-<p>Email: <a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a> 
+<p>Email: <a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MINDS Me Too! Club supports the social integration of persons with intellectual
 disabilities through a variety of leisure and befriending activities.</p>
-<p>Organised by trained volunteers, their activities aim to encourage meaningful
+<p>Organized by trained volunteers, their activities aim to encourage meaningful
 connections and shared experiences with peers from diverse backgrounds.</p>
 <ul data-tight="true" class="tight">
 <li>
