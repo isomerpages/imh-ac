@@ -51,7 +51,11 @@ Food Safety Level 1 Programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YMCA Train and Place Series</p>
+<p><a href="https://ymca.org.sg/ymca-youth-support-special-needs/" rel="noopener nofollow" target="_blank">YMCA Train and Place Series</a>
+</p>
+<p></p>
+<p>Email: <a href="mailto:trainandplace@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">trainandplace@ymca.org.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The YMCA Train and Place series provides tailored, real-life training
