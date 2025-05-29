@@ -58,4 +58,66 @@ disability and/or ASD.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Social</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organization</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a>
+</p>
+<p></p>
+<p>Contact: 8797 6304</p>
+<p>Email: <a href="mailto:glbf@rainbowcentre.org" rel="noopener noreferrer nofollow" target="_blank">glbf@rainbowcentre.org.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A one-year befriending programme to provide young adults with disabilities
+participation in the community and develop friendships.</p>
+<p>This programme addresses challenges of social isolation faced by graduates
+who often experience a drop in services and support as they transition
+out of school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a>
+</p>
+<p></p>
+<p>Contact: 8905 0965</p>
+<p>Email: <a href="mailto:mtc@minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">mtc@minds.org.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDS Me Too! Club supports the social integration of persons with intellectual
+disabilities through a variety of leisure and befriending activities.</p>
+<p>Organised by trained volunteers, their activities aim to encourage meaningful
+connections and shared experiences with peers from diverse backgrounds.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly 10-week modular activities: Sports and Art Monthly outings.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
