@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Community Resources/.keep
       - Recommended Books/.keep
       - Recommended Books/Understanding Autism.md
       - Recommended Books/For Children and Youths with Autism.md
