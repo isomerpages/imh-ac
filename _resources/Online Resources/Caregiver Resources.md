@@ -515,10 +515,21 @@ by Tan Tock Seng Hospital (TTSH).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sheltered Workshop (SW) Guide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This resource by the Enabling Guide provides:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An overview of the referral process for SWs</p>
+</li>
+<li>
+<p>General information on SWs for applicants with ASD/ID/PD/MD*</p>
+</li>
+<li>
+<p>Additional information by various agencies</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
