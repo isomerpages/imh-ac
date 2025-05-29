@@ -33,7 +33,8 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Olympics Singapore (SOSG)</p>
+<p><a href="https://www.specialolympics.org.sg" rel="noopener nofollow" target="_blank">Special Olympics Singapore (SOSG)</a>
+</p>
 <p></p>
 <p>Contact: 6293 3182</p>
 <p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
