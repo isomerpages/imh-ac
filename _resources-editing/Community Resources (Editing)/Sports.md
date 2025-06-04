@@ -195,10 +195,9 @@ with disabilities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BazGym Gymnastics School includes programs for children with special needs,
-such as their PhysioGym program.</p>
+<p>BazGym Gymnastics School includes programs for children with special needs.</p>
 <p></p>
-<p>The PhysioGym program is specially designed for individuals with special
+<p>Their PhysioGym program is specially designed for individuals with special
 needs. This program is also conducted at various schools, including Pathlight
 School, Eden School, Grace Orchard School, Rainbow Centre and AWWA.</p>
 </td>
