@@ -119,6 +119,7 @@ handling and groundwork.</p>
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -183,6 +184,19 @@ AWWA, MINDS, APSN and SPD.</p>
 <p></p>
 <p>Their Adaptive CrossFit Program is specially designed for individuals
 with disabilities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="www.bazgym.com" rel="noopener nofollow" target="_blank">BazGym</a>
+</p>
+<p></p>
+<p>Contact: 9437 5479 (Whatsapp)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BazGym Gymnastics School includes programs for children with special needs,
+such as their</p>
 </td>
 </tr>
 </tbody>
