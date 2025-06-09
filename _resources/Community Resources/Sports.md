@@ -154,7 +154,7 @@ Motor Activities Training Program and Athlete Leadership.</p>
 <p><a href="https://www.innervatefit.com/adaptives" rel="noopener nofollow" target="_blank">Innervate</a>
 </p>
 <p></p>
-<p>Tel: 8886 3099</p>
+<p>Contact: 8886 3099</p>
 <p>Email: <a href="mailto:info@innervatefit.com" rel="noopener noreferrer nofollow" target="_blank">info@innervatefit.com</a>
 </p>
 </td>
