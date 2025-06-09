@@ -68,6 +68,62 @@ living, with over 15 employment partners currently involved.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://crunchyteeth.com.sg/home/" rel="noopener nofollow" target="_blank">Crunchy Teeth</a>
+</p>
+<p></p>
+<p>Contact: 9648 0067/8949 4943</p>
+<p>Email: <a href="mailto:sales@woh.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@woh.com.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crunchy Teeth is a ground-up inclusive project aimed at transforming the
+employment prospects for youths and adults with autism.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Special Training Program: an internship program teaching basic baking
+and work skills, empowering them with relevant abilities to seek employment.</p>
+</li>
+<li>
+<p>Interns are partnered with SPED schools.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.me2.com.sg/artist-development-with-me2/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
+</p>
+<p></p>
+<p>Contact: 9239 2023</p>
+<p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Me2 is a social enterprise in Singapore, offering a specialised repertoire
+of fun and interactive programmes. They believe in making arts accessible
+so that everyone can experience or participate in the transformative impact
+of the arts.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Artist Development with Me2: a comprehensive 6-month training programme
+featuring various specialised tracks for Artists with Disabilities. These
+tracks are designed to cater to individual interests and strengths, providing
+their students with the skills and confidence they need to excel in their
+chosen fields.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trampolene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
