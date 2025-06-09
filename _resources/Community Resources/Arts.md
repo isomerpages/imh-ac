@@ -171,7 +171,7 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 <p><strong><a href="https://www.samhealth.org.sg/our-services/creative-services/samh-creative-hub/" rel="noopener nofollow" target="_blank">Creative Hub by SAMH</a></strong>
 </p>
 <p></p>
-<p>Tel: 6320 0722
+<p>Contact: 6320 0722
 <br>Email:
 <br><a href="mailto:creativehub@samhealth.org.sg" rel="noopener noreferrer nofollow" target="_blank">creativehub@samhealth.org.sg</a>
 </p>
@@ -188,7 +188,7 @@ their feelings.</p>
 <p><strong><a href="https://www.artdis.org.sg/" rel="noopener nofollow" target="_blank">ART:DIS</a></strong>
 </p>
 <p></p>
-<p>Tel: 6448 6275
+<p>Contact: 6448 6275
 <br>Email:
 <br><a href="mailto:general@artdis.org.sg" rel="noopener noreferrer nofollow" target="_blank">general@artdis.org.sg</a>
 </p>
@@ -233,7 +233,7 @@ strengths of individuals and promoting inclusion through the arts.</p>
 <p><strong><a href="https://www.srt.com.sg/inclusive-young-company" rel="noopener nofollow" target="_blank">Inclusive Young Company</a></strong>
 </p>
 <p></p>
-<p>Tel: 6221 5585</p>
+<p>Contact: 6221 5585</p>
 <p>Email:
 <br><a href="mailto:office@srt.com.sg" rel="noopener noreferrer nofollow" target="_blank">office@srt.com.sg</a>
 </p>
