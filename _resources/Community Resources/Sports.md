@@ -82,32 +82,21 @@ learning plans and therapeutic benefits.</p>
 <p>Contact: 6250 0176</p>
 <p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RDA provides equine-assisted therapy to the disabled beneficiaries in
 the community. They work with various types of disabilities, including
 physical, developmental, cognitive and learning disabilities in children
 and adults.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Therapeutic Riding: Individuals are usually allocated a 9 to 10 week course,
 allowing riders to work on their goals and objectives set before riding
 begins.</p>
-<p></p>
-</li>
-</ul>
-<p><em>To be eligible for the riding programme, there is an age requirement of 5 years and older, and a weight limit of 60kg.</em>
+<p><em>*To be eligible for the riding programme, there is an age requirement of 5 years and older, and a weight limit of 60kg.</em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Ground Programme: Off-the-horse therapy, allowing individuals to partake
 in activities off the horse such as interacting with the horse, horse care,
 handling and groundwork.</p>
-<p></p>
-</li>
-</ul>
-<p><em>The ground programme is currently only open to groups from SPEDS or SSAs. Individual signups are not allowed at the moment.</em>
+<p><em>*The ground programme is currently only open to groups from SPEDs or SSAs.</em>
 </p>
 </td>
 </tr>
@@ -139,7 +128,7 @@ handling and groundwork.</p>
 <p><a href="https://www.specialolympics.org.sg/" rel="noopener nofollow" target="_blank">Special Olympics Singapore</a>
 </p>
 <p></p>
-<p>Tel: 6293 3182</p>
+<p>Contact: 6293 3182</p>
 <p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
 </p>
 </td>
@@ -192,56 +181,6 @@ with disabilities.</p>
 <p>Their PhysioGym program is specially designed for individuals with special
 needs. This program is also conducted at various schools, including Pathlight
 School, Eden School, Grace Orchard School, Rainbow Centre and AWWA.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Horse Riding</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Organization</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://rdasingapore.org/" rel="noopener nofollow" target="_blank">Riding for the Disabled Association (RDA)</a>
-</p>
-<p></p>
-<p>Contact: 6250 0176</p>
-<p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RDA provides equine-assisted therapy to the disabled beneficiaries in
-the community. They work with various types of disabilities, including
-physical, developmental, cognitive and learning disabilities in children
-and adults.</p>
-<p>Therapeutic Riding: Individuals are usually allocated a 9 to 10 week course,
-allowing riders to work on their goals and objectives set before riding
-begins.</p>
-<p><em>*To be eligible for the riding programme, there is an age requirement of 5 years and older, and a weight limit of 60kg.</em>
-</p>
-<p>Ground Programme: Off-the-horse therapy, allowing individuals to partake
-in activities off the horse such as interacting with the horse, horse care,
-handling and groundwork.</p>
-<p><em>*The ground programme is currently only open to groups from SPEDs or SSAs.</em>
-</p>
 </td>
 </tr>
 </tbody>
