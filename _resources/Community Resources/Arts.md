@@ -273,7 +273,7 @@ styling, writing and/or events organising.</p>
 <p><strong><a href="https://www.hatch.sg/impact" rel="noopener nofollow" target="_blank">Hatch</a></strong>
 </p>
 <p></p>
-<p>Tel: 8040 4697</p>
+<p>Contact: 8040 4697</p>
 <p>Email:
 <br><a href="mailto:hello@hatch.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hatch.sg</a>
 </p>
@@ -290,7 +290,7 @@ before proceeding on to a work attachment.</p>
 <p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
 </p>
 <p></p>
-<p>Tel: 9239 2023</p>
+<p>Contact: 9239 2023</p>
 <p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a>
 </p>
 </td>
