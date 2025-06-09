@@ -38,7 +38,7 @@ any prior notice.</p>
 <p><a href="https://citysprouts.com.sg/" rel="noopener nofollow" target="_blank">City Sprouts</a>
 </p>
 <p></p>
-<p>Email: <a href="mailto:hello@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">hello@citysprouts.com.sg</a> 
+<p>Email: <a href="mailto:hello@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">hello@citysprouts.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ cooking session using farm-fresh ingredients.</p>
 pruning and composting in an accessible, beginner-friendly format.</p>
 </li>
 </ul>
-<p><em>*Interested groups are encouraged to contact them in advance to make </em>
+<p><em>*Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit. </em>
 </p>
 </td>
 </tr>
