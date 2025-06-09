@@ -253,7 +253,7 @@ and theatre-maker.</p>
 <p><strong><a href="https://www.singaporefashionrunway.com/pages/fashion-for-a-social-cause" rel="noopener nofollow" target="_blank">Singapore Fashion Runway</a></strong>
 </p>
 <p></p>
-<p>Tel: 9766 2490
+<p>Contact: 9766 2490
 <br>Email:
 <br><a href="mailto:welovesfr@gmail.com" rel="noopener noreferrer nofollow" target="_blank">welovesfr@gmail.com</a>
 </p>
