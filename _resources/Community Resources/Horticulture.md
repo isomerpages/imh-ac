@@ -35,7 +35,7 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://citysprouts.com.sg/" rel="noopener nofollow" target="_blank">City Sprouts</a>
+<p><strong><a href="https://citysprouts.com.sg/" rel="noopener nofollow" target="_blank">City Sprouts</a></strong>
 </p>
 <p></p>
 <p>Email: <a href="mailto:hello@citysprouts.com.sg" rel="noopener noreferrer nofollow" target="_blank">hello@citysprouts.com.sg</a>
@@ -69,7 +69,7 @@ pruning and composting in an accessible, beginner-friendly format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.hortherapeutics.sg/" rel="noopener nofollow" target="_blank">Hortherapeutics</a>
+<p><strong><a href="https://www.hortherapeutics.sg/" rel="noopener nofollow" target="_blank">Hortherapeutics</a></strong>
 </p>
 <p></p>
 <p>Email: <a href="mailto:hello@hortherapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hortherapeutics.sg</a>
