@@ -7,10 +7,12 @@ third_nav_title: Community Resources
 ---
 <p>The list provided below is for information purposes only and is not exhaustive.
 Please contact the respective organizations for more information about
-their programmes.</p>
+their programs.</p>
 <p>The Autism Collaborative does not endorse or guarantee the effectiveness
-of the programmes listed. If your organization wishes to be included in
-the list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
+of the programs listed.</p>
+<p>If you have used any of these services and would like to share your feedback,
+or if your organization wishes to be included in the list, please reach
+out to us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -54,7 +56,7 @@ Food Safety Level 1 Programme.</p>
 <p><a href="https://ymca.org.sg/ymca-youth-support-special-needs/" rel="noopener nofollow" target="_blank">YMCA Train and Place Series</a>
 </p>
 <p></p>
-<p>Email: <a href="mailto:trainandplace@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">trainandplace@ymca.org.sg</a> 
+<p>Email: <a href="mailto:trainandplace@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">trainandplace@ymca.org.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
