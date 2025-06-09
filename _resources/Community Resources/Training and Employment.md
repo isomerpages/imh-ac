@@ -74,7 +74,7 @@ living, with over 15 employment partners currently involved.</p>
 </p>
 <p></p>
 <p>Contact: 9648 0067/8949 4943</p>
-<p>Email: <a href="mailto:sales@woh.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@woh.com.sg</a> 
+<p>Email: <a href="mailto:sales@woh.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@woh.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ and work skills, empowering them with relevant abilities to seek employment.</p>
 </p>
 <p></p>
 <p>Contact: 9239 2023</p>
-<p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a> 
+<p>Email: <a href="mailto:askme@me2.com.sg" rel="noopener noreferrer nofollow" target="_blank">askme@me2.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,9 +119,25 @@ chosen fields.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Trampolene</p>
+<p></p>
+<p>Contact: 8044 0260</p>
+<p>Email: <a href="mailto:contact@trampolene.org" rel="noopener noreferrer nofollow" target="_blank">contact@trampolene.org</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Trampolene empowers individuals with autism and special needs with tailored
+career pathways and development, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Skills Training</p>
+</li>
+<li>
+<p>Guided Coaching &amp; Skills Enhancement</p>
+</li>
+<li>
+<p>Professional Growth &amp; Development</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
