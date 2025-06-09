@@ -38,7 +38,7 @@ any prior notice.</p>
 <p><a href="https://swishswimming.com/" rel="noopener nofollow" target="_blank">Swish Swimming</a>
 </p>
 <p></p>
-<p>Tel: 9832 2522</p>
+<p>Contact: 9832 2522</p>
 <p>Email: <a href="mailto:admin@swishswimming.com" rel="noopener noreferrer nofollow" target="_blank">admin@swishswimming.com</a>
 </p>
 </td>
