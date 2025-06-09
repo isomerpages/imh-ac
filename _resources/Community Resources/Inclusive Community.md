@@ -19,6 +19,7 @@ any prior notice.</p>
 <details class="isomer-details">
 <summary>Cafes</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,6 +54,20 @@ training for Metta School graduates aged 18 and above, with mild intellectual
 disability and/or ASD.</p>
 <p></p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a>
+</p>
+<p></p>
+<p>Contact: 8949 0142</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise cafe that provides employment opportunities for persons
+with disabilities, special needs, and mental health conditions.</p>
+<p>Opening hours: Monday - Friday, 8am - 5pm</p>
+<p>Locations: NUS / Mediacorp Campus / Temasek Shophouse / Esplanade Mall</p>
 </td>
 </tr>
 </tbody>
