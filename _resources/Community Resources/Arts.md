@@ -287,7 +287,7 @@ before proceeding on to a work attachment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
+<p><strong><a href="https://www.me2.com.sg/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a></strong>
 </p>
 <p></p>
 <p>Contact: 9239 2023</p>
