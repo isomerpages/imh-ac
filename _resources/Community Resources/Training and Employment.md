@@ -118,10 +118,11 @@ chosen fields.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trampolene</p>
+<p><a href="https://trampolene.org/" rel="noopener nofollow" target="_blank">Trampolene</a>
+</p>
 <p></p>
 <p>Contact: 8044 0260</p>
-<p>Email: <a href="mailto:contact@trampolene.org" rel="noopener noreferrer nofollow" target="_blank">contact@trampolene.org</a> 
+<p>Email: <a href="mailto:contact@trampolene.org" rel="noopener noreferrer nofollow" target="_blank">contact@trampolene.org</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
