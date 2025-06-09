@@ -76,7 +76,7 @@ learning plans and therapeutic benefits.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rdasingapore.org" rel="noopener nofollow" target="_blank">Riding for the Disabled Association (RDA)</a>
+<p><strong><a href="https://rdasingapore.org" rel="noopener nofollow" target="_blank">Riding for the Disabled Association (RDA)</a></strong>
 </p>
 <p></p>
 <p>Contact: 6250 0176</p>
