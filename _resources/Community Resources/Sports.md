@@ -125,7 +125,7 @@ handling and groundwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.specialolympics.org.sg/" rel="noopener nofollow" target="_blank">Special Olympics Singapore</a>
+<p><strong><a href="https://www.specialolympics.org.sg/" rel="noopener nofollow" target="_blank">Special Olympics Singapore</a></strong>
 </p>
 <p></p>
 <p>Contact: 6293 3182</p>
@@ -151,7 +151,7 @@ Motor Activities Training Program and Athlete Leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.innervatefit.com/adaptives" rel="noopener nofollow" target="_blank">Innervate</a>
+<p><strong><a href="https://www.innervatefit.com/adaptives" rel="noopener nofollow" target="_blank">Innervate</a></strong>
 </p>
 <p></p>
 <p>Contact: 8886 3099</p>
@@ -169,7 +169,7 @@ with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="www.bazgym.com" rel="noopener nofollow" target="_blank">BazGym</a>
+<p><strong><a href="www.bazgym.com" rel="noopener nofollow" target="_blank">BazGym</a></strong>
 </p>
 <p></p>
 <p>Contact: 9437 5479 (Whatsapp)</p>
