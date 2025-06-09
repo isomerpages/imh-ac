@@ -63,16 +63,25 @@ cooking session using farm-fresh ingredients.</p>
 pruning and composting in an accessible, beginner-friendly format.</p>
 </li>
 </ul>
-<p><em>*Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit. </em>
+<p><em>*Interested groups are encouraged to contact them in advance to make any necessary arrangements for a smooth and enjoyable visit.</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.hortherapeutics.sg/" rel="noopener nofollow" target="_blank">Hortherapeutics</a>
+</p>
 <p></p>
+<p>Email: <a href="mailto:hello@horthereapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@horthereapeutics.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hortherapeutics offers customised nature-based programmes for children
+and youth with autism, grounded in Social and Therapeutic Horticulture.</p>
+<p>Their programmes support emotional regulation, sensory integration, and
+routine-building through structured nature-based activities. Programmes
+are co-developed with schools and care centres to meet the specific needs
+of each participant group.</p>
 </td>
 </tr>
 </tbody>
