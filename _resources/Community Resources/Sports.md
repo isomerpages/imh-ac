@@ -35,7 +35,7 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://swishswimming.com/" rel="noopener nofollow" target="_blank">Swish Swimming</a>
+<p><strong><a href="https://swishswimming.com/" rel="noopener nofollow" target="_blank">Swish Swimming</a></strong>
 </p>
 <p></p>
 <p>Contact: 9832 2522</p>
