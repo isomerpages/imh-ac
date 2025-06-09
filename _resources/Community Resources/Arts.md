@@ -55,7 +55,7 @@ to learn, share, and serve the community together.</p>
 <p><strong><a href="https://www.drumprodigy.sg/" rel="noopener nofollow" target="_blank">Drum Prodigy</a></strong>
 </p>
 <p></p>
-<p>Tel: 8661 5107
+<p>Contact: 8661 5107
 <br>Email:
 <br><a href="mailto:info@drumprodigy.sg" rel="noopener noreferrer nofollow" target="_blank">info@drumprodigy.sg</a>
 </p>
@@ -71,7 +71,7 @@ environment.</p>
 <p><strong><a href="https://www.musiquespace.com/" rel="noopener nofollow" target="_blank">Musique Space</a></strong>
 </p>
 <p></p>
-<p>Tel: 6265 7288 / 8180 2626
+<p>Contact: 6265 7288 / 8180 2626
 <br>Email:
 <br><a href="mailto:findus@musiquespace.com" rel="noopener noreferrer nofollow" target="_blank">findus@musiquespace.com</a>
 </p>
