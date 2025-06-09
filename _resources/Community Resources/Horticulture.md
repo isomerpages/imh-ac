@@ -72,7 +72,7 @@ pruning and composting in an accessible, beginner-friendly format.</p>
 <p><a href="https://www.hortherapeutics.sg/" rel="noopener nofollow" target="_blank">Hortherapeutics</a>
 </p>
 <p></p>
-<p>Email: <a href="mailto:hello@horthereapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@horthereapeutics.sg</a> 
+<p>Email: <a href="mailto:hello@hortherapeutics.sg" rel="noopener noreferrer nofollow" target="_blank">hello@hortherapeutics.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
