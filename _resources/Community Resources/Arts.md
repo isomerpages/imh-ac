@@ -113,7 +113,7 @@ or the keyboard, depending on their interests and abilities.</p>
 <p><strong><a href="https://www.laca.sg/products/fine-arts-programme-special-needs-children" rel="noopener nofollow" target="_blank">LACA</a></strong>
 </p>
 <p></p>
-<p>Tel: 9010 2279
+<p>Contact: 9010 2279
 <br>Email:
 <br><a href="mailto:info@laca.sg" rel="noopener noreferrer nofollow" target="_blank">info@laca.sg</a>
 </p>
@@ -131,7 +131,7 @@ incorporate art elements such as storytelling and animated illustrations.</p>
 <p><strong><a href="https://www.mustardtree.com.sg/" rel="noopener nofollow" target="_blank">Mustard Tree</a></strong>
 </p>
 <p></p>
-<p>Tel: 9631 5069</p>
+<p>Contact: 9631 5069</p>
 <p>Email: <a href="mailto:mustardtree.com.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mustardtree.com.sg@gmail.com</a>
 </p>
 </td>
