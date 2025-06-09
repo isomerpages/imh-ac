@@ -79,7 +79,7 @@ learning plans and therapeutic benefits.</p>
 <p><a href="https://rdasingapore.org" rel="noopener nofollow" target="_blank">Riding for the Disabled Association (RDA)</a>
 </p>
 <p></p>
-<p>Tel: 6250 0176</p>
+<p>Contact: 6250 0176</p>
 <p>Email: <a href="mailto:mail@rdasingapore.org.sg" rel="noopener noreferrer nofollow" target="_blank">mail@rdasingapore.org.sg</a>
 </p>
 <p></p>
@@ -200,55 +200,6 @@ School, Eden School, Grace Orchard School, Rainbow Centre and AWWA.</p>
 </details>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>General</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Organization</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.specialolympics.org.sg" rel="noopener nofollow" target="_blank">Special Olympics Singapore (SOSG)</a>
-</p>
-<p></p>
-<p>Contact: 6293 3182</p>
-<p>Email: <a href="mailto:admin@specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@specialolympics.org.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Olympics Singapore (SOSG) is part of a global organization that
-serves athletes with intellectual disability.</p>
-<p>Available sports include: athletics, badminton, basketball, bocce, bowling,
-dance sport, floorball, football and swimming.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Athletes will be able to represent SOSG in National, Regional and International
-games.</p>
-</li>
-</ul>
-<p>Other programs available: Play Inclusive, Young Athletes, Healthy Athletes,
-Motor Activities Training Program and Athlete Leadership.</p>
-<p><em>*To confirm their eligibility, a clinical report indicating an IQ score below 75 is required for individuals diagnosed with autism.</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Horse Riding</summary>
