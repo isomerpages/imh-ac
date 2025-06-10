@@ -160,7 +160,7 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Organisation &amp; Contact Details</p>
+<p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Programme Information</p>
