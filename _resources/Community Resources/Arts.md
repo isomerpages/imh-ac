@@ -27,7 +27,7 @@ any prior notice.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Organisation &amp; Contact Details</p>
+<p>Organisation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Programme Information</p>
