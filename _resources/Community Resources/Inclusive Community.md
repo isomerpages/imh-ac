@@ -36,7 +36,7 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://shop.metta.org.sg/collections/metta-cafe" rel="noopener nofollow" target="_blank">Metta Cafe</a>
+<p><strong><a href="https://shop.metta.org.sg/collections/metta-cafe" rel="noopener nofollow" target="_blank">Metta Cafe</a></strong>
 </p>
 <p></p>
 <p>Contact: 6580 4624</p>
@@ -58,7 +58,7 @@ disability and/or ASD.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a>
+<p><strong><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a></strong>
 </p>
 <p></p>
 <p>Contact: 8949 0142</p>
