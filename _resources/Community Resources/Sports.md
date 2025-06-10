@@ -30,7 +30,7 @@ any prior notice.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Program Information</p>
+<p>Programme Information</p>
 </th>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ learning plans and therapeutic benefits.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Program Information</p>
+<p>Programme Information</p>
 </th>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ handling and groundwork.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Program Information</p>
+<p>Programme Information</p>
 </th>
 </tr>
 <tr>
