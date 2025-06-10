@@ -222,7 +222,7 @@ strengths of individuals and promoting inclusion through the arts.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Organisation &amp; Contact Details</p>
+<p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Programme Information</p>
