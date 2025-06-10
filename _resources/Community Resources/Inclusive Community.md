@@ -19,7 +19,6 @@ any prior notice.</p>
 <details class="isomer-details">
 <summary>Cafes</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,7 +78,6 @@ with disabilities, special needs, and mental health conditions.</p>
 <details class="isomer-details">
 <summary>Social</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -91,7 +89,7 @@ with disabilities, special needs, and mental health conditions.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Information</p>
+<p>Programme Information</p>
 </th>
 </tr>
 <tr>
@@ -147,7 +145,7 @@ the registration link.</p>
 <td rowspan="1" colspan="1">
 <p>A club for youths with special needs to hang out and have fun! Activities
 include baking, photography and outdoor activities.</p>
-<p>Perks include:</p>
+<p>Some perks include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Welcome gift</p>
