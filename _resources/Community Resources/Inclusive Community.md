@@ -96,7 +96,7 @@ with disabilities, special needs, and mental health conditions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a>
+<p><strong><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a></strong>
 </p>
 <p></p>
 <p>Contact: 8797 6304</p>
@@ -113,7 +113,7 @@ out of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a>
+<p><strong><a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a></strong>
 </p>
 <p></p>
 <p>Contact: 8905 0965</p>
@@ -134,7 +134,7 @@ connections and shared experiences with peers from diverse backgrounds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club LITE</a>
+<p><strong><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club LITE</a></strong>
 </p>
 <p></p>
 <p>Contact: 8727 6930</p>
