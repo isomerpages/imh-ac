@@ -35,7 +35,7 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.projectdignity.sg/" rel="noopener nofollow" target="_blank">Project Dignity</a>
+<p><strong><a href="https://www.projectdignity.sg/" rel="noopener nofollow" target="_blank">Project Dignity</a></strong>
 </p>
 <p></p>
 <p>Contact: 9176 2115 (Whatsapp)</p>
@@ -53,7 +53,7 @@ Food Safety Level 1 Programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ymca.org.sg/ymca-youth-support-special-needs/" rel="noopener nofollow" target="_blank">YMCA Train and Place Series</a>
+<p><strong><a href="https://ymca.org.sg/ymca-youth-support-special-needs/" rel="noopener nofollow" target="_blank">YMCA Train and Place Series</a></strong>
 </p>
 <p></p>
 <p>Email: <a href="mailto:trainandplace@ymca.org.sg" rel="noopener noreferrer nofollow" target="_blank">trainandplace@ymca.org.sg</a>
@@ -70,7 +70,7 @@ living, with over 15 employment partners currently involved.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://crunchyteeth.com.sg/home/" rel="noopener nofollow" target="_blank">Crunchy Teeth</a>
+<p><strong><a href="https://crunchyteeth.com.sg/home/" rel="noopener nofollow" target="_blank">Crunchy Teeth</a></strong>
 </p>
 <p></p>
 <p>Contact: 9648 0067/8949 4943</p>
@@ -93,7 +93,7 @@ and work skills, empowering them with relevant abilities to seek employment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.me2.com.sg/artist-development-with-me2/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a>
+<p><strong><a href="https://www.me2.com.sg/artist-development-with-me2/" rel="noopener nofollow" target="_blank">Me2 Centre of Inclusive Arts</a></strong>
 </p>
 <p></p>
 <p>Contact: 9239 2023</p>
@@ -118,7 +118,7 @@ chosen fields.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://trampolene.org/" rel="noopener nofollow" target="_blank">Trampolene</a>
+<p><strong><a href="https://trampolene.org/" rel="noopener nofollow" target="_blank">Trampolene</a></strong>
 </p>
 <p></p>
 <p>Contact: 8044 0260</p>
