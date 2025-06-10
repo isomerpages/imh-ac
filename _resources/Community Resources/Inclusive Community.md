@@ -61,12 +61,15 @@ disability and/or ASD.</p>
 </p>
 <p></p>
 <p>Contact: 8949 0142</p>
+<p></p>
+<p>Opening hours: Monday - Friday, 8am - 5pm</p>
+<p></p>
+<p>Locations: NUS / Mediacorp Campus / Temasek Shophouse / Esplanade Mall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A social enterprise cafe that provides employment opportunities for persons
 with disabilities, special needs, and mental health conditions.</p>
-<p>Opening hours: Monday - Friday, 8am - 5pm</p>
-<p>Locations: NUS / Mediacorp Campus / Temasek Shophouse / Esplanade Mall</p>
+<p></p>
 </td>
 </tr>
 </tbody>
