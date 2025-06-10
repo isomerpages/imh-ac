@@ -42,8 +42,7 @@ any prior notice.</p>
 <p>Email: <a href="mailto:mettacafe@metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">mettacafe@metta.org.sg</a>
 </p>
 <p></p>
-<p>Monday - Sunday: 7am - 5pm</p>
-<p>(Last order: 3:45pm)</p>
+<p>Monday - Sunday: 7am - 5pm (Last order: 3:45pm)</p>
 <p></p>
 <p>Location: Metta Building Level 1, Metta Cafe, 32 Simei Street 1, S529950</p>
 </td>
