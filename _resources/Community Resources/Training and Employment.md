@@ -30,7 +30,7 @@ any prior notice.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Information</p>
+<p>Programme Information</p>
 </th>
 </tr>
 <tr>
