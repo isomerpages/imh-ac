@@ -9,8 +9,10 @@ third_nav_title: Community Resources
 Please contact the respective organizations for more information about
 their programs.</p>
 <p>The Autism Collaborative does not endorse or guarantee the effectiveness
-of the programs listed. If your organization wishes to be included in the
-list, please contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
+of the programs listed.</p>
+<p>If you have used any of these services and would like to share your feedback,
+or if your organization wishes to be included in the list, please reach
+out to us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -33,15 +35,14 @@ any prior notice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://shop.metta.org.sg/collections/metta-cafe" rel="noopener nofollow" target="_blank">Metta Cafe</a>
+<p><strong><a href="https://shop.metta.org.sg/collections/metta-cafe" rel="noopener nofollow" target="_blank">Metta Cafe</a></strong>
 </p>
 <p></p>
 <p>Contact: 6580 4624</p>
 <p>Email: <a href="mailto:mettacafe@metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">mettacafe@metta.org.sg</a>
 </p>
 <p></p>
-<p>Monday - Sunday: 7am - 5pm</p>
-<p>(Last order: 3:45pm)</p>
+<p>Monday - Sunday: 7am - 5pm (Last order: 3:45pm)</p>
 <p></p>
 <p>Location: Metta Building Level 1, Metta Cafe, 32 Simei Street 1, S529950</p>
 </td>
@@ -50,6 +51,23 @@ any prior notice.</p>
 training for Metta School graduates aged 18 and above, with mild intellectual
 disability and/or ASD.</p>
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a></strong>
+</p>
+<p></p>
+<p>Contact: 8949 0142</p>
+<p></p>
+<p>Opening hours: Monday - Friday, 8am - 5pm</p>
+<p></p>
+<p>Locations: NUS / Mediacorp Campus / Temasek Shophouse / Esplanade Mall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A social enterprise cafe that provides employment opportunities for persons
+with disabilities, special needs, and mental health conditions.</p>
 <p></p>
 </td>
 </tr>
@@ -62,7 +80,6 @@ disability and/or ASD.</p>
 <details class="isomer-details">
 <summary>Social</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -74,12 +91,12 @@ disability and/or ASD.</p>
 <p>Organization</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Information</p>
+<p>Programme Information</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a>
+<p><strong><a href="https://www.goodlifebefrienders.sg/" rel="noopener nofollow" target="_blank">Good Life Befrienders Programme</a></strong>
 </p>
 <p></p>
 <p>Contact: 8797 6304</p>
@@ -96,7 +113,7 @@ out of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a>
+<p><strong><a href="https://www.minds.org.sg/for-adults/mtc/" rel="noopener nofollow" target="_blank">MINDS: Me Too! Club</a></strong>
 </p>
 <p></p>
 <p>Contact: 8905 0965</p>
@@ -117,7 +134,7 @@ connections and shared experiences with peers from diverse backgrounds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club LITE</a>
+<p><strong><a href="https://eli-grant.sg/project/ymca-club-lite" rel="noopener nofollow" target="_blank">YMCA Club LITE</a></strong>
 </p>
 <p></p>
 <p>Contact: 8727 6930</p>
@@ -130,7 +147,7 @@ the registration link.</p>
 <td rowspan="1" colspan="1">
 <p>A club for youths with special needs to hang out and have fun! Activities
 include baking, photography and outdoor activities.</p>
-<p>Perks include:</p>
+<p>Some perks include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Welcome gift</p>

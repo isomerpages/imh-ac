@@ -9,36 +9,6 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ADOS-2 Introductory Workshop</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Date: </strong>2-3 June 2025</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals</p>
-<p></p>
-<p><em>Registration has closed for this workshop.</em>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>ADOS-2 Advanced Workshop</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Date: </strong>4-6 June 2025</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals</p>
-<p></p>
-<p><em>Registration has closed for this workshop.</em>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary>ADI-R Training Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
