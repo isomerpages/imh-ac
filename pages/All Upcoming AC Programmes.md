@@ -58,51 +58,6 @@ sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>ADOS-2 Introductory Workshop</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date: </strong>2-3 June 2025</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals</p>
-<p></p>
-<p><em>Registration has closed for this workshop.</em>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>ADOS-2 Advanced Workshop</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date: </strong>4-6 June 2025</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals</p>
-<p></p>
-<p><em>Registration has closed for this workshop.</em>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>ADI-R Training Workshop</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date: </strong>2-4 July 2025 (Amended)</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals</p>
-<p></p>
-<p><em>Registration has closed for this workshop. </em>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
