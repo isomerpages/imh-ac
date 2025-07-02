@@ -9,21 +9,6 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ADI-R Training Workshop</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Date: </strong>2-4 July 2025 (Amended)</p>
-<p></p>
-<p><strong>Programme Details:</strong>
-<br>For professionals</p>
-<p></p>
-<p><em>Registration has closed for this workshop.</em>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary>"Changing Bodies, Changing Needs" Talk</summary>
 <div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://for.sg/changingbodies"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changing_Bodies__Changing_Needs__Poster_.png"></a>
 <p><strong>Date: </strong>25 July 2025</p>
