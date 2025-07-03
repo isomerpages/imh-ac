@@ -110,24 +110,6 @@ or the keyboard, depending on their interests and abilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.laca.sg/products/fine-arts-programme-special-needs-children" rel="noopener nofollow" target="_blank">LACA</a></strong>
-</p>
-<p></p>
-<p>Contact: 9010 2279
-<br>Email:
-<br><a href="mailto:info@laca.sg" rel="noopener noreferrer nofollow" target="_blank">info@laca.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LACA delivers a Fine Arts Programme curated for children with special
-needs. Children will be exposed to various arts mediums such as colour
-pencils, soft &amp; oil pastels, watercolour, acrylic/oil paint and more.
-The instructor, who has 13 years of experience teaching children Art, will
-incorporate art elements such as storytelling and animated illustrations.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://www.mustardtree.com.sg/" rel="noopener nofollow" target="_blank">Mustard Tree</a></strong>
 </p>
 <p></p>
