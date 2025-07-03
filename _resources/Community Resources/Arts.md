@@ -124,6 +124,14 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 <p>Students enrolled are exposed to floristry, sewing, patchwork, decoupage.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LACA Academy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
