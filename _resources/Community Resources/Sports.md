@@ -107,6 +107,48 @@ handling and groundwork.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Cycling</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://cycleschoolsg.com/?gad_source=1&amp;gad_campaignid=1640493799&amp;gbraid=0AAAAAC5Sicit1XHpL47iAF6dVx5vrBhiW&amp;gclid=CjwKCAjwsZPDBhBWEiwADuO6yz7rEndwjoTXmJtOU9UyS4srRfom-8R0gFCGa5hs19SPzKM_iGHcwhoC03sQAvD_BwE" rel="noopener nofollow" target="_blank">Cycle School SG</a>
+</p>
+<p></p>
+<p>Contact: 9755 2844</p>
+<p>Email: <a href="mailto:info@cycleschoolsg.com" rel="noopener noreferrer nofollow" target="_blank">info@cycleschoolsg.com</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cycle School SG provides structured, private and group cycling lessons
+for children from 4 to 16 years old. Each child's readiness is assessed
+case-by-case and their primary goal is to ensure a safe and supportive
+learning environment for everyone.</p>
+<p></p>
+<p>Specialised cycling programs for children with special needs are available.
+Please</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
