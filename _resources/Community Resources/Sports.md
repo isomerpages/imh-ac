@@ -159,7 +159,7 @@ Motor Activities Training Program and Athlete Leadership.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Innvervate aims to make fitness inclusive and accessible for people from
+<p>Innervate aims to make fitness inclusive and accessible for people from
 all walks of life. They have conducted programmes for various groups, including
 AWWA, MINDS, APSN and SPD.</p>
 <p></p>
