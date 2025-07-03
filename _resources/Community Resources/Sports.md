@@ -109,6 +109,7 @@ handling and groundwork.</p>
 <details class="isomer-details">
 <summary>Cycling</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -129,7 +130,7 @@ handling and groundwork.</p>
 </p>
 <p></p>
 <p>Contact: 9755 2844</p>
-<p>Email: <a href="mailto:info@cycleschoolsg.com" rel="noopener noreferrer nofollow" target="_blank">info@cycleschoolsg.com</a> 
+<p>Email: <a href="mailto:info@cycleschoolsg.com" rel="noopener noreferrer nofollow" target="_blank">info@cycleschoolsg.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,8 +139,9 @@ for children from 4 to 16 years old. Each child's readiness is assessed
 case-by-case and their primary goal is to ensure a safe and supportive
 learning environment for everyone.</p>
 <p></p>
-<p>Specialised cycling programs for children with special needs are available.
-Please</p>
+<p>Specialised cycling programs for children with special needs are available.</p>
+<p><em>*Please contact them in advance to make necessary arrangements.</em>
+</p>
 </td>
 </tr>
 </tbody>
