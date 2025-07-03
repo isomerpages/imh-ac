@@ -140,7 +140,7 @@ case-by-case and their primary goal is to ensure a safe and supportive
 learning environment for everyone.</p>
 <p></p>
 <p>Specialised cycling programs for children with special needs are available.</p>
-<p><em>*Please contact them in advance to make necessary arrangements.</em>
+<p><em>*Please contact them in advance to make the necessary arrangements.</em>
 </p>
 </td>
 </tr>
