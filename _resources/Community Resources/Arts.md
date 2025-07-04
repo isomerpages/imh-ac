@@ -124,6 +124,32 @@ in meaningful craft work, to hone fine motor skills and build self-confidence.</
 <p>Students enrolled are exposed to floristry, sewing, patchwork, decoupage.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.laca.sg/?srsltid=AfmBOoqqzIuyOUIFZWXuu-BsnwyRDH2blr4p_kEUV9Y788g_ykTJ0Ezs" rel="noopener nofollow" target="_blank">LACA Art Academy</a></strong>
+</p>
+<p></p>
+<p>Contact: 9010 2279</p>
+<p>Email: <a href="mailto:info@laca.sg" rel="noopener noreferrer nofollow" target="_blank">info@laca.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LACA Art Academy's Fine Arts Program for children with special needs is
+thoughtfully crafted to nurture each child's growth through creative exploration
+in a safe, supportive environment. They believe every child deserves the
+joy of artistic expression, and their program meets them at their unique
+level, helping them build confidence, fine motor skills and communicative
+abilities. Children will get to explore a variety of art materials, including
+pastels, crayons, watercolours, acrylics, and clay.</p>
+<p></p>
+<p>Their experienced instructors tailor teaching to each child's needs, ensuring
+that they feel supported and motivated. By celebrating every milestone,
+no matter how small, they foster a sense of accomplishment and boost self-esteem.</p>
+<p></p>
+<p><em>*Please contact them in advance for more details about their program. </em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
