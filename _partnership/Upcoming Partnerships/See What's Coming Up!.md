@@ -21,7 +21,7 @@ to be an inclusive society that understands and embraces autism, we aspire
 to avoid words that could stigmatize or be divisive, aiming instead for
 more mindful and considerate language use.</p>
 <p></p>
-<p>KKH and NUH is therefore conducting a public survey to understand the
+<p>KKH and NUH are therefore conducting a public survey to understand the
 perspectives and preferences of the autistic community (including caregivers
 and professionals) in Singapore. Further details about the survey and how
 to participate are in the above poster. We really hope that as many people
