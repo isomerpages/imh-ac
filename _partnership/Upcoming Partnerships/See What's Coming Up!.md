@@ -6,7 +6,16 @@ description: ""
 third_nav_title: Upcoming Partnerships
 ---
 <p>Click on the tabs below for more details about our upcoming Partnership
-programmes and find out how to sign up!</p>
+programmes!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
+more information.</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Updated Assessment Session (ADOS-2)</summary>
@@ -55,5 +64,4 @@ sign up!</p>
 </div>
 </details>
 </div>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> </em>for
-more information.</p>
+<p></p>
