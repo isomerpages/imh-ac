@@ -146,7 +146,7 @@ pastels, crayons, watercolours, acrylics, and clay.</p>
 that they feel supported and motivated. By celebrating every milestone,
 no matter how small, they foster a sense of accomplishment and boost self-esteem.</p>
 <p></p>
-<p><em>*Please contact them in advance for more details about their program. </em>
+<p><em>*An assessment is needed to participate in this program. Please contact them for more information. </em>
 </p>
 </td>
 </tr>
