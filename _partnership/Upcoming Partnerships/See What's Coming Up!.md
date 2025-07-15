@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Partnerships
 ---
-<p>Click on the tabs below for more details about our upcoming Partnership
+<p>Click on the tabs below for more details about our upcoming partnership
 programmes!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
