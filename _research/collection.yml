@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - Upcoming Research.md
       - What Is It?.md
