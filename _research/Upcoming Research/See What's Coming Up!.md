@@ -41,10 +41,7 @@ access the survey. Thank you.</p>
 <details class="isomer-details">
 <summary><strong>Project BRIDGE</strong>
 </summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/project_bridge_png.png">
-</div>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="tinyurl.com/projectbridge1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/project_bridge_png.png"></a>
 <p><strong>Project BRIDGE: Building inclusive workplaces for autistic adults through co-created AI tools</strong>
 </p>
 <p>The National Institute of Education (NIE, NTU) is conducting a study to
@@ -70,7 +67,7 @@ at <a href="mailto:IRB@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_b
 <p><strong>Interested participants may sign up <a href="tinyurl.com/projectbridge1" rel="noopener nofollow" target="_blank">here</a>. Sign-ups will close on 17th August, 2025.</strong>
 </p>
 <p></p>
-<p><em>*To respect views surrounding language use, they have used both person-first (adult on the autism spectrum) and identify-first (autistic adult) descriptors interchangeably. </em>
+<p><em>*To respect <a href="https://www.liebertpub.com/doi/10.1089/aut.2020.0014" rel="noopener nofollow" target="_blank">views surrounding language use</a>, they have used both person-first (adult on the autism spectrum) and identify-first (autistic adult) descriptors interchangeably.</em>
 </p>
 </div>
 </details>
