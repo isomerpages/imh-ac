@@ -33,6 +33,9 @@ event date)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png">
 </div>
+<p></p>
+<p><strong>"From Words to Meaningful Connections: Building Communication Skills in Autism" </strong>A
+Talk by Ms Amanda Loke</p>
 </div>
 </details>
 </div>
