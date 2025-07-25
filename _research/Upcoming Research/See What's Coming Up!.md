@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Research
 ---
-<p>Click on the tabs below for more details about ongoing research programmes!</p>
+<p>Click on the tabs below for more details about ongoing research programmes.
+Please contact the respective organizations for more information about
+their research programs.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sensitive Language Use in the Autism Community</strong>
