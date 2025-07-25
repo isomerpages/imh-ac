@@ -25,7 +25,7 @@ event date)</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Building Communication Skills in Autism Talk</summary>
+<summary>"Building Communication Skills in Autism" Talk</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>The Autism Collaborative is proud to present:</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/building-communication-skills-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png"></a>
