@@ -23,6 +23,19 @@ event date)</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Building Communication Skills in Autism Talk</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>The Autism Collaborative is proud to present:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png">
+</div>
+</div>
+</details>
+</div>
 <p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>autism_research@imh.com.sg</u></a> </em>for
 more information.</p>
 <p>
