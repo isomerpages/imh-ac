@@ -66,7 +66,7 @@ You can also reach the study Principal Investigator: Delia Kan at <a href="mailt
 at <a href="mailto:IRB@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IRB@ntu.edu.sg</a>,
 6592 2495 (IRB-2025-105).</p>
 <p></p>
-<p><strong>Interested participants may sign up <a href="tinyurl.com/projectbridge1" rel="noopener nofollow" target="_blank">here</a>. Sign-ups will close on 17th August, 2025.</strong>
+<p><strong>Interested participants may sign up <a href="https://ntusingapore.qualtrics.com/jfe/form/SV_2a7w6VY1itnHP94" rel="noopener nofollow" target="_blank">here</a>. Sign-ups will close on 17th August, 2025.</strong>
 </p>
 <p></p>
 <p><em>*To respect <a href="https://www.liebertpub.com/doi/10.1089/aut.2020.0014" rel="noopener nofollow" target="_blank">views surrounding language use</a>, they have used both person-first (adult on the autism spectrum) and identify-first (autistic adult) descriptors interchangeably.</em>
