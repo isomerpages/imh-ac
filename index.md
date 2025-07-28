@@ -58,5 +58,5 @@ sections:
       id: infobar
       description: Click on the link below for more details and how to participate!
       button: Compiled list of ongoing research
-      url: /all-upcoming-ac-programmes/
+      url: /ongoing-research-projects/
 ---
