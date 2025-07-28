@@ -27,7 +27,8 @@ their research programs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A Survey on Sensitive Language Use in the Autism Community.</p>
+<p><strong>A Survey on Sensitive Language Use in the Autism Community.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -61,7 +62,8 @@ working in the field of autism.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Project BRIDGE</p>
+<p><strong>Project BRIDGE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
