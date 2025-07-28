@@ -8,6 +8,41 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Project BRIDGE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="tinyurl.com/projectbridge1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/project_bridge_png.png"></a>
+<p><strong>Project BRIDGE: Building inclusive workplaces for autistic adults through co-created AI tools</strong>
+</p>
+<p>The National Institute of Education (NIE, NTU) is conducting a study to
+explore how they can better support workplace inclusion for autistic* adults
+through participatory research.</p>
+<p></p>
+<p>They are currently looking for autistic adults (21 years and above) with
+at least 3 months of work experience - past or current - to join their
+study. Participants will take part in an online survey and a 2.5hr in-person
+workshop that includes dissolutions and a hands-on activity with a large
+language model (LLM) chatbot.</p>
+<p></p>
+<p>Participation is voluntary and confidential, and participants may receive
+a $50 compensation upon completing the workshop and surveys. Round trip
+private transport costs to the workshop venue can also be supported.</p>
+<p></p>
+<p>More information can be found on their <a href="https://sites.google.com/g.nie.edu.sg/project-bridge/home?authuser=0" rel="noopener nofollow" target="_blank">website</a>.
+You can also reach the study Principal Investigator: Delia Kan at <a href="mailto:delia.kan@nie.edu.sg" rel="noopener noreferrer nofollow" target="_blank">delia.kan@nie.edu.sg</a>,
+6790 3325. For questions on participant rights, you can contact NTU IRB
+at <a href="mailto:IRB@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IRB@ntu.edu.sg</a>,
+6592 2495 (IRB-2025-105).</p>
+<p></p>
+<p><strong>Interested participants may sign up <a href="tinyurl.com/projectbridge1" rel="noopener nofollow" target="_blank">here</a>. Sign-ups will close on 17th August, 2025.</strong>
+</p>
+<p></p>
+<p><em>*To respect <a href="https://www.liebertpub.com/doi/10.1089/aut.2020.0014" rel="noopener nofollow" target="_blank">views surrounding language use</a>, they have used both person-first (adult on the autism spectrum) and identify-first (autistic adult) descriptors interchangeably.</em>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Sensitive Language Use in the Autism Community</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -34,22 +69,6 @@ access the survey. Thank you.</p>
 <p></p>
 <p><strong><em>The closing date for the survey is 31 July.</em></strong>
 </p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://for.sg/changingbodies"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changing_Bodies__Changing_Needs__Poster_.png"></a>
-<p><strong>Date:</strong> 25 July 2025</p>
-<p><strong>Time:</strong> 5-6pm</p>
-<p><strong>Location:</strong> Online (Zoom link will be sent out closer to
-event date)</p>
-<p><strong>Cost:</strong> Free but registration required</p>
-<p><strong>Programme Details:</strong> For professionals and parents/caregivers
-of individuals with autism</p>
 </div>
 </details>
 </div>
