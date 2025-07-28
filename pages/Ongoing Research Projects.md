@@ -4,7 +4,7 @@ permalink: /ongoing-research-projects/
 variant: tiptap
 description: ""
 ---
-<p>Here is a compiled list of ongoing research projects.</p>
+<h2>Compiled List of Ongoing Research Projects</h2>
 <p>Please contact the respective organizations for more information about
 their research programs.</p>
 <table style="minWidth: 75px">
