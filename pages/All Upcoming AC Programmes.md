@@ -8,48 +8,26 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Sensitive Language Use in the Autism Community</strong>
+<summary><strong>"Building Communication Skills in Autism" Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://for.sg/autism-language-survey"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Autism_Language_Survey_Recruitment_Poster_v1_2_dated_20_Nov_2023__Square_Format__page_0001.jpg"></a>
-<p><strong>A Survey on Sensitive Language Use in the Autism Community</strong>
-</p>
-<p>The language and labels we use in describing autism have an integral role
-in shaping social perception and the understanding of autism. In order
-to be an inclusive society that understands and embraces autism, we aspire
-to avoid words that could stigmatize or be divisive, aiming instead for
-more mindful and considerate language use.</p>
 <p></p>
-<p>The Autism Language Survey team is therefore conducting a public survey
-to understand the perspectives and preferences of the autistic community
-(including caregivers and professionals) in Singapore. Further details
-about the survey and how to participate are in the above poster. We really
-hope that as many people as possible can participate for the results to
-be truly representative of as many voices as possible. If you have already
-responded to this survey before, there is no need to participate again.</p>
+<p><strong>The Autism Collaborative is proud to present:</strong>
+</p><a class="isomer-image-wrapper" href="https://for.sg/building-communication-skills-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png"></a>
 <p></p>
-<p>If you are interested, please scan the QR code in the poster or click
-on this <a href="https://for.sg/autism-language-survey" rel="noopener nofollow" target="_blank">link</a> to
-access the survey. Thank you.</p>
+<p><strong>"From Words to Meaningful Connections: Building Communication Skills in Autism" </strong>A
+Talk by Ms Amanda Loke</p>
 <p></p>
-<p><strong><em>The closing date for the survey is 31 July.</em></strong>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>"Changing Bodies, Changing Needs" Talk</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://for.sg/changingbodies"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changing_Bodies__Changing_Needs__Poster_.png"></a>
-<p><strong>Date:</strong> 25 July 2025</p>
-<p><strong>Time:</strong> 5-6pm</p>
-<p><strong>Location:</strong> Online (Zoom link will be sent out closer to
+<p><strong>Date: </strong>21 November 2025</p>
+<p><strong>Time: </strong>5pm - 6pm</p>
+<p></p>
+<p><strong>Location: </strong>Online (Zoom link will be sent out closer to
 event date)</p>
-<p><strong>Cost:</strong> Free but registration required</p>
-<p><strong>Programme Details:</strong> For professionals and parents/caregivers
-of individuals with autism</p>
+<p><strong>Cost:</strong> Free but <a href="https://for.sg/building-communication-skills-autism" rel="noopener nofollow" target="_blank">registration</a> is
+required.</p>
+<p></p>
+<p><strong>Programme Details:</strong>
+<br>For professionals and parents/caregivers of individuals with autism.</p>
 </div>
 </details>
 </div>

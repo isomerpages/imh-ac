@@ -52,4 +52,11 @@ sections:
       description: Click the link below for more details and sign up to participate!
       button: compiled list of programmes
       url: /all-upcoming-ac-programmes/
+  - infobar:
+      title: Ongoing Research Projects
+      subtitle: Discover and participate in
+      id: infobar
+      description: Click on the link below for more details and how to participate!
+      button: Compiled list of ongoing research
+      url: /ongoing-research-projects/
 ---
