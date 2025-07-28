@@ -8,6 +8,31 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>"Building Communication Skills in Autism" Talk</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>The Autism Collaborative is proud to present:</strong>
+</p><a class="isomer-image-wrapper" href="https://for.sg/building-communication-skills-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png"></a>
+<p></p>
+<p><strong>"From Words to Meaningful Connections: Building Communication Skills in Autism" </strong>A
+Talk by Ms Amanda Loke</p>
+<p></p>
+<p><strong>Date: </strong>21 November 2025</p>
+<p><strong>Time: </strong>5pm - 6pm</p>
+<p></p>
+<p><strong>Location: </strong>Online (Zoom link will be sent out closer to
+event date)</p>
+<p><strong>Cost:</strong> Free but <a href="https://for.sg/building-communication-skills-autism" rel="noopener nofollow" target="_blank">registration</a> is
+required.</p>
+<p></p>
+<p><strong>Programme Details:</strong>
+<br>For professionals and parents/caregivers of individuals with autism.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Project BRIDGE</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="tinyurl.com/projectbridge1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/project_bridge_png.png"></a>
