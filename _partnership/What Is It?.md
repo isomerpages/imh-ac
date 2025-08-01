@@ -19,7 +19,7 @@ in ...</p>
 diagnosis training programs as volunteers</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sharing sessions and/or joining
 in activities to support advocacy of the autism community</p>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@imh.com.sg</a></em> for
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a></em> for
 more information.</p>
 <p>Click <a href="https://www.asdcollaborative.sg/join-our-network-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our network.</p>
