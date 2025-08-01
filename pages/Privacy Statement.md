@@ -51,14 +51,14 @@ copying, use and destruction.</p>
 information in its dealing with third parties.</p>
 <p>iii. The Team will not request for the participants' username and password
 via email or telephone. If participants receive such requests, please inform
-the Team immediately at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
+the Team immediately at <a href="mailto: imh.autism.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a>.</p>
 <h4>4. Accuracy of Personal Information</h4>
 <p>i. The participants' personal information will be deemed as accurate and
 complete upon registering interest in joining the AC network, necessary
 for the purpose for which it is intended to be used.</p>
 <p>ii. Accurate, complete and up to date personal information will minimise
 any inappropriate decisions made about a participant when the need arises.</p>
-<p>iii. The participants may email to <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> and
+<p>iii. The participants may email to <a href="mailto: imh.autism.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a> and
 request for changes to be made to their registration details.</p>
 <h4>5. Retention and Destruction of Personal Information</h4>
 <p>i. The Team will maintain appropriate practices for retention and destruction
@@ -76,5 +76,5 @@ to consulting, licensing or other similar legal or commercial obligations
 to another institution, corporation or business entity, unless the provider
 provides its prior written consent.</p>
 <p>ii. For any enquiries regarding the Privacy Policy or any requests regarding
-personal information, please contact the Team at <a href="mailto:autism_reesarch@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_reesarch@imh.com.sg</a>.</p>
+personal information, please contact the Team at <a href="mailto: imh.autism.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a>.</p>
 <p></p>
