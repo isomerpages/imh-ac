@@ -51,7 +51,7 @@ training is <strong>required</strong>
 </p>
 </li>
 </ul>
-<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a> to
 sign up!</p>
 </div>
 </details>
