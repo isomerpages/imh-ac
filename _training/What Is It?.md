@@ -57,7 +57,7 @@ educators):</p>
 <p>Co-learning and conducting of workshops or development of programs</p>
 </li>
 </ul>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a></em> for
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@imh.com.sg</a></em> for
 more information.</p>
 <p>Click <a href="https://www.asdcollaborative.sg/join-our-network-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our network of professionals.</p>
