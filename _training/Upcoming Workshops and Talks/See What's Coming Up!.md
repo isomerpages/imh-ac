@@ -29,7 +29,7 @@ significant distress to his family. Let's learn and grow together.</p>
 event date)</p>
 <p><strong>Cost: </strong>Free but <a href="https://for.sg/a-for-autism" rel="noopener nofollow" target="_blank">registration</a> is required</p>
 <p><strong>Programme details:</strong> Please note that this programme is
-for <strong>professionals only. </strong>
+for <strong>professionals only.</strong>
 </p>
 </div>
 </details>
