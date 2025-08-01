@@ -9,7 +9,7 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Understanding the 'A': 'A' for Autism or Aggression - Case Discussion</strong>
+<summary><strong>Understanding the 'A': 'A' for Autism or Aggression? - Case Discussion</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -61,7 +61,7 @@ required.</p>
 </div>
 </details>
 </div>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>autism_research@imh.com.sg</u></a> </em>for
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>imh.autism.research@nhghealth.com.sg</u></a> </em>for
 more information.</p>
 <p>
 <br>
