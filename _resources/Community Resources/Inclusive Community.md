@@ -12,7 +12,7 @@ their programs.</p>
 of the programs listed.</p>
 <p>If you have used any of these services and would like to share your feedback,
 or if your organization wishes to be included in the list, please reach
-out to us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a>.</p>
+out to us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a>.</p>
 <p>Our organization reserves the right to remove any services listed without
 any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
