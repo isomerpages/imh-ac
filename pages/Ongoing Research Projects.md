@@ -27,41 +27,6 @@ their research programs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A Survey on Sensitive Language Use in the Autism Community.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Autism_Language_Survey_Recruitment_Poster_v1_2_dated_20_Nov_2023__Square_Format__page_0001.jpg">
-</div>
-<p>The Autism Language Survey team is conducting a public survey to understand
-the perspectives and preferences of the autistic community (including caregivers
-and professionals in Singapore).</p>
-<p></p>
-<p>More information can be found in the poster.</p>
-<p></p>
-<p>Sign-up link: <a href="https://for.sg/autism-language-survey" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/autism-language-survey</a>
-</p>
-<p></p>
-<p>The closing date for this survey is 31st July, 2025.</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Aged 21 years old and above.</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Individuals on the autism spectrum, their caregivers and professionals
-working in the field of autism.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Project BRIDGE</strong>
 </p>
 </td>
