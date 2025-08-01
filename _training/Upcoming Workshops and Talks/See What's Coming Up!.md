@@ -9,7 +9,7 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Understanding the 'A': 'A' for Autism or Aggression -- Case Discussion Session</strong>
+<summary><strong>Understanding the 'A': 'A' for Autism or Aggression - Case Discussion</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -18,7 +18,7 @@ and find out how to sign up!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Building Communication Skills in Autism -- Talk</strong>
+<summary><strong>Building Communication Skills in Autism - Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
