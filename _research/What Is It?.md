@@ -9,7 +9,7 @@ description: ""
 autism, from providing mentorship to helping to reach out to potential
 participants. We encourage professionals to adopt research ideas by engaging
 the autism community in the spirit of co-creation.</p>
-<p>Please feel free to contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> for
+<p>Please feel free to contact us at <a href="mailto: imh.autism.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a> for
 more information.</p>
 <p>Click <a href="https://www.asdcollaborative.sg/join-our-network-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our research network.</p>
@@ -26,7 +26,7 @@ a culture of communication and bridging understanding.</p>
 network. Participants will receive information about studies seeking volunteers
 for participation, and also receive updates or reports about outcomes of
 studies.</p>
-<p>Please feel free to contact us at <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> for
+<p>Please feel free to contact us at <a href="mailto: imh.autism.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@imh.com.sg</a> for
 more information.</p>
 <p>Click <a href="https://www.asdcollaborative.sg/join-our-network-here/" rel="noopener nofollow" target="_blank">here</a> to
 scan the QR code to be part of our research network.</p>
