@@ -8,7 +8,7 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Understanding the 'A': 'A' for Autism or Aggression - Case Discussion</strong>
+<summary><strong>Understanding the 'A': 'A' for Autism or Aggression? - Case Discussion</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -78,7 +78,7 @@ training is <strong>required</strong>
 </p>
 </li>
 </ul>
-<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a> to
 sign up!</p>
 </div>
 </details>
@@ -103,7 +103,7 @@ training is <strong>required</strong>
 </p>
 </li>
 </ul>
-<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">autism_research@imh.com.sg</a> to
+<p>Email us @ <a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.autism.research@nhghealth.com.sg</a> to
 sign up!</p>
 </div>
 </details>
