@@ -61,7 +61,7 @@ required.</p>
 </div>
 </details>
 </div>
-<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>autism_research@imh.com.sg</u></a> </em>for
+<p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>imh.autism.research@nhghealth.com.sg</u></a> </em>for
 more information.</p>
 <p>
 <br>
