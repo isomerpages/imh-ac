@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2>Compiled List of Ongoing Research Projects</h2>
-<p>Please contact the respective organizations for more information about
+<p>The Autism Collaborative’s promotion of external research projects does
+not imply endorsement or representation of those organisations or their
+work.</p>
+<p>Please contact the respective organisations for more information about
 their research programs.</p>
 <table style="minWidth: 75px">
 <colgroup>
