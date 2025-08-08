@@ -6,10 +6,20 @@ description: ""
 third_nav_title: Upcoming Research
 ---
 <p>Click on the tabs below for more details about ongoing research programmes.</p>
-<p></p>
-<p>The Autism Collaborative may promote research projects conducted by external
-organisations or institutions. Please contact the respective organizations
-for more information about their research programs.</p>
+<p>While the Autism Collaborative may promote or share information about
+research projects conducted by other organisations, such promotion does
+not constitute an endorsement or representation of those organisations,
+their views, or their work.</p>
+<p>The Autism Collaborative is not responsible for the content, conduct,
+or outcomes of such studies. Our role is limited to facilitating awareness
+of opportunities that may be of interest to the community.</p>
+<p>Please contact the respective organisations for more information about
+their research programs.</p>
+<p>If you have participated in any of these research projects and would like
+to share your feedback, or if your organisation wishes to have a research
+project listed, please reach out to us at <a href="mailto: imh.autism.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>imh.autism.research@nhghealth.com.sg</u></a>.</p>
+<p>Our organization reserves the right to remove any research project listed
+without any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Project BRIDGE</strong>
