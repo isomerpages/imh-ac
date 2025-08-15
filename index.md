@@ -21,8 +21,8 @@ sections:
       url: /all-upcoming-ac-programmes/
   - infobar:
       title: Passionate About Autism?
-      description: Join our network now to receive updates on training, research and
-        partnership on all autism-related events.
+      description: Join our network now to receive updates on all autism-related
+        trainings, research and partnership.
       button: Join us now
       url: /join-our-network-here/
   - textcards:
