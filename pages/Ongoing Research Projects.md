@@ -30,10 +30,14 @@ for more information about their research programs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Autism Research: Poster for Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm." src="/images/systematic_review_research_poster.png">
+</div>
 <p>A research team from IMH is conducting a systematic review to better understand
 autistic meltdowns, shutdowns, and overwhelm and they want to ensure their
 work reflects real experiences and perspectives. For this, they are looking
