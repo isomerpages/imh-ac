@@ -31,7 +31,7 @@ for more information about their research programs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
+<p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
