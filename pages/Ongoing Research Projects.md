@@ -8,8 +8,8 @@ description: ""
 <p>The Autism Collaborative’s promotion of external research projects does
 not imply endorsement or representation of those organisations or their
 work.</p>
-<p>Please contact the respective organisations for more information about
-their research programs.</p>
+<p>Please contact the respective organisations/project principal investigators
+for more information about their research programs.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -39,6 +39,9 @@ autistic meltdowns, shutdowns, and overwhelm and they want to ensure their
 work reflects real experiences and perspectives. For this, they are looking
 for 1-2 eligible individuals to join their research team to help with the
 interpretation and contextualisation of findings.</p>
+<p></p>
+<p>For more information, please contact: <a href="mailto:arunika.pillay@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">arunika.pillay@nhghealth.com.sg</a> (Email)
+or +65 9855 2344 (Whatsapp)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
