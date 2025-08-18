@@ -19,6 +19,7 @@ any prior notice.</p>
 <details class="isomer-details">
 <summary>Training and Employment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,6 +140,9 @@ career pathways and development, including:</p>
 <p>Professional Growth &amp; Development</p>
 </li>
 </ul>
+<p></p>
+<p>Students in secondary schools and IHLs are eligible to participate in
+Trampolene's programmes as well. Please reach out to them for more information.</p>
 </td>
 </tr>
 </tbody>
