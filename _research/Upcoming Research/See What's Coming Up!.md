@@ -35,7 +35,25 @@ work reflects real experiences and perspectives. For this, they are looking
 for 1-2 eligible individuals to join their research team to help with the
 interpretation and contextualisation of findings.</p>
 <p></p>
+<p>They are looking for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Researchers or clinicians that are over the age of 18</p>
+</li>
+<li>
+<p>English-speaking</p>
+</li>
+<li>
+<p>Have an autism diagnosis or self-identify as autistic and have experienced
+meltdowns or shutdowns.</p>
+</li>
+<li>
+<p>Parents or caregivers of autistic children are also welcome.</p>
+</li>
+</ul>
 <p></p>
+<p>If interested, please reach out to: Arunika Pillay at <a href="mailto:arunika.pillay@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">arunika.pillay@nhghealth.com.sg</a> (Email)
+or +65 98552344 (Whatsapp).</p>
 </div>
 </details>
 </div>
