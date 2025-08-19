@@ -31,10 +31,10 @@ without any prior notice.</p>
 <p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
 </p>
 <p>A research team from IMH is conducting a systematic review to better understand
-autistic meltdowns, shutdowns, and overwhelm, and they want to ensure their
-work reflects real experiences and perspectives. For this, they are looking
-for 1-2 eligible individuals to join their research team to help with the
-interpretation and contextualisation of findings.</p>
+autistic meltdowns, shutdowns, and overwhelm. To ensure that their work
+reflects real experiences and perspectives, they are looking for 1-2 eligible
+individuals to join their research team to help with the interpretation
+and contextualisation of findings.</p>
 <p></p>
 <p>They are looking for:</p>
 <ul data-tight="true" class="tight">
