@@ -37,11 +37,11 @@ for more information about their research programs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Autism Research: Poster for Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm." src="/images/systematic_review_research_poster.png">
 </div>
-<p>A research team from IMH is conducting a systematic review to better understand
-autistic meltdowns, shutdowns, and overwhelm and they want to ensure their
-work reflects real experiences and perspectives. For this, they are looking
-for 1-2 eligible individuals to join their research team to help with the
-interpretation and contextualisation of findings.</p>
+<p>A researcher from IMH is conducting a systematic review to better understand
+autistic meltdowns, shutdowns. To ensure that their work reflects real
+experiences and perspectives, they are looking for 1-2 eligible individuals
+to join their research team to help with the interpretation and contextualisation
+of findings</p>
 <p></p>
 <p>For more information, please contact: <a href="mailto:arunika.pillay@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">arunika.pillay@nhghealth.com.sg</a> (Email)
 or +65 9855 2344 (Whatsapp)</p>
