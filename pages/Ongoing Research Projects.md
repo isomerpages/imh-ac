@@ -8,8 +8,8 @@ description: ""
 <p>The Autism Collaborative’s promotion of external research projects does
 not imply endorsement or representation of those organisations or their
 work.</p>
-<p>Please contact the respective organisations for more information about
-their research programs.</p>
+<p>Please contact the respective organisations/project principal investigators
+for more information about their research programs.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -30,35 +30,36 @@ their research programs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Project BRIDGE</strong>
+<p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/project_bridge_png.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Autism Research: Poster for Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm." src="/images/systematic_review_research_poster.png">
 </div>
-<p>NIE, NTU is currently conducting a study to explore how they can better
-support workplace inclusion for autistic adults through participatory research.</p>
+<p>A research team from IMH is conducting a systematic review to better understand
+autistic meltdowns, shutdowns, and overwhelm and they want to ensure their
+work reflects real experiences and perspectives. For this, they are looking
+for 1-2 eligible individuals to join their research team to help with the
+interpretation and contextualisation of findings.</p>
 <p></p>
-<p>Participants will take part in an online survey and a 2.5hr in-person
-workshop that includes dissolutions and a hands-on activity with a large
-language model (LLM) chatbot.</p>
-<p></p>
-<p>More information can be found in the poster.</p>
-<p></p>
-<p>Sign-up link: <a href="http://tinyurl.com/projectbridge1" rel="noopener noreferrer nofollow" target="_blank">tinyurl.com/projectbridge1</a>
-</p>
-<p></p>
-<p>The closing date for this study is 17th August, 2025.</p>
+<p>For more information, please contact: <a href="mailto:arunika.pillay@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">arunika.pillay@nhghealth.com.sg</a> (Email)
+or +65 9855 2344 (Whatsapp)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Autistic adults (21 years and above).</p>
+<p>Researchers or clinicians that are over the age of 18.</p>
 </li>
 <li>
-<p>At least 3 months of work experience (past or current).</p>
+<p>Speak English</p>
+</li>
+<li>
+<p>Have an autism diagnosis or self-identify as autistic and have experienced
+meltdowns or shutdowns.</p>
+</li>
+<li>
+<p>Parents or caregivers of autistic children are also welcome.</p>
 </li>
 </ul>
 </td>
