@@ -25,7 +25,10 @@ without any prior notice.</p>
 <summary><strong>A Survey on Sensitive Language Use in the Autism Community</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>(image)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Autism Research: A Survey on Sensitive Language Use in the Autism Community" src="/images/autism_language_survey_png.png">
+</div>
 <blockquote>
 <p><strong><em>Seeking more responses from <u>autistic adults</u> - we would really value your opinions on this!</em></strong>
 </p>
@@ -49,7 +52,7 @@ for the results to be truly representative of as many voices as possible.</p>
 to launch the survey. If you have already participated, thank you and please
 do not complete the survey again.</p>
 <p></p>
-<p><em>The Autism Collaborative, on behalf of the Autism Language Survey team. </em>
+<p><em>The Autism Collaborative, on behalf of the Autism Language Survey team (KKH, NUH CDUs).</em>
 </p>
 </div>
 </details>
