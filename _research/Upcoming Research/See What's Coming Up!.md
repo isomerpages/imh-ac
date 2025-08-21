@@ -49,16 +49,11 @@ and preferences of the autistic community in Singapore (please see poster
 above). We really hope that as many people as possible can participate
 for the results to be truly representative of as many voices as possible.</p>
 <p></p>
-<p>If you are interested, please scan the QR code or click on the link below
-to launch the survey. If you have already participated, thank you and please
-do not complete the survey again.</p>
+<p>If you are interested, please scan the QR code in the poster or click
+on the link below to launch the survey. If you have already participated,
+thank you and please do not complete the survey again.</p>
 <p></p>
-<p><strong>QR Code:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="QR Code for A Survey on Sensitive Language Use in the Autism Community" src="/images/autism_language_survey_qr_code.png">
-</div>
-<p><strong>Link: </strong><a href="https://for.sg/autism-language-survey" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/autism-language-survey</a>
+<p>To sign up:<strong> </strong><a href="https://for.sg/autism-language-survey" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/autism-language-survey</a>
 </p>
 <p></p>
 <p><em>The Autism Collaborative, on behalf of the Autism Language Survey team (KKH, NUH CDUs).</em>
