@@ -22,6 +22,47 @@ project listed, please reach out to us at <a href="mailto: imh.autism.research@n
 without any prior notice.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>A Survey on Sensitive Language Use in the Autism Community</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Autism Research: A Survey on Sensitive Language Use in the Autism Community" src="/images/autism_language_survey_png.png">
+</div>
+<p></p>
+<blockquote>
+<p><strong><em>Seeking more responses from <u>autistic adults</u> - we would really value your opinions on this!</em></strong>
+</p>
+</blockquote>
+<p></p>
+<p><strong>A Survey on Sensitive Language Use in the Autism Community</strong>
+</p>
+<p></p>
+<p>The language and labels we use in describing autism have an integral role
+in shaping social perception and understanding of autism. In order to be
+an inclusive society that understands and embraces autism, we aspire to
+avoid words that could stigmatize or be divisive, aiming instead for more
+mindful and considerate language use.</p>
+<p></p>
+<p>We are therefore conducting a public survey to understand the perspectives
+and preferences of the autistic community in Singapore (please see poster
+above). We really hope that as many people as possible can participate
+for the results to be truly representative of as many voices as possible.</p>
+<p></p>
+<p>If you are interested, please scan the QR code in the poster or click
+on the link below to launch the survey. If you have already participated,
+thank you and please do not complete the survey again.</p>
+<p></p>
+<p>To sign up:<strong> </strong><a href="https://for.sg/autism-language-survey" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/autism-language-survey</a>
+</p>
+<p></p>
+<p><em>The Autism Collaborative, on behalf of the Autism Language Survey team (KKH, NUH CDUs).</em>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">

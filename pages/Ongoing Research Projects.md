@@ -30,6 +30,45 @@ for more information about their research programs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>A Survey on Sensitive Language Use in the Autism Community</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Autism Research: A Survey on Sensitive Language Use in the Autism Community" src="/images/autism_language_survey_png.png">
+</div>
+<p></p>
+<p>The language and labels we use in describing autism have an integral role
+in shaping social perception and understanding of autism. In order to be
+an inclusive society that understands and embraces autism, we aspire to
+avoid words that could stigmatize or be divisive, aiming instead for more
+mindful and considerate language use.</p>
+<p></p>
+<p>The Autism Language Survey team from KKH &amp; NUH CDUs is therefore conducting
+a public survey to understand the perspectives and preferences of the autistic
+community in Singapore (please see poster above). We really hope that as
+many people as possible can participate for the results to be truly representative
+of as many voices as possible.</p>
+<p></p>
+<p>If you are interested, please scan the QR code in the poster or click
+on this <a href="https://for.sg/autism-language-survey" rel="noopener nofollow" target="_blank">link</a> to
+launch the survey. If you have already participated, thank you and please
+do not complete the survey again.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Individuals on the autism spectrum, their caregivers, and professionals
+working in the field of autism.</p>
+</li>
+<li>
+<p>Aged 21 years and above.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm.</strong>
 </p>
 </td>
