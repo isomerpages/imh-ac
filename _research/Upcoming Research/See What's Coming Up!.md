@@ -57,7 +57,7 @@ do not complete the survey again.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="QR Code for A Survey on Sensitive Language Use in the Autism Community" src="/images/autism_language_survey_qr_code.png">
 </div>
-<p><strong>Link: </strong><a href="https://for.sg/autism-language-survey" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/autism-language-survey</a> 
+<p><strong>Link: </strong><a href="https://for.sg/autism-language-survey" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/autism-language-survey</a>
 </p>
 <p></p>
 <p><em>The Autism Collaborative, on behalf of the Autism Language Survey team (KKH, NUH CDUs).</em>
