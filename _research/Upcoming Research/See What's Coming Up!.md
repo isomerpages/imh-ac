@@ -29,6 +29,7 @@ without any prior notice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Autism Research: A Survey on Sensitive Language Use in the Autism Community" src="/images/autism_language_survey_png.png">
 </div>
+<p></p>
 <blockquote>
 <p><strong><em>Seeking more responses from <u>autistic adults</u> - we would really value your opinions on this!</em></strong>
 </p>
