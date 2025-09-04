@@ -13,7 +13,7 @@ programmes and find out how to sign up!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>The Autism Collaborative is proud to present:</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/building-communication-skills-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png"></a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/Building_Communication_Skills_in_Autism_Talk___Poster.png">
 </div>
