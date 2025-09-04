@@ -14,7 +14,9 @@ programmes and find out how to sign up!</p>
 <p></p>
 <p><strong>The Autism Collaborative is proud to present:</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/building-communication-skills-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png"></a>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/Building_Communication_Skills_in_Autism_Talk___Poster.png">
+</div>
 <p><strong>"From Words to Meaningful Connections: Building Communication Skills in Autism" </strong>A
 Talk by Ms Amanda Loke</p>
 <p></p>
@@ -39,6 +41,9 @@ required.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+</div>
 <p><strong>Programme Details:</strong>
 <br>For persons with ASD</p>
 <ul data-tight="true" class="tight">
@@ -62,7 +67,7 @@ sign up!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/AC_ADOS_ADI_R_Parent_Recruitment_Poster.png">
 </div>
 <p><strong>Programme Details:</strong>
 <br>For persons with ASD</p>
