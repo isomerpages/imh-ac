@@ -26,9 +26,6 @@ without any prior notice.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Autism Research: Poster for Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm" src="/images/systematic_review_research_poster.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/systematic_review_research_poster.png">
 </div>
 <p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
