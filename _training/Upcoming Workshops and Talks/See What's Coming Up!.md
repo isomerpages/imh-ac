@@ -15,7 +15,9 @@ and find out how to sign up!</p>
 <p></p>
 <p><strong>The Autism Collaborative is proud to present:</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/building-communication-skills-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_Communication_Skills_in_Autism_Talk___Poster.png"></a>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/Building_Communication_Skills_in_Autism_Talk___Poster.png">
+</div>
 <p><strong>"From Words to Meaningful Connections: Building Communication Skills in Autism" A Talk by Ms Amanda Loke</strong>
 </p>
 <p></p>
