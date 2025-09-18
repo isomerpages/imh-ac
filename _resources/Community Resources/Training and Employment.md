@@ -139,9 +139,26 @@ career pathways and development, including:</p>
 <p>Professional Growth &amp; Development</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://undifferent.sg/" rel="noopener nofollow" target="_blank">Undifferent</a></strong>
+</p>
 <p></p>
-<p>Students in secondary schools and IHLs are eligible to participate in
-Trampolene's programmes as well. Please reach out to them for more information.</p>
+<p>Email: <a href="mailto:hello@undifferent.sg" rel="noopener noreferrer nofollow" target="_blank">hello@undifferent.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with special needs often face unique challenges in their learning
+journey that can hinder their academic and social potential. These challenges
+make it difficult to thrive in school, form lasting friendships and prepare
+for future careers.
+<br>
+<br>Undifferent provides a supportive, step-by-step program designed specifically
+for teenagers aged 13-17 years old. Their goal is to equip them with the
+essential skills needed to navigate school, build meaningful friendships,
+and confidently pursue their future goals.</p>
 </td>
 </tr>
 </tbody>
