@@ -19,7 +19,6 @@ any prior notice.</p>
 <details class="isomer-details">
 <summary>Training and Employment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -147,7 +146,7 @@ career pathways and development, including:</p>
 <p><strong><a href="https://undifferent.sg/" rel="noopener nofollow" target="_blank">Undifferent</a></strong>
 </p>
 <p></p>
-<p>Email: <a href="mailto:hello@undifferent.sg" rel="noopener noreferrer nofollow" target="_blank">hello@undifferent.sg</a> 
+<p>Email: <a href="mailto:hello@undifferent.sg" rel="noopener noreferrer nofollow" target="_blank">hello@undifferent.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
