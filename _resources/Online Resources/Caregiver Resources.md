@@ -600,7 +600,10 @@ and Therapy.</p>
 <p>Adulthood Transition Planning</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Autism_Adult_Transition_Resource.pdf" rel="noopener nofollow" target="_blank">Adulthood Transition Resource for Autism</a>
+<p><a href="/files/Autism_Adult_Transition_Resource_Watermarked.pdf" rel="noopener nofollow" target="_blank">Adulthood Transition Resource for Autism PDF</a>
+</p>
+<p></p>
+<p><strong>This is a resource sheet specially prepared to help individuals with autism and their caregivers to better plan and prepare for the transition to adulthood.</strong>
 </p>
 </th>
 </tr>
@@ -609,8 +612,7 @@ and Therapy.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Others</strong>
-</summary>
+<summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
