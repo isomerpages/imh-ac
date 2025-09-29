@@ -589,7 +589,6 @@ and Therapy.</p>
 <details class="isomer-details">
 <summary>Adulthood Transition Planning</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
