@@ -587,6 +587,32 @@ and Therapy.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Adulthood Transition Planning</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Adulthood Transition Planning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Autism_Adult_Transition_Resource_Watermarked.pdf" rel="noopener nofollow" target="_blank">Adulthood Transition Resource for Autism PDF</a>
+</p>
+<p></p>
+<p>This is a resource sheet specially prepared to help individuals with autism
+and their caregivers to better plan and prepare for the transition to adulthood.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -715,7 +741,6 @@ such as the:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 </div>
