@@ -596,16 +596,17 @@ and Therapy.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Adulthood Transition Planning</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Adulthood Transition Planning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Autism_Adult_Transition_Resource_Watermarked.pdf" rel="noopener nofollow" target="_blank">Adulthood Transition Resource for Autism PDF</a>
 </p>
 <p></p>
-<p><strong>This is a resource sheet specially prepared to help individuals with autism and their caregivers to better plan and prepare for the transition to adulthood.</strong>
-</p>
-</th>
+<p>This is a resource sheet specially prepared to help individuals with autism
+and their caregivers to better plan and prepare for the transition to adulthood.</p>
+</td>
 </tr>
 </tbody>
 </table>
