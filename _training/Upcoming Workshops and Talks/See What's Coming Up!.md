@@ -9,7 +9,7 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Community of Practice: Eating Disorders and Autis</strong>
+<summary><strong>Community of Practice: Eating Disorders and Autism</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
