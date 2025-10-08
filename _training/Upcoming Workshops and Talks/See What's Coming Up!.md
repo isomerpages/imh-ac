@@ -9,6 +9,14 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Community of Practice</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Building Communication Skills in Autism - Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -38,6 +46,4 @@ required.</p>
 </div>
 <p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>imh.autism.research@nhghealth.com.sg</u></a> </em>for
 more information.</p>
-<p>
-<br>
-</p>
+<p></p>
