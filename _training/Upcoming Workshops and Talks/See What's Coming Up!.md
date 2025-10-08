@@ -9,16 +9,18 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Community of Practice: Eating Disorders and Autism</strong>
+<summary><strong>Community of Practice: Eating Disorders and Autis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_of_Practice_Eating_Disorders_and_Autism.png">
+</div>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Building Communication Skills in AutismTalk</strong>
+<summary><strong>Building Communication Skills in Autism Talk</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
