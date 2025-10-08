@@ -12,9 +12,30 @@ and find out how to sign up!</p>
 <summary><strong>Community of Practice: Eating Disorders and Autism</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>The Autism Collaborative is proud to present:</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_of_Practice_Eating_Disorders_and_Autism.png">
 </div>
+<p></p>
+<p><strong>Community of Practice: Eating Disorders and Autism</strong>
+</p>
+<p></p>
+<p>Join us for a two-way, collaborative case discussion on a 15-year-old
+teen with an eating disorder resulting in frequent hospitalisations. We
+will examine how comorbid traits influenced her presentation and complicated
+the management of her condition.</p>
+<p></p>
+<p><strong>Date: </strong>14th November 2025</p>
+<p><strong>Time: </strong>5pm - 6pm</p>
+<p><strong>Location: </strong>Online (Zoom link will be sent out closer to
+event date)</p>
+<p><strong>Cost: </strong>Free but registration is required</p>
+<p><strong>Programme details:</strong> Please note that this programme is
+for <strong>professionals only.</strong>
+</p>
+<p></p>
+<p>Please refer to the poster for more details.</p>
 </div>
 </details>
 </div>
