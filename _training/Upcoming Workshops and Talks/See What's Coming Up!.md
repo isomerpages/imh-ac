@@ -30,7 +30,8 @@ the management of her condition.</p>
 <p><strong>Time: </strong>5pm - 6pm</p>
 <p><strong>Location: </strong>Online (Zoom link will be sent out closer to
 event date)</p>
-<p><strong>Cost: </strong>Free but registration is required</p>
+<p><strong>Cost: </strong>Free but <a href="https://for.sg/ac-cop-eatingdisorders-and-autism" rel="noopener nofollow" target="_blank">registration</a> is
+required</p>
 <p><strong>Programme details:</strong> Please note that this programme is
 for <strong>professionals only.</strong>
 </p>
