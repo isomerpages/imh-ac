@@ -13,10 +13,7 @@ and find out how to sign up!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>The Autism Collaborative is proud to present:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_of_Practice_Eating_Disorders_and_Autism.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://for.sg/ac-cop-eatingdisorders-and-autism"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_of_Practice_Eating_Disorders_and_Autism.png"></a>
 <p></p>
 <p><strong>Community of Practice: Eating Disorders and Autism</strong>
 </p>
