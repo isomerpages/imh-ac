@@ -82,15 +82,13 @@ required.</p>
 (KKH) is organising the Developmental Paediatrics Conference from <strong>14 to 16 July 2026.</strong> The
 theme of the conference is <em>“</em><strong><em>From awareness to action: Fostering resilience and positive mental health in children and families</em></strong><em>”, </em>emphasising
 the critical role of families and caregivers in supporting children with
-developmental needs.</p>
-<p>&nbsp;</p>
+developmental needs</p>
 <p>The conference will bring together like-minded leading local and international
 professionals, fostering collaboration and exchange among medical professionals,
 allied health practitioners, early intervention specialists, and educators.
 It will highlight the importance of strong partnerships between practitioners
 and families in creating supportive environments that promote resilience
 and mental well-being.</p>
-<p>&nbsp;</p>
 <p>We warmly invite you to save the date. Registrations and call for abstracts
 will open in mid-Jan 2026. To stay updated, please sign up for the <a href="https://for.sg/dpc-enquiry-form" rel="noopener nofollow" target="_blank">mailing list</a>,
 and we look forward to learning and exchanging ideas together at the conference.</p>
