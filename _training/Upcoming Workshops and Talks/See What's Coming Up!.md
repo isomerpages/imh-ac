@@ -75,7 +75,7 @@ required.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KKH_DPC_Poster.png">
 </div>
 <p></p>
-<p><em>On behalf of KKH, the Autism Collaborative would like to share: </em>
+<p><em>On behalf of KKH, the Autism Collaborative is pleased to share the folllowing:</em>
 </p>
 <p></p>
 <p>The Department of Child Development (DCD), KK Women’s and Children’s Hospital
@@ -92,9 +92,8 @@ and families in creating supportive environments that promote resilience
 and mental well-being.</p>
 <p>&nbsp;</p>
 <p>We warmly invite you to save the date. Registrations and call for abstracts
-will open in mid-Jan 2026. To stay updated, please sign up for the mailing
-list, and we look forward to learning and exchanging ideas together at
-the conference.</p>
+will open in mid-Jan 2026. To stay updated, please sign up for the <a href="https://for.sg/dpc-enquiry-form" rel="noopener nofollow" target="_blank">mailing list</a>,
+and we look forward to learning and exchanging ideas together at the conference.</p>
 </div>
 </details>
 </div>
