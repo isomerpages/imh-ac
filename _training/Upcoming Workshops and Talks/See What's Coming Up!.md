@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Workshops and Talks
 ---
-<p>Click on the tabs below for more details about our upcoming training programmes
+<p>Click on the tabs below for more details abou upcoming training programmes
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -62,6 +62,15 @@ required.</p>
 <br>For professionals and parents/caregivers of individuals with autism.</p>
 <p></p>
 <p>Please refer to the poster for more details.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>KK Women's and Children's Hospital Developmental Paediatrics Conference</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
