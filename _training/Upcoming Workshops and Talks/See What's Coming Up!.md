@@ -94,6 +94,9 @@ and mental well-being.</p>
 <p>We warmly invite you to save the date. Registrations and call for abstracts
 will open in mid-Jan 2026. To stay updated, please sign up for the <a href="https://for.sg/dpc-enquiry-form" rel="noopener nofollow" target="_blank">mailing list</a>,
 and we look forward to learning and exchanging ideas together at the conference.</p>
+<p></p>
+<p><em>*Please note that this programme is for professionals only.</em>
+</p>
 </div>
 </details>
 </div>
