@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Online Resources
 ---
-<p>The</p>
+<p>Professionals, caregivers and individuals with autism may find the following
+online resources helpful.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Other Online Resources</summary>
