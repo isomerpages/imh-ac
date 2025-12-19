@@ -31,6 +31,18 @@ resources useful.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Autism_Handbook_for_Parents__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on Caring for Individuals with Autism</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A guidebook developed by the Neurobehavioral Clinic - Autism Services,
+under the Child Guidance Clinic, Institute of Mental Health. This resource
+is for caregivers, to increase an understanding on Autism, communication,
+emotional regulation and support.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Academy of Medicine, Singapore. (2023). <a href="https://www.ams.edu.sg/view-pdf.aspx?file=media%5c6917_fi_934.pdf&amp;ofile=2023+CPG+on+ASD+in+Children+and+Adolescents+Lay+Version.pdf" rel="noopener nofollow" target="_blank"><u>2023 Clinical Practice Guideline on Autism Spectrum Disorder In Children And Adolescents: Lay version.</u></a> Academy
 of Medicine, Singapore.</p>
 </td>
