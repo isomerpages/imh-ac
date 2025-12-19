@@ -627,6 +627,7 @@ and their caregivers to better plan and prepare for the transition to adulthood.
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -749,6 +750,19 @@ such as the:</p>
 <p>Supermarket</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AC_Make_Your_Own_Christmas_Cheer.pdf" rel="noopener noreferrer nofollow" target="_blank">AC Make Your Own Christmas Cheer!</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This is a guide made by the Autism Collaborative on making your own Christmas
+tree - a fun and interactive activity that can be completed with your family
+under 1.5hrs.</p>
+<p></p>
+<p>Merry Christmas to everyone from the Autism Collaborative!</p>
 </td>
 </tr>
 </tbody>
