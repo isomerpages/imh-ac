@@ -627,6 +627,7 @@ and their caregivers to better plan and prepare for the transition to adulthood.
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
