@@ -5,7 +5,7 @@ variant: tiptap
 description: A talk on building communication skills in Autism
 third_nav_title: Past Trainings
 ---
-<h2>Building Communication Skills in Autism</h2>
+<h2>Building Communication Skills in Autism by Ms Amanda Loke</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thumbnail for Building Communication Skills in Autism Talk" src="/images/building_communication_skills_thumbnail.png">
 </div>
