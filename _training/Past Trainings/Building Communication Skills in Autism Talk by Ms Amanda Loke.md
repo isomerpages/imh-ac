@@ -19,6 +19,7 @@ development and community participation for children.</p>
 and how autism can affect language development and social communication.
 She also demonstrates practical communication strategies on supporting
 individuals with autism through daily activities.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qOvvBlXawrM?si=2j2zv_w_fjjEPPpA"></iframe>
 </div>
