@@ -13,7 +13,7 @@ and find out how to sign up!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ADI-R &amp; ADOS-2 Workshop Poster" src="/images/Posters/ADIR_ADOS_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="ADI-R and ADOS-2 Workshop Poster" src="/images/Posters/ADIR_ADOS_Poster__new_.png">
 </div>
 <p>Registrations are now open for the ADI-R and ADOS-2 Workshops.</p>
 <p></p>
@@ -21,7 +21,7 @@ and find out how to sign up!</p>
 <p></p>
 <p>ADOS-2: 22nd to 26th June 2026 (<em>Registration closes on 22nd May</em>)</p>
 <p></p>
-<p>For more details and registration, please write in to <a href="mailto:imh.dcap.training@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.dcap.training@nhghealth.com.sg.</a> 
+<p>For more details and registration, please write in to <a href="mailto:imh.dcap.training@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.dcap.training@nhghealth.com.sg.</a>
 </p>
 </div>
 </details>
