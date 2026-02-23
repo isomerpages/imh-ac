@@ -84,7 +84,25 @@ we will send you the registration form.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>ADIR &amp; ADOS-2 Workshops</strong>
+<summary><strong>ASD Friendly Polyclinic Visits</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recruitment poster for ASD-friendly polyclinic programme" src="/images/Polyclinic_Recruit_Poster_FINAL.png">
+</div>
+<p></p>
+<p>Programme details: CGC Autism is looking for individuals with ASD and
+their caregivers for this programme aimed at developing autism-friendly,
+person-centred care in polyclinics.</p>
+<p></p>
+<p>Scan the QR code or sign up via this <a href="https://form.gov.sg/698d2d6c8333f3adc5cf3a23" rel="noopener nofollow" target="_blank">link</a>!</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>ADI-R &amp; ADOS-2 Workshops</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
