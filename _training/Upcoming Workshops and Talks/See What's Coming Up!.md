@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Workshops and Talks
 ---
-<p>Click on the tabs below for more details abou upcoming training programmes
+<p>Click on the tabs below for more details about upcoming training programmes
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
