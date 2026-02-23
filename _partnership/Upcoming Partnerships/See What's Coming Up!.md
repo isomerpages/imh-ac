@@ -7,6 +7,15 @@ third_nav_title: Upcoming Partnerships
 ---
 <p>Click on the tabs below for more details about our upcoming partnership
 programmes!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Supporting Person-Centred Autism-Friendly Care in Polyclinics</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Updated Assessment Session (ADOS-2)</summary>
