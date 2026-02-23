@@ -12,6 +12,10 @@ programmes!</p>
 <summary>ASD Friendly Polyclinic Visits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recruitment poster for ASD-friendly polyclinic programme" src="/images/Polyclinic_Recruit_Poster_FINAL.png">
+</div>
+<p></p>
 <p>Programme details: CGC Autism is looking for individuals with ASD and
 their caregivers for this programme aimed at developing autism-friendly,
 person-centred care in polyclinics.</p>
