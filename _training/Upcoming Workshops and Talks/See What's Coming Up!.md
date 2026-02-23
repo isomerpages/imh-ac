@@ -38,7 +38,10 @@ Therapy.</p>
 and adolescents and provides a guide and explanation to the objectives
 of the activities described in the program manual and kit.</p>
 <p></p>
-<p>For more information, please reach out to <a href="mailto:imh.dcap.training@nhghealth.com" rel="noopener noreferrer nofollow" target="_blank">imh.dcap.training@nhghealth.com.</a> 
+<p>For more information, please reach out to <a href="mailto:imh.dcap.training@nhghealth.com" rel="noopener noreferrer nofollow" target="_blank">imh.dcap.training@nhghealth.com.</a>
+</p>
+<p></p>
+<p><em>*Please note that this programme is for professionals only.</em>
 </p>
 </td>
 </tr>
