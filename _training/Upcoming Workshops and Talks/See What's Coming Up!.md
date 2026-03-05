@@ -21,13 +21,18 @@ that Enables", an experience sharing session with St. Hilda's Year Head
 and Special Education Needs Officers. Join us as they share about supporting
 children with neurodevelopmental needs in the classroom. There will be
 a facilitated Q&amp;A session at the end, so come with any burning questions
-that you may have. We look forward to seeing you!</p>
+that you may have.</p>
 <p></p>
 <p><strong>Date:</strong> 27th March, 5:30pm to 6:30pm</p>
 <p><strong>Cost:</strong> Free of charge (but registration required)</p>
 <p><strong>Location: </strong>Online Zoom</p>
 <p><strong>Eligibility: </strong>Open to professionals and parents/caregivers
 of individuals with autism.</p>
+<p></p>
+<p>Sign up via this link: <strong><a href="https://for.sg/ac-talk-beyond-support" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/ac-talk-beyond-support</a></strong>
+</p>
+<p></p>
+<p>We look forward to seeing you!</p>
 </div>
 </details>
 </div>
