@@ -17,7 +17,17 @@ and find out how to sign up!</p>
 </div>
 <p></p>
 <p>The Autism Collaborative is pleased to announce "Beyond Support, Care
-that Enables"</p>
+that Enables", an experience sharing session with St. Hilda's Year Head
+and Special Education Needs Officers. Join us as they share about supporting
+children with neurodevelopmental needs in the classroom. There will be
+a facilitated Q&amp;A session at the end, so come with any burning questions
+that you may have. We look forward to seeing you!</p>
+<p></p>
+<p><strong>Date:</strong> 27th March, 5:30pm to 6:30pm</p>
+<p><strong>Cost:</strong> Free of charge (but registration required)</p>
+<p><strong>Location: </strong>Online Zoom</p>
+<p><strong>Eligibility: </strong>Open to professionals and parents/caregivers
+of individuals with autism.</p>
 </div>
 </details>
 </div>
