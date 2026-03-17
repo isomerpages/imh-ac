@@ -41,7 +41,9 @@ QR code or use this <a href="" rel="noopener nofollow" target="_blank">link</a>.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beyond_Support__Care_that_Enables_Poster.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/Beyond_Support__Care_that_Enables_Poster.png">
+</div>
 <p>The Autism Collaborative is pleased to announce "Beyond Support, Care
 that Enables", an experience sharing session with St. Hilda's Year Head
 and Special Education Needs Officers. Join us as they share about supporting
