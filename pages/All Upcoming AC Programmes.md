@@ -8,6 +8,32 @@ description: ""
 programmes and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Community of Practice: The 5-year-old 'Baby'</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for Community of Practice: The 5-year-old 'Baby'" src="/images/Posters/NUH_Community_of_Practice___The_5_year_old_Baby.png">
+</div>
+<p></p>
+<p>The Autism Collaborative is pleased to announce our next <strong>Community of Practice: The 5-year-old 'Baby'</strong>.
+Join us for an evening of case discussion and knowledge-sharing and let
+us share and learn from each other!</p>
+<p></p>
+<p><strong>Date &amp; Time: </strong>Friday, 10th April 2026, 5:30pm - 6:30pm</p>
+<p><strong>Location: </strong>Online Zoom</p>
+<p><strong>Cost:</strong> Free of charge but registration required.</p>
+<p>*Please note that only registered individuals will be admitted into the
+Zoom session.</p>
+<p><strong>Eligibility: </strong>For professionals only.</p>
+<p></p>
+<p>For more information, please refer to the poster. To register, scan the
+QR code or use this <a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Beyond Support, Care that Enables</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -32,30 +58,6 @@ of individuals with autism.</p>
 </p>
 <p></p>
 <p>We look forward to seeing you!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>"Dealing with Feelings" CBT Program</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for &quot;Dealing with Feelings&quot; CBT Workshop" src="/images/cbt_workshop_cover_page.png">
-</div>
-<p></p>
-<p><strong>Registrations are now open </strong>for the "Dealing with Feelings"
-CBT Workshop!</p>
-<p></p>
-<p>For more information, please refer to the poster. If you have any queries,
-please reach out to <a href="mailto:imh.dcap.training@nhghealth.com" rel="noopener noreferrer nofollow" target="_blank">imh.dcap.training@nhghealth.com.</a>
-</p>
-<p></p>
-<p>To register, please email <a href="mailto:imh.dcap.training@nhghealth.com" rel="noopener noreferrer nofollow" target="_blank">imh.dcap.training@nhghealth.com</a> and
-a registration form will be sent to you.</p>
-<p></p>
-<p><em>*Please note that this programme is for professionals only.</em>
-</p>
 </div>
 </details>
 </div>
