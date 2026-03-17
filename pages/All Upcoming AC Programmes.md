@@ -12,7 +12,7 @@ programmes and find out how to sign up!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Community of Practice: The 5-year-old 'Baby'" src="/images/Posters/NUH_Community_of_Practice___The_5_year_old_Baby.png">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for Community of Practice: The 5-year-old Baby" src="/images/NUH_Community_of_Practice___The_5_year_old_Baby.png">
 </div>
 <p></p>
 <p>The Autism Collaborative is pleased to announce our next <strong>Community of Practice: The 5-year-old 'Baby'</strong>.
@@ -28,7 +28,6 @@ Zoom session.</p>
 <p></p>
 <p>For more information, please refer to the poster. To register, scan the
 QR code or use this <a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
-<p></p>
 </div>
 </details>
 </div>
