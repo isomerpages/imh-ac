@@ -70,48 +70,10 @@ look forward to your participation.</p>
 <p>The deadline for the abstract submission is 14th March, 2026.</p>
 <p></p>
 <p>To submit your abstract: scan the QR code in the poster or use this
-<a href="www.kkhdpc2026.com/abstract" rel="noopener nofollow" target="_blank">link</a>.</p>
+<a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
 <p>To register for the conference: scan the QR code in the poster or use
-this <a href="www.kkhdpc2026.com/register" rel="noopener nofollow" target="_blank">link</a>.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/systematic_review_research_poster.png">
-</div>
-<p><strong>Systematic Review on Autistic Meltdowns, Shutdowns and Overwhelm</strong>
-</p>
-<p>A researcher from IMH is conducting a systematic review to better understand
-autistic meltdowns, shutdowns, and overwhelm. To ensure that their work
-reflects real experiences and perspectives, they are looking for 1-2 eligible
-individuals to join their research team to help with the interpretation
-and contextualisation of findings.</p>
-<p></p>
-<p>They are looking for:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Researchers or clinicians that are over the age of 18</p>
-</li>
-<li>
-<p>English-speaking</p>
-</li>
-<li>
-<p>Have an autism diagnosis or self-identify as autistic and have experienced
-meltdowns or shutdowns.</p>
-</li>
-<li>
-<p>Parents or caregivers of autistic children are also welcome.</p>
-</li>
-</ul>
-<p></p>
-<p>If interested, please reach out to: Arunika Pillay at <a href="mailto:arunika.pillay@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">arunika.pillay@nhghealth.com.sg</a> (Email)
-or +65 98552344 (Whatsapp).</p>
+this <a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
 </div>
 </details>
 </div>
