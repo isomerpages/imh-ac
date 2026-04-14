@@ -31,8 +31,10 @@ resources useful.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Autism_Handbook_for_Parents__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on Caring for Individuals with Autism</a>
+<p><a href="/files/Autism_Handbook_for_Parents_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on Caring for Individuals with Autism</a>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A guidebook developed by the Neurobehavioral Clinic - Autism Services,
