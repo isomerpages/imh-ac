@@ -9,62 +9,6 @@ third_nav_title: Upcoming Workshops and Talks
 and find out how to sign up!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Community of Practice: The 5-year-old 'Baby'</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Community of Practice: The 5-year-old Baby" src="/images/NUH_Community_of_Practice___The_5_year_old_Baby.png">
-</div>
-<p></p>
-<p>The Autism Collaborative is pleased to announce our next <strong>Community of Practice: The 5-year-old 'Baby'</strong>.
-Join us for an evening of case discussion and knowledge-sharing and let
-us share and learn from each other!</p>
-<p></p>
-<p><strong>Date &amp; Time: </strong>Friday, 10th April 2026, 5:30pm - 6:30pm</p>
-<p><strong>Location: </strong>Online Zoom</p>
-<p><strong>Cost:</strong> Free of charge but registration required.</p>
-<p>*Please note that only registered individuals will be admitted into the
-Zoom session.</p>
-<p><strong>Eligibility: </strong>For professionals only.</p>
-<p></p>
-<p>For more information, please refer to the poster. To register, scan the
-QR code or use this <a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Beyond Support, Care that Enables</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beyond_Support__Care_that_Enables_Poster.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/Beyond_Support__Care_that_Enables_Poster.png">
-</div>
-<p>The Autism Collaborative is pleased to announce "Beyond Support, Care
-that Enables", an experience sharing session with St. Hilda's Year Head
-and Special Education Needs Officers. Join us as they share about supporting
-children with neurodevelopmental needs in the classroom. There will be
-a facilitated Q&amp;A session at the end, so come with any burning questions
-that you may have.</p>
-<p></p>
-<p><strong>Date:</strong> 27th March, 5:30pm to 6:30pm</p>
-<p><strong>Cost:</strong> Free of charge (but registration required)</p>
-<p><strong>Location: </strong>Online Zoom</p>
-<p><strong>Eligibility: </strong>Open to professionals and parents/caregivers
-of individuals with autism.</p>
-<p></p>
-<p>Sign up via this link: <strong><a href="https://for.sg/ac-talk-beyond-support" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/ac-talk-beyond-support</a></strong>
-</p>
-<p></p>
-<p>We look forward to seeing you!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>ADI-R &amp; ADOS-2 Workshops</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
