@@ -67,4 +67,18 @@ this <a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Study on Grandparents of Children with Autism</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grandparents_asd_study.png">
+</div>
+<p></p>
+<p>Click here to download the <a href="/files/ASD_Grandparents_Recruitment_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">poster.</a>
+</p>
+</div>
+</details>
+</div>
 <p></p>
