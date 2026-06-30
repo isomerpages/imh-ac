@@ -81,4 +81,16 @@ this <a href="" rel="noopener nofollow" target="_blank">link</a>.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Study on Fathers of Children with Autism</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/study_on_fathers_of_children_with_asd.png">
+</div>
+<p>Click here to download the <a href="/files/PIS_fathers_of_ASD_children_V3.pdf" rel="noopener noreferrer nofollow" target="_blank">poster</a>.</p>
+</div>
+</details>
+</div>
 <p></p>
