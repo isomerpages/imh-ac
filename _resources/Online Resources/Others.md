@@ -49,7 +49,7 @@ under 1.5hrs.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Autism_Collaborative_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Autism Collaborative Newsletter - July 2026 Edition</a></strong>
+<p><a href="/files/Autism_Collaborative_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Autism Collaborative Newsletter - July 2026 Edition</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
