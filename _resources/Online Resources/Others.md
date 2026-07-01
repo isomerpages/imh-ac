@@ -59,7 +59,7 @@ Yun, Key Sharings, Research Updates and Upcoming Events!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Autism_Collaborative_Full_Feature_Article_with_Professor_Ho.pdf" rel="noopener nofollow" target="_blank">Full Feature Article on Professor Ho Lai Yun</a>
+<p><a href="/files/Autism_Collaborative_Full_Feature_Article_with_Professor_Ho__A4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Feature Article on Professor Ho</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
