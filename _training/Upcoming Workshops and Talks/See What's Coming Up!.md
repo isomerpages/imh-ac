@@ -89,6 +89,10 @@ with autism.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/When_Diagnostic_Paths_Cross.png">
+</div>
+<p></p>
 <p>The Autism Collaborative is proud is present our latest Community of Practice: <strong>"When Diagnostic Paths Cross: Assessing and Treating Bipolar I Disorder in an individual with Autism."</strong>
 </p>
 <p></p>
