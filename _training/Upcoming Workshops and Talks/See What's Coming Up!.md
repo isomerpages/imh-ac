@@ -83,6 +83,18 @@ with autism.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>When Diagnostics Paths Cross: Assessing and Treating Bipolar I Disorder in an individual with ASD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Posters/When_Diagnostic_Paths_Cross.png">
+</div>
+</div>
+</details>
+</div>
+<p></p>
 <p>Please feel free to contact us at <em><a href="mailto:autism_research@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>imh.autism.research@nhghealth.com.sg</u></a> </em>for
 more information.</p>
 <p></p>
