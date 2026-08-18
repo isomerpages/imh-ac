@@ -20,17 +20,18 @@ and find out how to sign up!</p>
 </p>
 <p></p>
 <p>Join us in exploring the range of feeding challenges experienced by children
-ot</p>
+on the spectrum, the reasons behind them, and learn practical ways to better
+support them.</p>
 <p></p>
-<p>Date &amp; Time: 14 August 2026, 5:30pm - 6:30pm</p>
+<p>Date &amp; Time: 25 September 2026, 5:30pm - 6:30pm</p>
 <p>Location: Online, Zoom</p>
 <p>Cost: Free of charge (but registration required)</p>
 <p></p>
-<p><a href="" rel="noopener nofollow" target="_blank">Sign up here!</a>
+<p><a href="https://for.sg/ac-talk-feedingdifficulties" rel="noopener nofollow" target="_blank">Sign up here!</a>
 </p>
 <p></p>
-<p>Please note that this programme is for professionals only. Only registered
-individuals will be admitted into the Zoom session.</p>
+<p>Please note that this programme is for professionals and parents/caregivers
+of individuals with ASD.</p>
 </div>
 </details>
 </div>
