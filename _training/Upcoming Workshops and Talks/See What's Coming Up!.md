@@ -22,14 +22,14 @@ and find out how to sign up!</p>
 <p>The NUH Interdisciplinary Feeding Team would like to warmly invite you
 and your team to our upcoming&nbsp;NUH Paediatric Feeding Workshop.</p>
 <p></p>
-<p>This two-day workshop brings together our team of physicians, speech therapists,
-dietitians, and psychologists to equip healthcare professionals with team-based
-strategies for assessing and managing feeding difficulties in young children.
-Through panel discussions, case studies, and shared clinical frameworks,
-this workshop offers a wonderful opportunity for participants to gain practical,
-evidence-based skills and leave with the confidence to manage children
-with a wide range of feeding difficulties presenting in their own clinical
-settings.</p>
+<p>This <a href="/files/NUH_Paediatric_Feeding_Workshop_Programme__EXTERNAL_.pdf" rel="noopener noreferrer nofollow" target="_blank">two-day workshop</a> brings
+together our team of physicians, speech therapists, dietitians, and psychologists
+to equip healthcare professionals with team-based strategies for assessing
+and managing feeding difficulties in young children. Through panel discussions,
+case studies, and shared clinical frameworks, this workshop offers a wonderful
+opportunity for participants to gain practical, evidence-based skills and
+leave with the confidence to manage children with a wide range of feeding
+difficulties presenting in their own clinical settings.</p>
 <p></p>
 <p>Please see the poster attached for workshop details and registration fees.
 You may scan the QR code&nbsp;on the attached flyer or click on this link
