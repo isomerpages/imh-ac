@@ -64,10 +64,23 @@ are seeking individuals with ADHD or their caregivers to complete a questionnair
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Study on</strong>  <strong>Autistic Youths' Self-Reported Social Engagement and Social Preferences</strong>
+<summary><strong>Study on Autistic Youths' Self-Reported Social Engagement and Social Preferences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Mapping the Community Participation Gap: Autistic Youths' Self-Reported Social Engagement and Social Preferences in Singapore</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NIE_Social_Engagement_and_Social_Preferences_Study_Poster.png">
+</div>
+<p>Researchers are seeking <strong><em>autistic youth aged 15 to 35 years living in Singapore</em></strong> to
+participate in their study. Participation involves completing a one-time
+online survey, which will take approximately 25 to 35 minutes to complete.
+Upon completion of the survey, participants may also choose to enter a
+lucky draw, where eleven (11) winners will each receive SGD $45 via PayNow.</p>
 <p></p>
+<p>Please refer to the <a href="/files/IRB_2026_625.pdf" rel="noopener noreferrer nofollow" target="_blank">study poster</a> for more information.</p>
+<p></p>
+<p>Interested individuals may register your interest <a href="https://ntusingapore.qualtrics.com/jfe/form/SV_3xZ6jYI2X9DMhZc" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
