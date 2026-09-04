@@ -56,4 +56,21 @@ sign up!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>September Holidays: Sign up for our network &amp; receive a gift!</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_for_September_Stickers_Campaign.png">
+</div>
+<p>For September Holidays, sign up for our community and caregivers network
+and receive a pack of stickers designed by one of our patients!</p>
+<p>*Please note that this promotional activity is intended for the autism
+community and caregivers only. The stickers are only available for collection
+at <strong>CGC-HPB, front counter</strong>. Please <strong>present your FormSG sign-up confirmation page</strong> to
+collect the stickers.</p>
+</div>
+</details>
+</div>
 <p></p>
